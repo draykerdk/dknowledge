@@ -8,4 +8,4 @@
 - 2021 - 2026 - Project and Application
 - 2026 - 2027 - Main Projects  
 
-### [Global Roadmap](Dknowledge/roadmap/global-roadmap.md)
+### [Global Roadmap](/roadmap/global-roadmap.md)
