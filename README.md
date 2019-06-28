@@ -23,10 +23,10 @@
 
 ## 2023 - 2025 - 
  ### Test Global
- ### Computation  
- ### Secure  
- ### A.I moluraring 
- ### Cryptograph 
+  #### Computation  
+  #### Secure  
+  #### A.I moluraring 
+  #### Cryptograph 
  ### Evolutive corrections Global 
  ### Simulated Test Evolutive Global 
  ### Global security competition 
