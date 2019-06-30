@@ -1,6 +1,6 @@
 # Global roadmap
 
-## Real-time Roadmap 
+## Real-time Main projects Roadmap 
 Amendments and milestones should be recorded here 
 
 ## 2012 - 2019 - Intelligence and R&D
@@ -20,7 +20,6 @@ Amendments and milestones should be recorded here
  ### A.I Structures Evolutive
  ### Dknowledge 
  ### Living Cryptography 
-
 
 ## 2023 - 2025 - 
  ### Test Global
