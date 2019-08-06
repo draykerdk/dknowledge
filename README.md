@@ -32,6 +32,8 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 
 ### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
 
+#### Dknowledge
+*The Drayker end Dk knowledge base*
 ![dknowledgeilust.jpg](https://i.pinimg.com/originals/83/ac/a7/83aca7427989b6dde80489b2f3a5f7a8.jpg)
 
 
