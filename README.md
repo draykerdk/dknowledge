@@ -27,9 +27,12 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 - 2027 - 2030 - Drayker 1.0
 
 ## Roadmap Drayker labs projects summary index 
-
+-
+-
 
 ### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
+
+![dknowledgeilust.jpg](https://i.pinimg.com/originals/83/ac/a7/83aca7427989b6dde80489b2f3a5f7a8.jpg)
 
 
 <p xmlns:dct="https://purl.org/dc/terms/">
