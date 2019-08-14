@@ -1,22 +1,43 @@
 # Global Main Roadmap
 
-## Real-time Main Projects Road-map - Projetos principais em tempo real
-Amendments and milestones should be recorded here - Alterações e marcos devem ser registrados aqui
+[English](./[global-main-roadmap.md) | Português | 
+
+### Real-time Main Projects Road-map - Projetos principais em tempo real
+
+> Amendments and milestones should be recorded here - Alterações e
+> marcos devem ser registrados aqui
 
 ## 2012 - 2019 - Intelligence and R&D
-Em 2012 começou o processo de pesquisa e desenvolvimento. Nome, logo e ideia geral da organização em meados de 2010. 
+
+> Em 2012 começou o processo de pesquisa e desenvolvimento. Nome, logo e
+> ideia geral da organização em meados de 2010.
+
 ### Base architecture
 A base da arquitetura do Dk e Plataforma foi criada e está em constante aprimoramento.
+
+**Distributed Kernel**  [**Dk**](https://github.com/draykerdk/DK) 
+O Dk é uma forma de inteligencia baseada em núcleo distribuído, um hibrido entre a inteligencia racional, emergente e coletiva.  
+
 ### Financial
+
 A embaixada da Drayker trabalha arduamente para conseguir financiamento interdependente. 
+
 ## 2019 - 2020 -  Structure 
+
 ### Drayker initial
-Desenvolvemos um modelo para especificação formal de colaboração chamado FDM, que será a base para cooperação do Dk e plataforma.
+
+Desenvolvemos um modelo para especificação formal de colaboração chamado DFM, que será a base para cooperação do Dk e plataforma.
+
+**Distributed Function Modeling** - [**DFM**](https://github.com/draykerdk/DFMP)
+
+A modelagem de funções distribuídas e um método/protocolo generalista que estrutura dados, eventos e ontologias.
 ### Drayker transition
+
 ### Reference Architecture
 
 ## 2020 - 2024 - Engineering  Dk 0.1
-### BSDK 
+### Base Structure DK - [BSDK](https://github.com/draykerdk/bsdk) 
+O sistema base do Dk é uma estrutura de dados de montagem, que forma a base para o DFM
 #### DNA Function Module structure
 #### Function structure
 #### Modeling structure 
@@ -72,4 +93,6 @@ Desenvolvemos um modelo para especificação formal de colaboração chamado FDM
 ## 2027 - 2030 - Drayker 1.0
 ### First Main projects 1.0 
 ### Start building the first embassy
+
+
 
