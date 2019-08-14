@@ -11,7 +11,7 @@ A base da arquitetura do Dk e Plataforma foi criada e está em constante aprimor
 A embaixada da Drayker trabalha arduamente para conseguir financiamento interdependente. 
 ## 2019 - 2020 -  Structure 
 ### Drayker initial
-Desenvolvemos um modelo para especificação formal de colaboração chamado FDM, que será a base para contrançado do Dk e plataforma.
+Desenvolvemos um modelo para especificação formal de colaboração chamado FDM, que será a base para cooperação do Dk e plataforma.
 ### Drayker transition
 ### Reference Architecture
 
