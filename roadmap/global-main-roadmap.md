@@ -1,5 +1,5 @@
 # Global Main Roadmap
-[Português](./[global-main-roadmap.PT.md) | English | 
+[Português](./global-main-roadmap.PT.md) | English | 
 ## Real-time Main Projects Road-map 
 Amendments and milestones should be recorded here 
 
