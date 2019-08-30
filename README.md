@@ -15,8 +15,12 @@ Main projects are scheduled in priority and time queues, separated into main pro
 
 Non-Main projects can be opened and proposed by any contributor through DFMPProject and can be integrated into the Drayker labs organization.
 
-## Roadmap Drayker main projects summary index 
+
+
+## [Roadmap](./roadmap) Drayker main projects summary index 
  
+ ### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
+
 - 2012 - 2019 - Intelligence and R&D
 - 2019 - 2020 -  Structure  
 - 2020 - 2024 - Engeenering Dk
@@ -30,7 +34,7 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 -
 -
 
-### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
+
 
 #### Dknowledge
 *The Drayker and Dk knowledge base*
