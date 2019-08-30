@@ -1,6 +1,6 @@
 # Global Main Roadmap
 
-[English](./[global-main-roadmap.md) | Português | 
+[English](./global-main-roadmap.md) | Português | 
 
 ### Real-time Main Projects Road-map - Projetos principais em tempo real
 
