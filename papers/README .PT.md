@@ -1,4 +1,4 @@
-[Português](./README.PT.md) | English | 
+[English](./README.md) | Português | 
 
 # Motions for a resolutions - DFM Proposal 
 All motions for resolutions presented here are solutions to the requirements of Dk and the Drayker platform and system, only those requirements are definitive. These draft resolutions illustrate what should be done, but the final architecture will be structured on the basis of optimal solutions that are proposed and developed, by intelligent metaprogramming algorithms and organized research.
