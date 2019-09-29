@@ -1,5 +1,3 @@
-
-
 # Global Main Roadmap
 
 [Português](./global-main-roadmap.PT.md) | English | 
@@ -9,7 +7,11 @@
 > Amendments, changes and milestones should be recorded here.
 
 ### RP - DFMP INITIAL - Initial Drayker Resolution Proposals
-> **All proposed resolutions presented here are solutions to the requirements of Dk and Drayker platform and system, only those requirements are final. These motions for resolutions illustrate what should be done, but the definitive architecture will be structured around optimal solutions that are proposed and developed with metaprogramming intelligent algorithms and research organized through DFMP and other methods. **
+> **All proposed resolutions presented here are the solutions to the requirements of Dk and Drayker platform and system, only those requirements are final. These motions for resolutions illustrate what should be done, but the definitive architecture will be structured around optimal solutions that are proposed and developed with metaprogramming intelligent algorithms and research organized through DFMP and other methods. **
+
+### Timing 
+> Dates and times are shallow estimates to give you an idea of priorities, but DFM allows all aspects to be worked on by both independent and interested parties, if any volunteer wants to create a community and discussions about future roles can do it and even start building prototypes. The embassy needs to have a chronological and priority order to direct its focus and resources.
+
 
 ## 2012 - 2019 - Intelligence and R&D
 
@@ -102,6 +104,9 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ## 2027 - 2030 - Drayker 1.0
 ### First Main projects 1.0
 ### Start building the first embassy
+
+
+
 
 
 
