@@ -10,7 +10,7 @@
 > **Todas as propostas de resolução apresentadas aqui são soluções para os requisitos do Dk e da plataforma e sistema da Drayker, apenas esses requisitos são definitivos. Essas propostas de resolução ilustram o que deve ser feito, porém a arquitetura definitiva será estruturada com base nas soluções ótimas que forem propostas e desenvolvidas com algoritmos inteligentes de metaprogramação e pesquisas organizadas através do DFMP e outros métodos.**
 
 ### Timing 
-> As datas e tempos são estimativas rasas para dar uma ideia de prioridades, porém, o DFM possibilita com que todos os aspectos sejam trabalhados ao mesmo tempo por partes interessadas e independentes, se algum voluntário quiser criar uma comunidade e discussões em torno de funções futuras poderá fazê-lo e até mesmo começar a construir protótipos. porém a embaixada precisa ter uma ordem cronológica e de prioridades para direcionar seu foco e recursos. 
+> As datas e tempos são estimativas rasas para dar uma ideia de prioridades, porém, o DFM possibilita com que todos os aspectos sejam trabalhados ao mesmo tempo por partes interessadas e independentes, se algum voluntário quiser criar uma comunidade e discussões em torno de funções futuras poderá fazê-lo e até mesmo começar a construir protótipos. A embaixada precisa ter uma ordem cronológica e de prioridades para direcionar seu foco e recursos.
 
 ## 2012 - 2019 - Intelligence and R&D
 
