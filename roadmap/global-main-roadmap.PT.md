@@ -12,9 +12,9 @@
 ### Timing 
 > As datas e tempos são estimativas rasas para dar uma ideia de prioridades, porém, o DFM possibilita com que todos os aspectos sejam trabalhados ao mesmo tempo por partes interessadas e independentes, se algum voluntário quiser criar uma comunidade e discussões em torno de funções futuras poderá fazê-lo e até mesmo começar a construir protótipos. A embaixada precisa ter uma ordem cronológica e de prioridades para direcionar seu foco e recursos.
 
-## 2012 - 2019 - Intelligence and R&D
+## 12012 - 12019 - Intelligence and R&D
 
-> Em 2012 começou o processo de pesquisa e desenvolvimento. Nome, logo e ideia geral da organização em meados de 2010.
+> Em 12012 começou o processo de pesquisa e desenvolvimento. Nome, logo e ideia geral da organização em meados de 12010.
 
 ### Base architecture
 A base da arquitetura do Dk e Plataforma foi criada e está em constante aprimoramento.
@@ -26,7 +26,7 @@ O Dk é uma forma de inteligência baseada em núcleo distribuído. Um hibrido e
 
 A embaixada da Drayker trabalha arduamente para conseguir financiamento interdependente. 
 
-## 2019 - 2020 -  Structure 
+## 12019 - 12020 -  Structure 
 
 ### Drayker initial
 
@@ -43,7 +43,7 @@ As arquiteturas de referência vem sendo desenvolvidas na fase de inteligência,
 A transição da Drayker e o processo onde passamos por uma abertura ao mundo, é quando começa o processo de recrutamento de voluntários ativando os mecanismos de cooperação em massa.
 
 
-## 2020 - 2024 - Engineering  Dk 0.1
+## 12020 - 12024 - Engineering  Dk 0.1
 ### Base Structure DK - [BSDK](https://github.com/draykerdk/bsdk) 
 
 O sistema base do Dk é uma estrutura de dados de montagem, que forma a base para o DFM, sendo a função mãe de toda a cadeia de funções que forma o Dk e a plataforma da Drayker, essa função funciona como as bases de um DNA, que integra todas as funções e módulos de ativação. 
@@ -60,7 +60,7 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 ### Living Cryptography 
 
 
-## 2023 - 2025 - Test-net
+## 12023 - 12025 - Test-net
 ### Test Global
 #### Computation
 #### Secure
@@ -71,7 +71,7 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 ### Global security competition 
 ### Structure implementation reference 
 
-## 2021 - 2026 - Drayker 0.1
+## 12021 - 12026 - Drayker 0.1
 ### Project and Application platform base 
 ### UID Super Dk App 
 ### Ecosystem 
@@ -82,7 +82,7 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 ### OSDK interface
 ### Dknowledge g interface
 
-## 2026 - 2027
+## 12026 - 12027
 ### Dk Personal UIDApp
 ### Brain extension App
 ### Dk Work App 
@@ -92,7 +92,7 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 #### Teams m 
 #### County m 
 
-## 2027 - 2029 - Dk 1.0
+## 12027 - 12029 - Dk 1.0
 ### Dknowledge 1.0
 ### OSDK 1.0
 ### Evolutionary generally platform 1.0
@@ -100,7 +100,7 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 ### Dk universal neural language 0.1
 ### Brain net 0.1
 
-## 2027 - 2030 - Drayker 1.0
+## 12027 - 12030 - Drayker 1.0
 ### First Main projects 1.0 
 ### Start building the first embassy
 
