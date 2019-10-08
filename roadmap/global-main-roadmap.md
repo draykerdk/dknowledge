@@ -13,9 +13,9 @@
 > Dates and times are shallow estimates to give you an idea of priorities, but DFM allows all aspects to be worked on by both independent and interested parties, if any volunteer wants to create a community and discussions about future roles can do it and even start building prototypes. The embassy needs to have a chronological and priority order to direct its focus and resources.
 
 
-## 2012 - 2019 - Intelligence and R&D
+## 12012 - 12019 - Intelligence and R&D
 
-> In 2012 the process of research and development began. Name, logo and general idea of ​​the organization in mid 2010.
+> In 12012 the process of research and development began. Name, logo and general idea of ​​the organization in mid 12010.
 
 ### Base architecture
 The foundation of the Dk and Platform architecture has been built and is constantly improving.
@@ -27,7 +27,7 @@ Dk is a form of distributed kernel based intelligence. A hybrid between rational
 
 Drayker embassy works hard to get interdependent funding.
 
-## 2019 - 2020 - Structure
+## 12019 - 12020 - Structure
 
 ### Drayker initial
 
@@ -44,7 +44,7 @@ The reference architectures have been developed in the intelligence phase, in th
 Drayker transition and the process of going through an opening to the world is when the volunteer recruitment process begins by activating the mass cooperation mechanisms.
 
 
-## 2020 - 2024 - Engineering Dk 0.1
+## 12020 - 12024 - Engineering Dk 0.1
 
 ### Base Structure DK - [BSDK](https://github.com/draykerdk/bsdk)
 Dk base system is an assembly data structure, which forms the basis for DFM, being the parent function of the entire function chain that forms Dk and the Drayker platform, these functions as the basis of a DNA, which integrates all functions and activation modules.
@@ -61,7 +61,7 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ### Living Cryptography
 
 
-## 2023 - 2025 - Test-net
+## 12023 - 12025 - Test-net
 ### Test Global
 #### Computation
 #### Secure
@@ -72,7 +72,7 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ### Global security competition
 ### Structure implementation reference
 
-## 2021 - 2026 - Drayker 0.1
+## 12021 - 12026 - Drayker 0.1
 ### Project and Application platform base
 ### UID Super Dk App
 ### Ecosystem
@@ -83,7 +83,7 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ### OSDK interface
 ### Dknowledge g interface
 
-## 2026 - 2027
+## 12026 - 12027
 ### Dk Personal UIDApp
 ### Brain extension App
 ### Dk Work App
@@ -93,7 +93,7 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 #### Teams m
 #### County m
 
-## 2027 - 2029 - Dk 1.0
+## 12027 - 12029 - Dk 1.0
 ### Dknowledge 1.0
 ### OSDK 1.0
 ### Evolutionary generally platform 1.0
@@ -101,7 +101,7 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ### Universal Dk neural language 0.1
 ### Brain net 0.1
 
-## 2027 - 2030 - Drayker 1.0
+## 12027 - 12030 - Drayker 1.0
 ### First Main projects 1.0
 ### Start building the first embassy
 
