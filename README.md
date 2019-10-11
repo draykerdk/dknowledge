@@ -1,4 +1,4 @@
-# Dknowledge is Drayker knowledge base v0.0.0
+# Dknowledge is Drayker knowledge base v0.0.1
 
 [Português](./README.PT.md) | English | 
 
@@ -25,8 +25,8 @@ Main projects are scheduled in priority and time queues, separated into main pro
 
 Non-Main projects can be opened and proposed by any contributor through DFMPProject and can be integrated into the Drayker labs organization.
 
-
-
+[learn how to collaborate](./CONTRIBUTING.md)
+ 
 ## [Roadmap](./roadmap) Drayker main projects summary index 
  
 ### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
