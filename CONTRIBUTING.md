@@ -1,3 +1,4 @@
+[Português](./CONTRIBUTING.PT.md) | English | 
 
 # Drayker Volunteer Backpacker's Guide
 If you want to make simple repairs or improvements to DKnowledge, you can send your pull request directly to branch peer review or community review.
