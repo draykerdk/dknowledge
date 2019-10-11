@@ -40,27 +40,28 @@ The entire process is documented and optimized so that anyone in the world can r
 
 To participate, you can choose a method for your proposal that best fits your project or resolution.
 
-### DFMP
+### [DFMP](https://github.com/draykerdk/DFMP)
 
 > Agile development models and scientific method.
 Falsificationism
 Deductive hypothetical method
 Bayesian Process and the Occam's razor
 
-### MetaDFM
+### [MetaDFM](https://github.com/draykerdk/MetaDFMP)
 
 > A.I modeling, simulation and various techniques for building optimal solutions and metaprogramming.
 
-### DFMPProject 
+### [DFMPProject](https://github.com/draykerdk/DFMPProject) 
 
 > Voluntary and collaborative project creation models related to Drayker and its ecosystem.
 
-### Emergence initiative 
+### [Emergence initiative](https://github.com/draykerdk/emergence-initiative) 
 > Proposals, projects and general initiatives of volunteers outside the DFM models or with their own methodology can be organized in this repository and community.
 
 > No permission is required, any volunteer can create their outreach, content, proposals and protocols as they please.
 
 > In the EI repository, volunteers can expose their projects and initiatives, get volunteers, ideas, help, crowdfunding, support, and many other resources, and can also be used as a forum for Drayker-related initiatives. 
+
 
 ## OPERATION
 
