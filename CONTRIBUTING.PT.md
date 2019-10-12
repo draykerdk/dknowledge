@@ -1,4 +1,4 @@
-[English](https://github.com/draykerdk/dknowledge/edit/master/CONTRIBUTING.md) | [Português](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.PT.md) | 
+[English](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.md) | [Português](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.PT.md) | 
 
 
 # Drayker Volunteer Backpacker's Guide
