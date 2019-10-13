@@ -41,18 +41,18 @@ The entire process is documented and optimized so that anyone in the world can r
 
 To participate, you can choose a method for your proposal that best fits your project or resolution.
 
-### [DFMP](https://github.com/draykerdk/DFMP)
+### [DFMP](https://github.com/draykerdk/dfmp)
 
 > Agile development models and scientific method.
 Falsificationism
 Deductive hypothetical method
 Bayesian Process and the Occam's razor
 
-### [MetaDFM](https://github.com/draykerdk/MetaDFMP)
+### [MetaDFM](https://github.com/draykerdk/metadfmp)
 
 > A.I modeling, simulation and various techniques for building optimal solutions and metaprogramming.
 
-### [DFMPProject](https://github.com/draykerdk/DFMPProject) 
+### [DFMPProject](https://github.com/draykerdk/dfmpproject) 
 
 > Voluntary and collaborative project creation models related to Drayker and its ecosystem.
 
