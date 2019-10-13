@@ -39,18 +39,18 @@ O modelo mais usado para o DFM nos projetos principais é a metaprogramação, o
 
 Todo o processo é documentado e otimizado, de forma que qualquer pessoa do mundo pode revisar e colaborar com a proposta, buscando as melhores soluções para as necessidades apresentadas. 
 
-### [DFMP](https://github.com/draykerdk/DFMP)
+### [DFMP](https://github.com/draykerdk/dfmp)
 
 > Agile development models and scientific method.
 Falsificationism
 Deductive hypothetical method
 Bayesian Process and the Occam's razor
 
-### [MetaDFM](https://github.com/draykerdk/MetaDFMP)
+### [MetaDFM](https://github.com/draykerdk/metadfmp)
 
 > A.I modeling, simulation and various techniques for building optimal solutions and metaprogramming.
 
-### [DFMPProject](https://github.com/draykerdk/DFMPProject) 
+### [DFMPProject](https://github.com/draykerdk/dfmpproject) 
 
 > Voluntary and collaborative project creation models related to Drayker and its ecosystem.
 
