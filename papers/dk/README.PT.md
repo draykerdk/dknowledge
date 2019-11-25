@@ -1,5 +1,5 @@
 # Dk Proposals 
-[English](./README.md) | Português | 
+[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
 Propostas técnicas gerais e infraestrutura de rede Dk
 
