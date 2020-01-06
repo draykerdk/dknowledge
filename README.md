@@ -47,7 +47,7 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 ![dknowledgeilust.jpg](https://i.pinimg.com/originals/83/ac/a7/83aca7427989b6dde80489b2f3a5f7a8.jpg)
 
 ### Social media 
-[Steemit](https://steemit.com/@drayker) | [Twitter](https://twitter.com/Draykerdk) |  [Medium](https://medium.com/drayker)
+| [Steemit](https://steemit.com/@drayker) | [Twitter](https://twitter.com/Draykerdk) |  [Medium](https://medium.com/drayker) |
 
 
 
