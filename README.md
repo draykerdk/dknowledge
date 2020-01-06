@@ -14,11 +14,7 @@ Data structure and intelligent network that supports intelligent algorithms and 
 
 
 # [Papers](./papers)
-[Dk](./papers/dk)
-
-[Ecosystem](./papers/ecosystem)
-
-[Organization](./papers/organization)
+[Dk](./papers/dk) | [Ecosystem](./papers/ecosystem) | [Organization](./papers/organization)
 
 # Timing
 Main projects are scheduled in priority and time queues, separated into main projects of today and tomorrow, all efforts and resources have them as a priority and are integrated into the Drayker organization.
@@ -49,6 +45,10 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 #### Dknowledge
 *The Drayker and Dk knowledge base*
 ![dknowledgeilust.jpg](https://i.pinimg.com/originals/83/ac/a7/83aca7427989b6dde80489b2f3a5f7a8.jpg)
+
+### Social media 
+[Steemit](https://steemit.com/@drayker) | [Twitter](https://twitter.com/Draykerdk) |  [Medium](https://medium.com/drayker)
+
 
 
 <p xmlns:dct="https://purl.org/dc/terms/">
