@@ -38,3 +38,19 @@ slogan: 'The Drayker Knowledge Base'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
+
+
+# Test functions 
+# make search bar appear in top nav?
+search_in_topnav: true
+
+# make search bar appear in sidebar?
+search_in_sidebar: false
+
+
+
+
+
+
+
+
