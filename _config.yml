@@ -42,10 +42,10 @@ slogan: 'The Drayker Knowledge Base'
 
 # Test functions 
 # make search bar appear in top nav?
-search_in_topnav: true
+search_in_topnav: false
 
 # make search bar appear in sidebar?
-search_in_sidebar: false
+search_in_sidebar: true
 
 
 
