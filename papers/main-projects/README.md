@@ -6,11 +6,11 @@ All motions for resolutions presented here are solutions to the requirements of 
 ### Main Projects
 The main projects are minimum proposals of initial structure, forming initial structures that guarantee the operation, until the final application, where the Dk will assume its evolutionary development.
 
-[Dk](./main-projects/dk)
+[Dk](./dk)
 
-[Ecosystem](./main-projects/ecosystem)
+[Ecosystem](./ecosystem)
 
-[Organization](./main-projects/organization)
+[Organization](./organization)
 
 
 
