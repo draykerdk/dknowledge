@@ -8,16 +8,13 @@ O Dknowledge também será a base para todos os dados, sensores, arquivos, orác
 ##  [Drayker](./papers/)
 Drayker is here to help you get organized and solve problems through Dk based ecosystem and platform-based projects and applications. Functioning as an unified computing and internet platform of general use, focused on human organization.
 
-##  [Dk](./papers/dk)
+##  [Dk](./papers/main-projects/dk)
 Data structure and intelligent network that supports intelligent algorithms and integrates them into a distributed evolutionary super intelligence that supports the Drayker ecosystem.
 
 
 # [Papers](./papers)
-[Dk](./papers/dk)
+[Dk](./papers/main-projects/dk) | [Ecosystem](./papers/main-projects/ecosystem) | [Organization](./papers/main-projects/organization)
 
-[Ecosystem](./papers/ecosystem)
-
-[Organization](./papers/organization)
 # Timing
 Main projects are scheduled in priority and time queues, separated into main projects of today and tomorrow, all efforts and resources have them as a priority and are integrated into the Drayker organization.
 
@@ -30,11 +27,11 @@ Non-Main projects can be opened and proposed by any contributor through DFMPProj
 ### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
 
 - 12012 - 12019 - Intelligence and R&D
-- 12019 - 12020 -  Structure  
+- 12019 - 12020 -  Structure 
 - 12020 - 12024 - Engeenering Dk
 - 12023 - 12025 - Test
 - 12021 - 12026 - Drayker 0.1
-- 12026 - 12027 - Main projects and applications   
+- 12026 - 12027 - Main projects and applications 
 - 12027 - 12029 - Dk 1.0
 - 12027 - 12030 - Drayker 1.0
 
