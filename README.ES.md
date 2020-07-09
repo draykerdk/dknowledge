@@ -8,16 +8,16 @@ O Dknowledge também será a base para todos os dados, sensores, arquivos, orác
 ##  [Drayker](./papers/)
 Drayker is here to help you get organized and solve problems through Dk based ecosystem and platform-based projects and applications. Functioning as an unified computing and internet platform of general use, focused on human organization.
 
-##  [Dk](./papers/dk)
+##  [Dk](./papers/main-projects/dk)
 Data structure and intelligent network that supports intelligent algorithms and integrates them into a distributed evolutionary super intelligence that supports the Drayker ecosystem.
 
 
 # [Papers](./papers)
-[Dk](./papers/dk)
+[Dk](./papers/main-projects/dk)
 
-[Ecosystem](./papers/ecosystem)
+[Ecosystem](./papers/main-projects/ecosystem)
 
-[Organization](./papers/organization)
+[Organization](./papers/main-projects/organization)
 # Timing
 Main projects are scheduled in priority and time queues, separated into main projects of today and tomorrow, all efforts and resources have them as a priority and are integrated into the Drayker organization.
 
