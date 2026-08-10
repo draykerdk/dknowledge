@@ -1,0 +1,35 @@
+schema_version: 1
+component:
+  id: dknowledge
+  name: Dknowledge
+  layer: KNOWLEDGE
+  artifact_type: knowledge-base
+  problem: Keep the public vision, architecture, papers and historical roadmaps of Drayker connected to their sources.
+  scope:
+    - Public documentation and knowledge history for Drayker and Dk.
+    - Clear distinction between current orientation and historical material.
+  non_scope:
+    - The private local Dknowledger vault.
+    - An operational distributed data, sensor, oracle or ontology platform.
+  dependencies:
+    - dk
+    - dfmp
+    - daf
+  implementation:
+    level: operational
+    scope: The public documentation site is deployed; the broader knowledge-system vision is not implemented.
+    evidence:
+      - type: deployment
+        ref: https://dknowledge.drayker.org
+      - type: document
+        ref: README.md
+  risks:
+    - Historical roadmaps can be mistaken for current commitments.
+    - The long-term knowledge-system vision can be confused with the deployed documentation site.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/dknowledge/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/dknowledge
+    path: README.md
+  last_reviewed: "2026-08-10"

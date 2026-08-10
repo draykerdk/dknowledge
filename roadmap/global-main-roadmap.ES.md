@@ -1,5 +1,7 @@
 # Global Main Roadmap
 
+> **Material histórico.** Conservado como historia del diseño; no es un calendario, compromiso, lista de responsables ni afirmación de implementación actual. Consulte la [orientación actual](../CURRENT.md).
+
 [English](./global-main-roadmap.md) | [Português](./global-main-roadmap.PT.md) |  [Español](./global-main-roadmap.ES.md)
 
 ### Real-time Main Projects Road-map - Projetos principais em tempo real
@@ -103,7 +105,6 @@ O sistema base do Dk é uma estrutura de dados de montagem, que forma a base par
 ## 12027 - 12030 - Drayker 1.0
 ### First Main projects 1.0 
 ### Start building the first embassy
-
 
 
 

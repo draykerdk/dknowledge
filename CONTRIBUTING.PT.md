@@ -3,7 +3,7 @@
 
 # Drayker Volunteer Backpacker's Guide
 
-Caso queira fazer consertos ou melhorias simples no DKnowledge, pode mandar seu pull request diretamente para a branch peer-review ou community review.
+Para consertos ou melhorias, abra ou referencie uma issue, trabalhe em uma branch da contribuição e envie um pull request para `master`. Não existe uma branch `peer-review` ou `community-review` ativa.
 
 ## Estrutura de colaboração universal temporária 0.01 v
 
@@ -69,6 +69,5 @@ Cada método tem um repositório específico, dentro desse repositório podem se
 Quando uma proposta de resolução é aplicada a um projeto, ela deve usar um dos métodos, e passar pelo protocolo até ser aprovada como projeto secundário, incorporada no projeto principal ou outros projetos.
 
 Ambiente de falseabilidade, atacando ideias e propostas por todos os lados e propondo soluções.
-
 
 

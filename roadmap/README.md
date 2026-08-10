@@ -1,6 +1,8 @@
 # Roadmap
 [English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
+> **Historical material.** This roadmap is preserved as context. It is not the current execution plan, schedule, assignment list or implementation evidence. Start with [Current orientation](../CURRENT.md).
+
 ## Global main roadmap [English](./global-main-roadmap.md)
 The structure of roadmaps and task organization works with a global view of the main projects, where all major projects and their main modules and functions are specified and structured giving a global view of Drayker.
 

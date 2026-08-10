@@ -4,8 +4,9 @@ Its first versions exist to get volunteers and stakeholders into the ecosystem. 
 
 ## What is here
 
+- **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
 - **[Papers](./papers)** — organised by main project rather than by date or author: [Dk](./papers/main-projects/dk), [ecosystem](./papers/main-projects/ecosystem), [organization](./papers/main-projects/organization).
-- **[Roadmap](./roadmap)** — the [global main roadmap](./roadmap/global-main-roadmap.md) and the phases the main projects are scheduled in.
+- **[Historical roadmap](./roadmap)** — older structures and planning documents preserved as context, not a current schedule or commitment.
 - **[CONTRIBUTING](./CONTRIBUTING.md)** — how to collaborate.
 - **[Code of conduct](./CODE_OF_CONDUCT.md)**.
 
@@ -19,7 +20,7 @@ A complex system needs memory that can be *followed*, not just information that 
 
 ## State of this documentation
 
-The most complete documentation in the Drayker ecosystem — start here if you are new. It is also the oldest: parts of the roadmap and several papers predate the current shape of the projects, so read dates before treating anything as current.
+The most complete documentation in the Drayker ecosystem — start with [Current orientation](./CURRENT.md) if you are new. It is also the oldest: parts of the roadmap and several papers predate the current shape of the projects, so read dates before treating anything as current.
 
 ## Contributing
 
