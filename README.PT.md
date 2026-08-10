@@ -1,62 +1,22 @@
-# Dknowledge is Drayker knowledge base v0.0.0
-[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
+# Dknowledger — camada pública de conhecimento da Drayker
 
-As primeiras versões do Dknowledge visam iniciar voluntários e partes interessadas no ecossistema Drayker e, no futuro, será um banco de dados estruturado, destinado a tornar mais acessível todo o conhecimento gerado pela Drayker e o Dk.
+[English](./README.md) · **Português** · [Español](./README.ES.md)
 
-O Dknowledge também será a base para todos os dados, sensores, arquivos, oráculos, processos e ontologias do Dk, com dados públicos, federados e privados.
+O Dknowledger mantém a orientação atual, os papers, a arquitetura, as decisões, as evidências e o histórico da Drayker e do Dk conectados às suas fontes. O site público está em **[dknowledger.drayker.org](https://dknowledger.drayker.org)**.
 
-##  [Drayker](./papers/)
-Drayker is here to help you get organized and solve problems through Dk based ecosystem and platform-based projects and applications. Functioning as an unified computing and internet platform of general use, focused on human organization.
+## Comece pelo estado atual
 
-##  [Dk](./papers/main-projects/dk)
-Data structure and intelligent network that supports intelligent algorithms and integrates them into a distributed evolutionary super intelligence that supports the Drayker ecosystem.
+- **[Orientação atual](./CURRENT.md):** o que está disponível agora, o que continua sendo arquitetura e como funciona a governança da fase fundadora.
+- **[Papers](./papers):** requisitos e propostas agrupados pelo projeto ao qual pertencem.
+- **[Roadmap histórico](./roadmap):** estruturas antigas preservadas como contexto, não como cronograma ou compromisso atual.
+- **[Como contribuir](./CONTRIBUTING.PT.md):** fluxo aberto de issues, branches e pull requests para `master`.
 
+## Limite de evidência
 
-# [Papers](./papers)
-[Dk](./papers/main-projects/dk) | [Ecosystem](./papers/main-projects/ecosystem) | [Organization](./papers/main-projects/organization)
+O repositório e o site formam uma base pública de documentação operacional. A visão mais ampla — conhecimento estruturado para dados, sensores, arquivos, oráculos, processos e ontologias em camadas públicas, federadas e privadas — é uma direção de arquitetura, não um sistema distribuído em funcionamento.
 
-# Timing
-Main projects are scheduled in priority and time queues, separated into main projects of today and tomorrow, all efforts and resources have them as a priority and are integrated into the Drayker organization.
+O cofre local privado, o contexto pessoal e a memória de agentes não são publicados aqui. Só aparece no site o material intencionalmente versionado neste repositório público.
 
-Non-Main projects can be opened and proposed by any contributor through DFMPProject and can be integrated into the Drayker labs organization.
+## Uma contribuição útil
 
-
-
-## [Roadmap](./roadmap) Drayker main projects summary index 
- 
-### [Global Main Roadmap](/roadmap/global-main-roadmap.md)
-
-- 12012 - 12019 - Intelligence and R&D
-- 12019 - 12020 -  Structure 
-- 12020 - 12024 - Engeenering Dk
-- 12023 - 12025 - Test
-- 12021 - 12026 - Drayker 0.1
-- 12026 - 12027 - Main projects and applications 
-- 12027 - 12029 - Dk 1.0
-- 12027 - 12030 - Drayker 1.0
-
-
-## Roadmap Drayker labs projects summary index 
--
--
-
-
-
-#### Dknowledge
-*The Drayker and Dk knowledge base*
-![dknowledgeilust.jpg](https://i.pinimg.com/originals/83/ac/a7/83aca7427989b6dde80489b2f3a5f7a8.jpg)
-
-
-<p xmlns:dct="https://purl.org/dc/terms/">
-  <a rel="license"
-     href="https://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://github.com/draykerdk">
-    <span property="dct:title">Collaborator and Drayker</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Drayker Contributions </span>.
-</p>
+Abra uma issue para corrigir uma afirmação, conectar uma fonte, preencher um paper vazio ou atualizar uma tradução. O histórico do Git é a trilha de auditoria; nesta fase, a embaixada e o embaixador também podem editar e integrar diretamente pelo fluxo tradicional do Git.
