@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="50%" r="48%">
+      <stop offset="0" stop-color="#FF5500" stop-opacity=".22"/>
+      <stop offset=".58" stop-color="#FF5500" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#08080A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08080A"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <path d="M72 106h98" stroke="#FF5500" stroke-width="5"/>
+  <text x="72" y="180" fill="#8585A0" font-family="JetBrains Mono, monospace" font-size="18" letter-spacing="5">PUBLIC KNOWLEDGE LAYER · DRAYKER</text>
+  <text x="72" y="292" fill="#EDECF0" font-family="Archivo, Arial, sans-serif" font-size="82" font-weight="600" letter-spacing="-4">Dknowledger</text>
+  <text x="72" y="366" fill="#FF5500" font-family="Archivo, Arial, sans-serif" font-size="48" font-weight="500" letter-spacing="-2">Knowledge that keeps its source.</text>
+  <text x="74" y="432" fill="#9898A8" font-family="Archivo, Arial, sans-serif" font-size="23">Orientation · papers · architecture · decisions · evidence</text>
+  <text x="74" y="530" fill="#6A6A80" font-family="JetBrains Mono, monospace" font-size="17" letter-spacing="3">DKNOWLEDGER.DRAYKER.ORG</text>
+  <circle cx="971" cy="319" r="155" fill="none" stroke="#18181E"/>
+  <circle cx="971" cy="319" r="204" fill="none" stroke="#18181E"/>
+  <image href="logo/drayker-marca.svg" x="800" y="148" width="342" height="342"/>
+</svg>

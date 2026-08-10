@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dknowledge.drayker.org/sitemap.xml
+Sitemap: https://dknowledger.drayker.org/sitemap.xml
