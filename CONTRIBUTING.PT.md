@@ -1,73 +1,38 @@
-[English](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.md) | [Português](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.PT.md) | 
+# Contribuindo com o Dknowledger
 
+**Português** · [English](./CONTRIBUTING.md)
 
-# Drayker Volunteer Backpacker's Guide
+O Dknowledger é uma base pública e aberta de conhecimento. Contribuições úteis incluem corrigir uma afirmação, conectar uma fonte, preencher um paper vazio, melhorar a navegação ou sincronizar uma tradução.
 
-Para consertos ou melhorias, abra ou referencie uma issue, trabalhe em uma branch da contribuição e envie um pull request para `master`. Não existe uma branch `peer-review` ou `community-review` ativa.
+## Fluxo Git atual
 
-## Estrutura de colaboração universal temporária 0.01 v
+1. Abra ou referencie uma issue descrevendo a lacuna e a evidência por trás da mudança.
+2. Crie uma branch focada a partir de `master`.
+3. Altere o menor conjunto coerente de documentos.
+4. Quando o site ou o catálogo mudar, rode:
 
-Qualquer pessoa no mundo pode revisar e construir seus próprios artigos e códigos, e mandar para o repositório, contando que sigam o designer do paper, caso queira desenvolver uma ideia, a pessoa pode se reunir com outros voluntários interessados da comunidade para criar um paper. 
+   ```sh
+   node tools/build-catalog.js
+   node tools/site-check.js
+   ```
 
-### Timing
-Os projetos principais são fatiados em níveis e módulos, com prioridades e tempos diferentes, cada nível e módulo pode ser cortado em diferentes funções, e as funções podem ser divididas entre uma equipe ou qualquer outro grupo de pessoas ou pessoa individual. 
+5. Abra um pull request para `master` e conecte-o à issue.
 
-Os níveis de prioridade são definidos por partes primárias, onde outros módulos são dependentes de sua conclusão, como exemplo, o Dk em si é dependente da conclusão da estrutura de computação, rede inteligente e evolutiva BSDK que é dependente de algoritmos de A.I e metaprogramação, que é dependente de modelos de evolutivos e altoML, que é dependente da organização de voluntários e propostas de resolução ótimas.
+Não existe branch ativa de `peer-review` ou `community-review`. Durante a fase fundadora, a contribuição continua aberta e a embaixada e o embaixador também podem editar, integrar e corrigir diretamente pelo fluxo tradicional do Git. A fonte versionada de governança está em [`draykerdk/.github`](https://github.com/draykerdk/.github).
 
-Esses níveis de prioridade são altamente dependentes um do outro, de forma que, a conclusão de um leva a priorização do próximo, e todas as atualizações vão ficando em segundo plano, e abertas aos voluntários, para correção e otimização.
+## Regras de evidência
 
-Então cada função e módulo tem suas dependências, as dependências tem prioridade maior, o que não significa que outras funções não possam ser trabalhadas.
+- Separe o que está disponível agora do que é proposto ou histórico.
+- Ligue afirmações a repositórios, documentos, issues, pull requests, testes ou deployments quando existirem.
+- Não apresente um roadmap antigo como cronograma atual.
+- Não publique conteúdo do cofre privado, contexto pessoal, credenciais ou memória de agentes.
+- Preserve datas e o histórico de substituição ao atualizar material antigo.
 
-Tanto pessoas individuais quanto equipes podem trabalhar no modelo DFM de maneira independente em qualquer lugar do mundo, entregando papers em um processo de desenvolvimento, ou revisando papers entregues, se baseando nos projetos principais, equipes ou pessoas também podem enviar propostas de resolução através de um paper e até mesmo pedir financiamento e suporte.
+## Boas primeiras contribuições
 
-### Desenvolvimento
+- Um dos 16 papers em inglês contém apenas o título: escreva seu escopo e conecte as fontes.
+- Compare uma tradução com o documento em inglês e corrija o que ficou para trás.
+- Encontre uma afirmação que não corresponde mais ao contrato do componente e abra uma issue de correção.
+- Melhore o catálogo gerado ou a acessibilidade de [dknowledger.drayker.org](https://dknowledger.drayker.org).
 
-A partir do paper, todas as funções podem começar a ser desenvolvidas, sendo o ideal começar pelo nível de prioridade. 
-
-Em um projeto aberto, as funções são distribuídas, qualquer pessoa pode trabalhar em funções específicas, o paper serve para dar uma visão geral das funções, podendo ser atualizado com o tempo, as funções também podem ser quebradas em funções menores e o recomendado é que cada função seja independente, e que apenas os módulos tenham dependências funcionais.
-
-Um módulo pode não ser independente, pois precisa de funções para seu funcionamento, já uma função deve ser independente e cumprir, bem, uma única função, assim os módulos usam as funções para executar outras funções através delas.
-
- Essas questões são importantes tanto do ponto de vista técnico quanto organizacional, pois assim cada pessoa pode trabalhar em quantas funções e módulos quiser, enquanto os times dedicados trabalham por prioridade, integrando e revisando. 
-
-
-### Processo
-
-Inicialmente será criado um repositório no github apenas para propostas de resolução, envio e revisão de papers, outro repositório será criado para propostas e requisições de financiamento e suporte em conjunto com nossa DAO temporária na plataforma aragon.  
-
-O modelo mais usado para o DFM nos projetos principais é a metaprogramação, onde os voluntários elaboram um ambiente de treinamento e testes onde algoritmos de A.I criam uma solução ótima para um problema em forma de funções que poderão ser usadas na estrutura BSDK. 
-
-Todo o processo é documentado e otimizado, de forma que qualquer pessoa do mundo pode revisar e colaborar com a proposta, buscando as melhores soluções para as necessidades apresentadas. 
-
-### [DFMP](https://github.com/draykerdk/dfmp)
-
-> Agile development models and scientific method.
-Falsificationism
-Deductive hypothetical method
-Bayesian Process and the Occam's razor
-
-### [MetaDFM](https://github.com/draykerdk/metadfmp)
-
-> A.I modeling, simulation and various techniques for building optimal solutions and metaprogramming.
-
-### [DFMPProject](https://github.com/draykerdk/dfmpproject) 
-
-> Voluntary and collaborative project creation models related to Drayker and its ecosystem.
-
-### [Emergence initiative](https://github.com/draykerdk/emergence-initiative) 
-> Proposals, projects and general initiatives of volunteers outside the DFM models or with their own methodology can be organized in this repository and community.
-
-> No permission is required, any volunteer can create their outreach, content, proposals and protocols as they please.
-
-> In the EI repository, volunteers can expose their projects and initiatives, get volunteers, ideas, help, crowdfunding, support, and many other resources, and can also be used as a forum for Drayker-related initiatives. 
-
-## FUNCIONAMENTO
-
-
-Cada método tem um repositório específico, dentro desse repositório podem ser discutidos os fundamentos de cada método, otimizações, propostas de melhoria e resolução relacionadas ao método, aprendizagem do mesmo, padrões de projeto, ferramentas e tudo mais relacionado ao método específico do repositório.
-
-Quando uma proposta de resolução é aplicada a um projeto, ela deve usar um dos métodos, e passar pelo protocolo até ser aprovada como projeto secundário, incorporada no projeto principal ou outros projetos.
-
-Ambiente de falseabilidade, atacando ideias e propostas por todos os lados e propondo soluções.
-
-
+Se o repositório correto não estiver claro, comece no [General Forum](https://github.com/draykerdk/general-forum/issues/new/choose).

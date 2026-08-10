@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dknowledger — Drayker's public knowledge layer</title>
+  <meta name="description" content="Trace Drayker and Dk from current orientation to papers, architecture, decisions, evidence and historical roadmaps — directly in the public source repository.">
+  <meta name="theme-color" content="#08080A">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://dknowledger.drayker.org/">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="icon" href="/assets/logo/drayker-favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/logo/kit/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/assets/logo/kit/favicon-16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/assets/logo/kit/apple-touch-icon.png">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Dknowledger">
+  <meta property="og:title" content="Dknowledger — Drayker's public knowledge layer">
+  <meta property="og:description" content="Knowledge that keeps its source: current orientation, papers, architecture, decisions, evidence and historical context.">
+  <meta property="og:url" content="https://dknowledger.drayker.org/">
+  <meta property="og:image" content="https://dknowledger.drayker.org/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Drayker mark: an orange sphere crossed by two orbital rings.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://dknowledger.drayker.org/og.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/site.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Dknowledger",
+    "url": "https://dknowledger.drayker.org/",
+    "description": "The public knowledge layer for Drayker and Dk.",
+    "isPartOf": { "@type": "WebSite", "name": "Drayker", "url": "https://drayker.org/" },
+    "about": { "@type": "Organization", "name": "Drayker", "url": "https://drayker.com/", "sameAs": "https://github.com/draykerdk" },
+    "mainEntity": { "@type": "SoftwareSourceCode", "name": "Dknowledger public repository", "codeRepository": "https://github.com/draykerdk/dknowledge" }
+  }
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Dknowledger home">
+      <img src="/assets/logo/drayker-icone.svg" width="30" height="30" alt="">
+      <span>Dknowledger</span><small>· drayker.org</small>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="#orientation">Orientation</a>
+      <a href="#repository">Repository</a>
+      <a href="#model">Knowledge model</a>
+      <a href="#contribute">Contribute</a>
+    </nav>
+    <div class="top-actions">
+      <button class="theme" type="button" data-theme-toggle aria-label="Change color theme">AUTO</button>
+      <a class="domain" href="https://drayker.org/#org/knowledge">drayker.org ↗</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero shell">
+      <div class="hero-copy">
+        <p class="eyebrow">PUBLIC KNOWLEDGE LAYER · SOURCE-FIRST</p>
+        <h1>Knowledge that<br><em>keeps its source.</em></h1>
+        <p class="lede">Dknowledger connects Drayker's current orientation, architecture, papers, decisions and evidence. The public site is operational today; the wider distributed knowledge system remains a direction under development.</p>
+        <div class="actions">
+          <a class="button primary" href="/CURRENT.html">Start with what is current</a>
+          <a class="button" href="https://github.com/draykerdk/dknowledge">Inspect the source ↗</a>
+        </div>
+        <div class="signal" aria-label="Public state">
+          <span><i class="live"></i> PUBLIC REPOSITORY</span>
+          <span>CC0 KNOWLEDGE</span>
+          <span>FOUNDING PHASE</span>
+        </div>
+      </div>
+      <div class="hero-visual" aria-label="Animated Drayker mark">
+        <div class="orbit-grid" aria-hidden="true"></div>
+        <svg data-drayker data-body="weave" data-rings="hull" data-wedge="extract" data-fit="1.55" style="width:min(440px,88vw);height:auto;display:block"></svg>
+        <div class="visual-caption"><span>PUBLIC MEMORY</span><span>REASONING → SOURCE</span></div>
+      </div>
+    </section>
+
+    <section class="thesis stripe" aria-label="Dknowledger premise">
+      <p>A wiki stores pages. <strong>Dknowledger is designed as a network:</strong> requirements → motions → decisions → evidence, with every claim linked back to where it came from.</p>
+    </section>
+
+    <section class="section shell" id="orientation">
+      <header class="section-head">
+        <div><p class="eyebrow">01 · ORIENTATION</p><h2>Read in the right order.</h2></div>
+        <p>The repository contains current guidance, design proposals and historical material. They stay public for different reasons and should never be read as one status.</p>
+      </header>
+      <div class="path-grid">
+        <a class="path-card current" href="/CURRENT.html">
+          <span class="number">01</span><span class="tag">CURRENT</span>
+          <h3>Current orientation</h3>
+          <p>What exists now, what remains architecture and how the founding-phase Git flow works.</p>
+          <b>Read first →</b>
+        </a>
+        <a class="path-card" href="/papers/">
+          <span class="number">02</span><span class="tag">PROPOSALS</span>
+          <h3>Papers</h3>
+          <p>Requirements and motions grouped by the part of the system they address.</p>
+          <b>Explore papers →</b>
+        </a>
+        <a class="path-card historical" href="/roadmap/">
+          <span class="number">03</span><span class="tag">HISTORICAL</span>
+          <h3>Roadmap archive</h3>
+          <p>Older structures kept so the development of the reasoning remains traceable.</p>
+          <b>Read with dates →</b>
+        </a>
+        <a class="path-card" href="/CONTRIBUTING.html">
+          <span class="number">04</span><span class="tag">OPEN</span>
+          <h3>Contribute</h3>
+          <p>Correct a claim, connect a source, fill an empty paper or improve a translation.</p>
+          <b>Choose an entry point →</b>
+        </a>
+      </div>
+    </section>
+
+    <section class="section shell" id="repository">
+      <header class="section-head">
+        <div><p class="eyebrow">02 · THE REPOSITORY, VISIBLE</p><h2>Not a brochure.<br>A readable source tree.</h2></div>
+        <p>This inventory is generated from the files committed to the repository. Network data can enrich it, but the page remains useful offline and under API limits.</p>
+      </header>
+      <div class="repo-layout">
+        <aside class="repo-summary">
+          <p class="mono">PUBLIC INVENTORY</p>
+          <div class="metrics" data-metrics aria-live="polite">
+            <div><strong>—</strong><span>documents</span></div>
+            <div><strong>—</strong><span>papers</span></div>
+            <div><strong>—</strong><span>open shells</span></div>
+            <div><strong>3</strong><span>languages</span></div>
+          </div>
+          <p class="small">“Open shell” means a file exists but contains little beyond a title or language switcher. It is a concrete invitation to write, not a maturity score.</p>
+          <a href="https://github.com/draykerdk/dknowledge/issues" class="text-link">Open repository issues ↗</a>
+        </aside>
+        <div class="explorer">
+          <div class="explorer-bar">
+            <div class="filters" role="group" aria-label="Filter repository documents">
+              <button class="active" type="button" data-filter="all">ALL</button>
+              <button type="button" data-filter="current">CURRENT</button>
+              <button type="button" data-filter="paper">PAPERS</button>
+              <button type="button" data-filter="historical">HISTORICAL</button>
+              <button type="button" data-filter="open">OPEN SHELLS</button>
+            </div>
+            <span class="catalog-state" data-catalog-state>LOADING SOURCE TREE</span>
+          </div>
+          <div class="doc-list" data-doc-list>
+            <p class="loading">Reading <code>data/catalog.json</code>…</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell" id="model">
+      <header class="section-head">
+        <div><p class="eyebrow">03 · DESIGNED NEXT</p><h2>From documents<br>to connected knowledge.</h2></div>
+        <p>This model is a public engineering direction, not a deployed graph or governance mechanism. The repository remains the source of truth while the structure is specified and tested.</p>
+      </header>
+      <div class="flow" aria-label="Proposed knowledge flow">
+        <article><span>01</span><b>REQUIREMENT</b><p>A property the system must preserve.</p></article>
+        <i>→</i>
+        <article><span>02</span><b>MOTION</b><p>A proposed answer argued in public.</p></article>
+        <i>→</i>
+        <article><span>03</span><b>DECISION</b><p>The issue, review or merge that changed it.</p></article>
+        <i>→</i>
+        <article><span>04</span><b>EVIDENCE</b><p>A document, test, deployment or usage record.</p></article>
+      </div>
+      <div class="principles">
+        <article><p class="eyebrow">IDENTITY</p><h3>Stable nodes</h3><p>Requirements, motions, contracts, decisions, terms and records receive durable identities instead of becoming isolated pages.</p></article>
+        <article><p class="eyebrow">RELATION</p><h3>Typed links</h3><p><code>answers</code>, <code>depends on</code>, <code>supersedes</code>, <code>evidenced by</code> and <code>translation of</code> make the reasoning traversable.</p></article>
+        <article><p class="eyebrow">EVIDENCE</p><h3>Derived confidence</h3><p>Confidence should follow verifiable facts — source, review, discussion and replacement — rather than a badge assigned by authority.</p></article>
+      </div>
+    </section>
+
+    <section class="boundary">
+      <div class="shell boundary-grid">
+        <div><p class="eyebrow">PUBLIC / PRIVATE BOUNDARY</p><h2>The public base is not the private workspace.</h2></div>
+        <div>
+          <p>Dknowledger publishes material intentionally committed to <a href="https://github.com/draykerdk/dknowledge">draykerdk/dknowledge</a>. Private vault content, personal context and agent memory are not copied into this site.</p>
+          <p>The long-term architecture may span public, federated and private knowledge. Today, only this public repository surface is claimed as operational.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell contribute" id="contribute">
+      <p class="eyebrow">04 · CONTRIBUTE</p>
+      <h2>Improve the map,<br>and keep the source attached.</h2>
+      <p class="lede">The simplest useful contribution is often editorial: identify a historical claim presented as current, connect a paper to evidence, fill one empty document or bring a translation back in sync.</p>
+      <div class="actions">
+        <a class="button primary" href="https://github.com/draykerdk/dknowledge/issues/new/choose">Open an issue ↗</a>
+        <a class="button" href="/CONTRIBUTING.html">Read the Git flow</a>
+        <a class="button" href="https://drayker.org/#org/join">Find your way into Drayker ↗</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-grid">
+      <div class="brand footer-brand"><img src="/assets/logo/drayker-icone.svg" width="34" height="34" alt=""><span>Dknowledger</span></div>
+      <p>Public knowledge base for Drayker and Dk.<br>Repository history remains the audit trail.</p>
+      <nav aria-label="Footer navigation"><a href="https://drayker.com">drayker.com</a><a href="https://drayker.org">drayker.org</a><a href="https://github.com/draykerdk/dknowledge">GitHub</a></nav>
+    </div>
+  </footer>
+
+  <noscript><div class="noscript">JavaScript only enriches the repository inventory. The complete documentation remains available in <a href="/CURRENT.html">Current orientation</a>, <a href="/papers/">Papers</a> and the <a href="https://github.com/draykerdk/dknowledge">public source repository</a>.</div></noscript>
+  <script src="/drayker-mark.js" defer></script>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

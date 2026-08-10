@@ -5,18 +5,18 @@ remote_theme: draykerdk/drayker-theme
 # Set explicitly: GitHub Pages derives site.url without TLS when the certificate is
 # terminated upstream, which leaves absolute URLs in meta tags on http. Everything the
 # sitemap and the social cards emit has to be the canonical https address.
-url: "https://dknowledge.drayker.org"
+url: "https://dknowledger.drayker.org"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-optional-front-matter
   - jekyll-sitemap
 
-title: "Dknowledge"
-description: "The Drayker and Dk knowledge base — papers by main project, the roadmap, and how to collaborate."
+title: "Dknowledger"
+description: "Drayker's public knowledge layer — current orientation, papers, architecture, evidence and historical context connected to their sources."
 
 dk_kicker: "Knowledge base"
-dk_subdomain: "dknowledge.drayker.org"
+dk_subdomain: "dknowledger.drayker.org"
 dk_repo: "https://github.com/draykerdk/dknowledge"
 
 defaults:

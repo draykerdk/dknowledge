@@ -1,0 +1,1029 @@
+{
+  "schema_version": 1,
+  "source": "Generated from the committed repository by tools/build-catalog.js",
+  "counts": {
+    "documents": 113,
+    "papers": 16,
+    "open_shells": 16,
+    "languages": 3
+  },
+  "documents": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "href": "/CODE_OF_CONDUCT.html",
+      "title": "Contributor Covenant Code of Conduct",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 3801
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "href": "/CONTRIBUTING.html",
+      "title": "Contributing to Dknowledger",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1981
+    },
+    {
+      "path": "CONTRIBUTING.PT.md",
+      "href": "/CONTRIBUTING.PT.html",
+      "title": "Contribuindo com o Dknowledger",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 2061
+    },
+    {
+      "path": "CURRENT.md",
+      "href": "/CURRENT.html",
+      "title": "Current orientation",
+      "language": "en",
+      "kind": "orientation",
+      "state": "current",
+      "bytes": 2349
+    },
+    {
+      "path": "papers/main-projects/dk/README.ES.md",
+      "href": "/papers/main-projects/dk/README.ES.html",
+      "title": "Dk Proposals",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1527
+    },
+    {
+      "path": "papers/main-projects/dk/README.md",
+      "href": "/papers/main-projects/dk/",
+      "title": "Dk Proposals",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1483
+    },
+    {
+      "path": "papers/main-projects/dk/README.PT.md",
+      "href": "/papers/main-projects/dk/README.PT.html",
+      "title": "Dk Proposals",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1526
+    },
+    {
+      "path": "papers/main-projects/ecosystem/README .ES.md",
+      "href": "/papers/main-projects/ecosystem/README%20.ES.html",
+      "title": "Ecosystem Proposals",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 934
+    },
+    {
+      "path": "papers/main-projects/ecosystem/README .PT.md",
+      "href": "/papers/main-projects/ecosystem/README%20.PT.html",
+      "title": "Ecosystem Proposals",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 934
+    },
+    {
+      "path": "papers/main-projects/ecosystem/README.md",
+      "href": "/papers/main-projects/ecosystem/",
+      "title": "Ecosystem Proposals",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 916
+    },
+    {
+      "path": "papers/main-projects/organization/README.ES.md",
+      "href": "/papers/main-projects/organization/README.ES.html",
+      "title": "Organization Proposals",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 942
+    },
+    {
+      "path": "papers/main-projects/organization/README.md",
+      "href": "/papers/main-projects/organization/",
+      "title": "Organization Proposals",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 923
+    },
+    {
+      "path": "papers/main-projects/organization/README.PT.md",
+      "href": "/papers/main-projects/organization/README.PT.html",
+      "title": "Organization Proposals",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 942
+    },
+    {
+      "path": "papers/main-projects/README.ES.md",
+      "href": "/papers/main-projects/README.ES.html",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1172
+    },
+    {
+      "path": "papers/main-projects/README.md",
+      "href": "/papers/main-projects/",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1171
+    },
+    {
+      "path": "papers/main-projects/README.PT.md",
+      "href": "/papers/main-projects/README.PT.html",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1173
+    },
+    {
+      "path": "papers/parallel-projects/README.ES.md",
+      "href": "/papers/parallel-projects/README.ES.html",
+      "title": "Roadmap",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 2244
+    },
+    {
+      "path": "papers/parallel-projects/README.md",
+      "href": "/papers/parallel-projects/",
+      "title": "Roadmap",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 2244
+    },
+    {
+      "path": "papers/parallel-projects/README.PT.md",
+      "href": "/papers/parallel-projects/README.PT.html",
+      "title": "Roadmap",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 2244
+    },
+    {
+      "path": "papers/README.ES.md",
+      "href": "/papers/README.ES.html",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1214
+    },
+    {
+      "path": "papers/README.md",
+      "href": "/papers/",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1213
+    },
+    {
+      "path": "papers/README.PT.md",
+      "href": "/papers/README.PT.html",
+      "title": "Motions for a resolutions - DFM Proposal",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1215
+    },
+    {
+      "path": "README.ES.md",
+      "href": "/README.ES.html",
+      "title": "Dknowledger — capa pública de conocimiento de Drayker",
+      "language": "es",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1767
+    },
+    {
+      "path": "README.md",
+      "href": "/",
+      "title": "README",
+      "language": "en",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 2992
+    },
+    {
+      "path": "README.PT.md",
+      "href": "/README.PT.html",
+      "title": "Dknowledger — camada pública de conhecimento da Drayker",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 1739
+    },
+    {
+      "path": "papers/main-projects/dk/ap-platform.ES.md",
+      "href": "/papers/main-projects/dk/ap-platform.ES.html",
+      "title": "Ap Platform.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 108
+    },
+    {
+      "path": "papers/main-projects/dk/ap-platform.md",
+      "href": "/papers/main-projects/dk/ap-platform.html",
+      "title": "Ap Platform",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 99
+    },
+    {
+      "path": "papers/main-projects/dk/ap-platform.PT.md",
+      "href": "/papers/main-projects/dk/ap-platform.PT.html",
+      "title": "Ap Platform.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 99
+    },
+    {
+      "path": "papers/main-projects/dk/bsdk-dfm.ES.md",
+      "href": "/papers/main-projects/dk/bsdk-dfm.ES.html",
+      "title": "BSDK Dfm.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 92
+    },
+    {
+      "path": "papers/main-projects/dk/bsdk-dfm.md",
+      "href": "/papers/main-projects/dk/bsdk-dfm.html",
+      "title": "BSDK Dfm",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 90
+    },
+    {
+      "path": "papers/main-projects/dk/bsdk-dfm.PT.md",
+      "href": "/papers/main-projects/dk/bsdk-dfm.PT.html",
+      "title": "BSDK Dfm.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 90
+    },
+    {
+      "path": "papers/main-projects/dk/dk-network.ES.md",
+      "href": "/papers/main-projects/dk/dk-network.ES.html",
+      "title": "Dk Network.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 98
+    },
+    {
+      "path": "papers/main-projects/dk/dk-network.md",
+      "href": "/papers/main-projects/dk/dk-network.html",
+      "title": "Dk Network",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 96
+    },
+    {
+      "path": "papers/main-projects/dk/dk-network.PT.md",
+      "href": "/papers/main-projects/dk/dk-network.PT.html",
+      "title": "Dk Network.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 96
+    },
+    {
+      "path": "papers/main-projects/dk/dknowledge.ES.md",
+      "href": "/papers/main-projects/dk/dknowledge.ES.html",
+      "title": "Dknowledger.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 97
+    },
+    {
+      "path": "papers/main-projects/dk/dknowledge.md",
+      "href": "/papers/main-projects/dk/dknowledge.html",
+      "title": "Dknowledger",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 96
+    },
+    {
+      "path": "papers/main-projects/dk/dknowledge.PT.md",
+      "href": "/papers/main-projects/dk/dknowledge.PT.html",
+      "title": "Dknowledger.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 96
+    },
+    {
+      "path": "papers/main-projects/dk/interface.ES.md",
+      "href": "/papers/main-projects/dk/interface.ES.html",
+      "title": "Interface.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 94
+    },
+    {
+      "path": "papers/main-projects/dk/interface.md",
+      "href": "/papers/main-projects/dk/interface.html",
+      "title": "Interface",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 93
+    },
+    {
+      "path": "papers/main-projects/dk/interface.PT.md",
+      "href": "/papers/main-projects/dk/interface.PT.html",
+      "title": "Interface.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 93
+    },
+    {
+      "path": "papers/main-projects/dk/linving-cryptograph.ES.md",
+      "href": "/papers/main-projects/dk/linving-cryptograph.ES.html",
+      "title": "Living Cryptograph.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 127
+    },
+    {
+      "path": "papers/main-projects/dk/linving-cryptograph.md",
+      "href": "/papers/main-projects/dk/linving-cryptograph.html",
+      "title": "Living Cryptograph",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 123
+    },
+    {
+      "path": "papers/main-projects/dk/linving-cryptograph.PT.md",
+      "href": "/papers/main-projects/dk/linving-cryptograph.PT.html",
+      "title": "Living Cryptograph.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 123
+    },
+    {
+      "path": "papers/main-projects/dk/osdk.ES.md",
+      "href": "/papers/main-projects/dk/osdk.ES.html",
+      "title": "OSDK.ES",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 79
+    },
+    {
+      "path": "papers/main-projects/dk/osdk.md",
+      "href": "/papers/main-projects/dk/osdk.html",
+      "title": "OSDK",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 78
+    },
+    {
+      "path": "papers/main-projects/dk/osdk.PT.md",
+      "href": "/papers/main-projects/dk/osdk.PT.html",
+      "title": "OSDK.PT",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 78
+    },
+    {
+      "path": "papers/main-projects/dk/uid-dkapp.ES.md",
+      "href": "/papers/main-projects/dk/uid-dkapp.ES.html",
+      "title": "UID AND DKApp Paper",
+      "language": "es",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 121
+    },
+    {
+      "path": "papers/main-projects/dk/uid-dkapp.md",
+      "href": "/papers/main-projects/dk/uid-dkapp.html",
+      "title": "UID AND DKApp Paper",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 119
+    },
+    {
+      "path": "papers/main-projects/dk/uid-dkapp.PT.md",
+      "href": "/papers/main-projects/dk/uid-dkapp.PT.html",
+      "title": "UID AND DKApp Paper",
+      "language": "pt",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 119
+    },
+    {
+      "path": "papers/main-projects/ecosystem/autonomous-health.md",
+      "href": "/papers/main-projects/ecosystem/autonomous-health.html",
+      "title": "Autonomous Health",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 18
+    },
+    {
+      "path": "papers/main-projects/ecosystem/dk-academy.md",
+      "href": "/papers/main-projects/ecosystem/dk-academy.html",
+      "title": "Dk Academy",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 11
+    },
+    {
+      "path": "papers/main-projects/ecosystem/dktron.md",
+      "href": "/papers/main-projects/ecosystem/dktron.html",
+      "title": "Dktron",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 7
+    },
+    {
+      "path": "papers/main-projects/ecosystem/support-model.md",
+      "href": "/papers/main-projects/ecosystem/support-model.html",
+      "title": "Support Model",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 14
+    },
+    {
+      "path": "papers/main-projects/ecosystem/support-stations.md",
+      "href": "/papers/main-projects/ecosystem/support-stations.html",
+      "title": "Support Stations",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 17
+    },
+    {
+      "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
+      "href": "/papers/main-projects/ecosystem/value-management-ecosystem.html",
+      "title": "Value Management Ecosystem",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 27
+    },
+    {
+      "path": "papers/main-projects/ecosystem/will-to-potential.md",
+      "href": "/papers/main-projects/ecosystem/will-to-potential.html",
+      "title": "Will To Potential",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 18
+    },
+    {
+      "path": "papers/main-projects/organization/daf.md",
+      "href": "/papers/main-projects/organization/daf.html",
+      "title": "DAF - Decentralized Autonomous Federation",
+      "language": "en",
+      "kind": "paper",
+      "state": "open",
+      "bytes": 44
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "href": "/.github/ISSUE_TEMPLATE/bug_report.html",
+      "title": "Bug Report",
+      "language": "en",
+      "kind": "document",
+      "state": "context",
+      "bytes": 834
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/custom.md",
+      "href": "/.github/ISSUE_TEMPLATE/custom.html",
+      "title": "Custom",
+      "language": "en",
+      "kind": "document",
+      "state": "context",
+      "bytes": 126
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "href": "/.github/ISSUE_TEMPLATE/feature_request.html",
+      "title": "Feature Request",
+      "language": "en",
+      "kind": "document",
+      "state": "context",
+      "bytes": 595
+    },
+    {
+      "path": "roadmap/global-main-roadmap.ES.md",
+      "href": "/roadmap/global-main-roadmap.ES.html",
+      "title": "Global Main Roadmap",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 4822
+    },
+    {
+      "path": "roadmap/global-main-roadmap.md",
+      "href": "/roadmap/global-main-roadmap.html",
+      "title": "Global Main Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 4431
+    },
+    {
+      "path": "roadmap/global-main-roadmap.PT.md",
+      "href": "/roadmap/global-main-roadmap.PT.html",
+      "title": "Global Main Roadmap",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 7594
+    },
+    {
+      "path": "roadmap/main-projects/dk/ap-platform-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/ap-platform-roadmap.ES.html",
+      "title": "Ap Platform Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 132
+    },
+    {
+      "path": "roadmap/main-projects/dk/ap-platform-roadmap.md",
+      "href": "/roadmap/main-projects/dk/ap-platform-roadmap.html",
+      "title": "Ap Platform Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 123
+    },
+    {
+      "path": "roadmap/main-projects/dk/ap-platform-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/ap-platform-roadmap.PT.html",
+      "title": "Ap Platform Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 123
+    },
+    {
+      "path": "roadmap/main-projects/dk/bsdk-dfm-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/bsdk-dfm-roadmap.ES.html",
+      "title": "BSDK Dfm Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 116
+    },
+    {
+      "path": "roadmap/main-projects/dk/bsdk-dfm-roadmap.md",
+      "href": "/roadmap/main-projects/dk/bsdk-dfm-roadmap.html",
+      "title": "BSDK Dfm Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 114
+    },
+    {
+      "path": "roadmap/main-projects/dk/bsdk-dfm-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/bsdk-dfm-roadmap.PT.html",
+      "title": "BSDK Dfm Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 114
+    },
+    {
+      "path": "roadmap/main-projects/dk/dk-network-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/dk-network-roadmap.ES.html",
+      "title": "Dk Network Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 122
+    },
+    {
+      "path": "roadmap/main-projects/dk/dk-network-roadmap.md",
+      "href": "/roadmap/main-projects/dk/dk-network-roadmap.html",
+      "title": "Dk Network Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 120
+    },
+    {
+      "path": "roadmap/main-projects/dk/dk-network-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/dk-network-roadmap.PT.html",
+      "title": "Dk Network Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 120
+    },
+    {
+      "path": "roadmap/main-projects/dk/dknowledge-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/dknowledge-roadmap.ES.html",
+      "title": "Dknowledger Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 121
+    },
+    {
+      "path": "roadmap/main-projects/dk/dknowledge-roadmap.md",
+      "href": "/roadmap/main-projects/dk/dknowledge-roadmap.html",
+      "title": "Dknowledger Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 120
+    },
+    {
+      "path": "roadmap/main-projects/dk/dknowledge-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/dknowledge-roadmap.PT.html",
+      "title": "Dknowledger Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 120
+    },
+    {
+      "path": "roadmap/main-projects/dk/interface-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/interface-roadmap.ES.html",
+      "title": "Interface Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 118
+    },
+    {
+      "path": "roadmap/main-projects/dk/interface-roadmap.md",
+      "href": "/roadmap/main-projects/dk/interface-roadmap.html",
+      "title": "Interface Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 117
+    },
+    {
+      "path": "roadmap/main-projects/dk/interface-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/interface-roadmap.PT.html",
+      "title": "Interface Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 117
+    },
+    {
+      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.ES.html",
+      "title": "Living Cryptograph Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 151
+    },
+    {
+      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.md",
+      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.html",
+      "title": "Living Cryptograph Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 147
+    },
+    {
+      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.PT.html",
+      "title": "Living Cryptograph Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 147
+    },
+    {
+      "path": "roadmap/main-projects/dk/osdk-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/osdk-roadmap.ES.html",
+      "title": "OSDK Roadmap.ES",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 103
+    },
+    {
+      "path": "roadmap/main-projects/dk/osdk-roadmap.md",
+      "href": "/roadmap/main-projects/dk/osdk-roadmap.html",
+      "title": "OSDK Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 103
+    },
+    {
+      "path": "roadmap/main-projects/dk/osdk-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/osdk-roadmap.PT.html",
+      "title": "OSDK Roadmap.PT",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 103
+    },
+    {
+      "path": "roadmap/main-projects/dk/README.ES.md",
+      "href": "/roadmap/main-projects/dk/README.ES.html",
+      "title": "Dk Proposals",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 1527
+    },
+    {
+      "path": "roadmap/main-projects/dk/README.md",
+      "href": "/roadmap/main-projects/dk/",
+      "title": "Dk Proposals",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 1483
+    },
+    {
+      "path": "roadmap/main-projects/dk/README.PT.md",
+      "href": "/roadmap/main-projects/dk/README.PT.html",
+      "title": "Dk Proposals",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 1526
+    },
+    {
+      "path": "roadmap/main-projects/dk/uid-dkapp-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/uid-dkapp-roadmap.ES.html",
+      "title": "UID AND DKApp Paper",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 145
+    },
+    {
+      "path": "roadmap/main-projects/dk/uid-dkapp-roadmap.md",
+      "href": "/roadmap/main-projects/dk/uid-dkapp-roadmap.html",
+      "title": "UID AND DKApp Paper",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 143
+    },
+    {
+      "path": "roadmap/main-projects/dk/uid-dkapp-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/uid-dkapp-roadmap.PT.html",
+      "title": "UID AND DKApp Paper",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 142
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/autonomous-health-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/autonomous-health-roadmap.html",
+      "title": "Autonomous Health Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 18
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/dk-academy-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/dk-academy-roadmap.html",
+      "title": "Dk Academy Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 11
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/dktron-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/dktron-roadmap.html",
+      "title": "Dktron Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 7
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/README .ES.md",
+      "href": "/roadmap/main-projects/ecosystem/README%20.ES.html",
+      "title": "Ecosystem Proposals",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 934
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/README .PT.md",
+      "href": "/roadmap/main-projects/ecosystem/README%20.PT.html",
+      "title": "Ecosystem Proposals",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 934
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/README.md",
+      "href": "/roadmap/main-projects/ecosystem/",
+      "title": "Ecosystem Proposals",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 916
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/support-model-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/support-model-roadmap.html",
+      "title": "Support Model Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 14
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/support-stations-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/support-stations-roadmap.html",
+      "title": "Support Stations Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 17
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/value-management-ecosystem-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/value-management-ecosystem-roadmap.html",
+      "title": "Value Management Ecosystem Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 27
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/will-to-potential-roadmap.md",
+      "href": "/roadmap/main-projects/ecosystem/will-to-potential-roadmap.html",
+      "title": "Will To Potential Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 18
+    },
+    {
+      "path": "roadmap/main-projects/organization/daf-roadmap.md",
+      "href": "/roadmap/main-projects/organization/daf-roadmap.html",
+      "title": "DAF - Decentralized Autonomous Federation",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 44
+    },
+    {
+      "path": "roadmap/main-projects/organization/README.ES.md",
+      "href": "/roadmap/main-projects/organization/README.ES.html",
+      "title": "Organization Proposals",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 942
+    },
+    {
+      "path": "roadmap/main-projects/organization/README.md",
+      "href": "/roadmap/main-projects/organization/",
+      "title": "Organization Proposals",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 923
+    },
+    {
+      "path": "roadmap/main-projects/organization/README.PT.md",
+      "href": "/roadmap/main-projects/organization/README.PT.html",
+      "title": "Organization Proposals",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 942
+    },
+    {
+      "path": "roadmap/main-projects/README.ES.md",
+      "href": "/roadmap/main-projects/README.ES.html",
+      "title": "Roadmap",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/main-projects/README.md",
+      "href": "/roadmap/main-projects/",
+      "title": "Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/main-projects/README.PT.md",
+      "href": "/roadmap/main-projects/README.PT.html",
+      "title": "Roadmap",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/parallel-projects/README.ES.md",
+      "href": "/roadmap/parallel-projects/README.ES.html",
+      "title": "Roadmap",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/parallel-projects/README.md",
+      "href": "/roadmap/parallel-projects/",
+      "title": "Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/parallel-projects/README.PT.md",
+      "href": "/roadmap/parallel-projects/README.PT.html",
+      "title": "Roadmap",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2244
+    },
+    {
+      "path": "roadmap/README.ES.md",
+      "href": "/roadmap/README.ES.html",
+      "title": "Roadmap",
+      "language": "es",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2475
+    },
+    {
+      "path": "roadmap/README.md",
+      "href": "/roadmap/",
+      "title": "Roadmap",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2451
+    },
+    {
+      "path": "roadmap/README.PT.md",
+      "href": "/roadmap/README.PT.html",
+      "title": "Roadmap",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 2469
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 schema_version: 1
 component:
   id: dknowledge
-  name: Dknowledge
+  name: Dknowledger
   layer: KNOWLEDGE
   artifact_type: knowledge-base
   problem: Keep the public vision, architecture, papers and historical roadmaps of Drayker connected to their sources.
@@ -20,7 +20,7 @@ component:
     scope: The public documentation site is deployed; the broader knowledge-system vision is not implemented.
     evidence:
       - type: deployment
-        ref: https://dknowledge.drayker.org
+        ref: https://dknowledger.drayker.org
       - type: document
         ref: README.md
   risks:
