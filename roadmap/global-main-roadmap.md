@@ -1,5 +1,7 @@
 # Global Main Roadmap
 
+> **Historical material.** Preserved as design history; not a current schedule, commitment, assignment list or implementation claim. See [Current orientation](../CURRENT.md).
+
 [English](./global-main-roadmap.md) | [Português](./global-main-roadmap.PT.md) |  [Español](./global-main-roadmap.ES.md)
 
 ### Real-time Main Projects Road-map 
@@ -104,7 +106,6 @@ Dk base system is an assembly data structure, which forms the basis for DFM, bei
 ## 12027 - 12030 - Drayker 1.0
 ### First Main projects 1.0
 ### Start building the first embassy
-
 
 
 

@@ -1,7 +1,7 @@
 [Português](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.PT.md) | [English](https://github.com/draykerdk/dknowledge/blob/master/CONTRIBUTING.md) | 
 
 # Drayker Volunteer Backpacker's Guide
-If you want to make simple repairs or improvements to DKnowledge, you can send your pull request directly to branch peer review or community review.
+For repairs or improvements, open or reference an issue, work on a contribution branch and send a pull request to `master`. There is no active `peer-review` or `community-review` branch.
 
 
 ## Temporary Universal Collaboration Framework 0.01 v
@@ -71,5 +71,4 @@ Each method has a specific repository, within which repository can be discussed 
 When a motion for a resolution is applied to a project, it must use one of the methods, and pass the protocol until it is approved as a secondary project, incorporated into the main project or other projects.
 
 Environment of falsifiability, attacking ideas and proposals from all sides and proposing solutions.
-
 
