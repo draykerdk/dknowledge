@@ -24,7 +24,11 @@ check(html.includes('<link rel="canonical" href="https://dknowledge.drayker.org/
 check(html.includes('application/ld+json'), 'structured data is missing');
 check(html.includes('data-drayker') && html.includes('/drayker-mark.js'), 'the official Drayker mark engine is not wired');
 check(client.includes('/data/catalog.json'), 'the repository catalog is not wired');
-check(!html.includes('https://dknowledge.drayker.org'), 'the retired hostname remains in the landing page');
+// The retired hostname is dknowledger.drayker.org — with the r, which is the private
+// vault's name. A blanket rename in 7179417 rewrote this line as well, leaving it
+// forbidding the very hostname line 23 requires. The check could not pass, and the site
+// build has failed on every push since.
+check(!html.includes('https://dknowledger.drayker.org'), 'the retired hostname remains in the landing page');
 check(read('CNAME').trim() === 'dknowledge.drayker.org', 'CNAME is not canonical');
 check(config.includes('https://dknowledge.drayker.org'), 'Jekyll canonical URL is wrong');
 check(contract.includes('https://dknowledge.drayker.org'), 'component evidence URL is wrong');
@@ -55,4 +59,4 @@ if (failures.length) {
   console.error(failures.length + ' of ' + checks + ' checks failed');
   process.exit(1);
 }
-console.log(checks + ' Dknowledger site checks passed');
+console.log(checks + ' Dknowledge site checks passed');
