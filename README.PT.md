@@ -2,7 +2,7 @@
 
 [English](./README.md) · **Português** · [Español](./README.ES.md)
 
-O Dknowledger mantém a orientação atual, os papers, a arquitetura, as decisões, as evidências e o histórico da Drayker e do Dk conectados às suas fontes. O site público está em **[dknowledger.drayker.org](https://dknowledger.drayker.org)**.
+O Dknowledger mantém a orientação atual, os papers, a arquitetura, as decisões, as evidências e o histórico da Drayker e do Dk conectados às suas fontes. O site público está em **[dknowledge.drayker.org](https://dknowledge.drayker.org)**.
 
 ## Comece pelo estado atual
 

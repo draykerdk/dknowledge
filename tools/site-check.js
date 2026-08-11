@@ -20,14 +20,14 @@ function check(ok, message) {
 
 check(/<title>[^<]{20,}<\/title>/.test(html), 'landing page needs a descriptive title');
 check(/<meta name="description" content="[^"]{80,}"/.test(html), 'landing page needs a substantial description');
-check(html.includes('<link rel="canonical" href="https://dknowledger.drayker.org/">'), 'canonical domain is wrong');
+check(html.includes('<link rel="canonical" href="https://dknowledge.drayker.org/">'), 'canonical domain is wrong');
 check(html.includes('application/ld+json'), 'structured data is missing');
 check(html.includes('data-drayker') && html.includes('/drayker-mark.js'), 'the official Drayker mark engine is not wired');
 check(client.includes('/data/catalog.json'), 'the repository catalog is not wired');
 check(!html.includes('https://dknowledge.drayker.org'), 'the retired hostname remains in the landing page');
-check(read('CNAME').trim() === 'dknowledger.drayker.org', 'CNAME is not canonical');
-check(config.includes('https://dknowledger.drayker.org'), 'Jekyll canonical URL is wrong');
-check(contract.includes('https://dknowledger.drayker.org'), 'component evidence URL is wrong');
+check(read('CNAME').trim() === 'dknowledge.drayker.org', 'CNAME is not canonical');
+check(config.includes('https://dknowledge.drayker.org'), 'Jekyll canonical URL is wrong');
+check(contract.includes('https://dknowledge.drayker.org'), 'component evidence URL is wrong');
 check(fs.existsSync(path.join(root, 'assets/og.svg')), 'editable Open Graph source is missing');
 const og = fs.readFileSync(path.join(root, 'og.png'));
 check(og.readUInt32BE(16) === 1200 && og.readUInt32BE(20) === 630, 'og.png must be 1200 × 630');

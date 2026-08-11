@@ -20,7 +20,7 @@ component:
     scope: The public documentation site is deployed; the broader knowledge-system vision is not implemented.
     evidence:
       - type: deployment
-        ref: https://dknowledger.drayker.org
+        ref: https://dknowledge.drayker.org
       - type: document
         ref: README.md
   risks:

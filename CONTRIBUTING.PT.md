@@ -33,6 +33,6 @@ Não existe branch ativa de `peer-review` ou `community-review`. Durante a fase 
 - Um dos 16 papers em inglês contém apenas o título: escreva seu escopo e conecte as fontes.
 - Compare uma tradução com o documento em inglês e corrija o que ficou para trás.
 - Encontre uma afirmação que não corresponde mais ao contrato do componente e abra uma issue de correção.
-- Melhore o catálogo gerado ou a acessibilidade de [dknowledger.drayker.org](https://dknowledger.drayker.org).
+- Melhore o catálogo gerado ou a acessibilidade de [dknowledge.drayker.org](https://dknowledge.drayker.org).
 
 Se o repositório correto não estiver claro, comece no [General Forum](https://github.com/draykerdk/general-forum/issues/new/choose).
