@@ -33,3 +33,4 @@ dk_body: "weave"
 dk_rings: "hull"
 dk_wedge: "terraform"
 dk_accent: "#FF5500"
+dk_sphere: "star"  # the lit archive everything else is checked against
