@@ -1,6 +1,6 @@
 Dknowledger is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
 
-Public site: **[dknowledger.drayker.org](https://dknowledger.drayker.org)**
+Single official public site: **[dknowledger.drayker.org](https://dknowledger.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
 
 Its first versions exist to get volunteers and stakeholders into the ecosystem. Over time it is meant to become a structured base for all of Dk's data, sensors, files, oracles, processes and ontologies, across public, federated and private layers — that part is a stated direction, not a running system.
 
