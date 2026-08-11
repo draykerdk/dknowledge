@@ -1,8 +1,8 @@
-# Contributing to Dknowledger
+# Contributing to Dknowledge
 
 [Português](./CONTRIBUTING.PT.md) · **English**
 
-Dknowledger is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, improving navigation and bringing a translation back in sync.
+Dknowledge is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, improving navigation and bringing a translation back in sync.
 
 ## The current Git flow
 

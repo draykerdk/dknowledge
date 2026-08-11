@@ -1,8 +1,8 @@
-# Contribuindo com o Dknowledger
+# Contribuindo com o Dknowledge
 
 **Português** · [English](./CONTRIBUTING.md)
 
-O Dknowledger é uma base pública e aberta de conhecimento. Contribuições úteis incluem corrigir uma afirmação, conectar uma fonte, preencher um paper vazio, melhorar a navegação ou sincronizar uma tradução.
+O Dknowledge é uma base pública e aberta de conhecimento. Contribuições úteis incluem corrigir uma afirmação, conectar uma fonte, preencher um paper vazio, melhorar a navegação ou sincronizar uma tradução.
 
 ## Fluxo Git atual
 

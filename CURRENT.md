@@ -6,7 +6,7 @@ This page separates Drayker's current public operating surfaces from its longer-
 
 - [`drayker.com`](https://drayker.com) presents the organization and the architecture at an institutional level.
 - [`drayker.org`](https://drayker.org) maps the ecosystem and routes public participation.
-- [`Dknowledger`](https://dknowledge.drayker.org) publishes the public knowledge base and its history.
+- [`Dknowledge`](https://dknowledge.drayker.org) publishes the public knowledge base and its history.
 - The [`General Forum`](https://github.com/draykerdk/general-forum/issues/new/choose) receives volunteer introductions, partnership proposals and questions that do not yet have a clear repository.
 - Public repositories use issues, contribution branches, pull requests to `master`, automated checks and Git history.
 
