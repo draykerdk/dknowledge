@@ -34,8 +34,9 @@ check(og.readUInt32BE(16) === 1200 && og.readUInt32BE(20) === 630, 'og.png must 
 
 for (const icon of ['favicon.ico', 'assets/logo/drayker-favicon.svg', 'assets/logo/kit/favicon-32.png', 'assets/logo/kit/favicon-16.png', 'assets/logo/kit/apple-touch-icon.png']) {
   check(fs.existsSync(path.join(root, icon)), 'missing icon asset: ' + icon);
-  check(html.includes('/' + icon), 'landing page does not reference: ' + icon);
+  check(html.includes('/' + icon + '?v=20260811'), 'landing page does not use the versioned icon: ' + icon);
 }
+check(html.includes('sizes="any"') && html.includes('sizes="180x180"'), 'favicon size metadata is incomplete');
 
 check(catalog.schema_version === 1, 'unknown catalog schema');
 check(catalog.counts.documents === catalog.documents.length, 'document count does not match catalog');
