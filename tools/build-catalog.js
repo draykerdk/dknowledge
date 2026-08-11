@@ -30,11 +30,13 @@ function titleFrom(source, file) {
   const raw = heading
     ? heading[1].replace(/\[([^\]]+)\]\([^)]*\)/g, '$1').replace(/[*_`]/g, '').trim()
     : path.basename(file, '.md').replace(/[-_]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  // Typo and acronym normalization only. There was a rule here rewriting Dknowledge to
+  // Dknowledger, from when that was the public name; it now corrupts correct titles, so
+  // it is gone. Dknowledge is the public knowledge layer, Dknowledger the private vault.
   return raw
     .replace(/\bLinving\b/gi, 'Living')
     .replace(/\bBsdk\b/g, 'BSDK')
-    .replace(/\bOsdk\b/g, 'OSDK')
-    .replace(/\bDknowledge\b/g, 'Dknowledger');
+    .replace(/\bOsdk\b/g, 'OSDK');
 }
 
 function hrefFor(file) {
