@@ -20,20 +20,20 @@
     {
       "path": "CONTRIBUTING.md",
       "href": "/CONTRIBUTING.html",
-      "title": "Contributing to Dknowledger",
+      "title": "Contributing to Dknowledge",
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1981
+      "bytes": 1977
     },
     {
       "path": "CONTRIBUTING.PT.md",
       "href": "/CONTRIBUTING.PT.html",
-      "title": "Contribuindo com o Dknowledger",
+      "title": "Contribuindo com o Dknowledge",
       "language": "pt",
       "kind": "guide",
       "state": "current",
-      "bytes": 2061
+      "bytes": 2057
     },
     {
       "path": "CURRENT.md",
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 2349
+      "bytes": 2347
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -209,11 +209,11 @@
     {
       "path": "README.ES.md",
       "href": "/README.ES.html",
-      "title": "Dknowledger — capa pública de conocimiento de Drayker",
+      "title": "Dknowledge — capa pública de conocimiento de Drayker",
       "language": "es",
       "kind": "guide",
       "state": "current",
-      "bytes": 1767
+      "bytes": 1763
     },
     {
       "path": "README.md",
@@ -222,16 +222,16 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 3104
+      "bytes": 3595
     },
     {
       "path": "README.PT.md",
       "href": "/README.PT.html",
-      "title": "Dknowledger — camada pública de conhecimento da Drayker",
+      "title": "Dknowledge — camada pública de conhecimento da Drayker",
       "language": "pt",
       "kind": "guide",
       "state": "current",
-      "bytes": 1739
+      "bytes": 1735
     },
     {
       "path": "papers/main-projects/dk/ap-platform.ES.md",
@@ -317,7 +317,7 @@
     {
       "path": "papers/main-projects/dk/dknowledge.ES.md",
       "href": "/papers/main-projects/dk/dknowledge.ES.html",
-      "title": "Dknowledger.ES",
+      "title": "Dknowledge.ES",
       "language": "es",
       "kind": "paper",
       "state": "open",
@@ -326,7 +326,7 @@
     {
       "path": "papers/main-projects/dk/dknowledge.md",
       "href": "/papers/main-projects/dk/dknowledge.html",
-      "title": "Dknowledger",
+      "title": "Dknowledge",
       "language": "en",
       "kind": "paper",
       "state": "open",
@@ -335,7 +335,7 @@
     {
       "path": "papers/main-projects/dk/dknowledge.PT.md",
       "href": "/papers/main-projects/dk/dknowledge.PT.html",
-      "title": "Dknowledger.PT",
+      "title": "Dknowledge.PT",
       "language": "pt",
       "kind": "paper",
       "state": "open",
@@ -659,7 +659,7 @@
     {
       "path": "roadmap/main-projects/dk/dknowledge-roadmap.ES.md",
       "href": "/roadmap/main-projects/dk/dknowledge-roadmap.ES.html",
-      "title": "Dknowledger Roadmap.ES",
+      "title": "Dknowledge Roadmap.ES",
       "language": "es",
       "kind": "roadmap",
       "state": "historical",
@@ -668,7 +668,7 @@
     {
       "path": "roadmap/main-projects/dk/dknowledge-roadmap.md",
       "href": "/roadmap/main-projects/dk/dknowledge-roadmap.html",
-      "title": "Dknowledger Roadmap",
+      "title": "Dknowledge Roadmap",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
@@ -677,7 +677,7 @@
     {
       "path": "roadmap/main-projects/dk/dknowledge-roadmap.PT.md",
       "href": "/roadmap/main-projects/dk/dknowledge-roadmap.PT.html",
-      "title": "Dknowledger Roadmap.PT",
+      "title": "Dknowledge Roadmap.PT",
       "language": "pt",
       "kind": "roadmap",
       "state": "historical",
