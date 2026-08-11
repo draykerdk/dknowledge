@@ -33,6 +33,6 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 - One of the 16 English paper shells has only a title: write its scope and connect its sources.
 - Compare a translated document with its English source and update what drifted.
 - Find a claim that no longer matches a component contract and open a correction issue.
-- Improve the generated catalog or the accessibility of [dknowledger.drayker.org](https://dknowledger.drayker.org).
+- Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 
 If the right repository is unclear, start in the [General Forum](https://github.com/draykerdk/general-forum/issues/new/choose).
