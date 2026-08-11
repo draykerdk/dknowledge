@@ -1,8 +1,8 @@
-# Dknowledger — camada pública de conhecimento da Drayker
+# Dknowledge — camada pública de conhecimento da Drayker
 
 [English](./README.md) · **Português** · [Español](./README.ES.md)
 
-O Dknowledger mantém a orientação atual, os papers, a arquitetura, as decisões, as evidências e o histórico da Drayker e do Dk conectados às suas fontes. O site público está em **[dknowledge.drayker.org](https://dknowledge.drayker.org)**.
+O Dknowledge mantém a orientação atual, os papers, a arquitetura, as decisões, as evidências e o histórico da Drayker e do Dk conectados às suas fontes. O site público está em **[dknowledge.drayker.org](https://dknowledge.drayker.org)**.
 
 ## Comece pelo estado atual
 

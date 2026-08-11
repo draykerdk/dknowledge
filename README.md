@@ -4,6 +4,12 @@ Single official public site: **[dknowledge.drayker.org](https://dknowledge.drayk
 
 Its first versions exist to get volunteers and stakeholders into the ecosystem. Over time it is meant to become a structured base for all of Dk's data, sensors, files, oracles, processes and ontologies, across public, federated and private layers — that part is a stated direction, not a running system.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## What is here
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
@@ -26,7 +32,7 @@ The most complete documentation in the Drayker ecosystem — start with [Current
 
 ## Contributing
 
-Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn). Reading a paper and writing down where it no longer matches reality is a genuinely useful contribution here.
+Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/). Reading a paper and writing down where it no longer matches reality is a genuinely useful contribution here.
 
 Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
 
