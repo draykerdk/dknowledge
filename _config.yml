@@ -5,18 +5,18 @@ remote_theme: draykerdk/drayker-theme
 # Set explicitly: GitHub Pages derives site.url without TLS when the certificate is
 # terminated upstream, which leaves absolute URLs in meta tags on http. Everything the
 # sitemap and the social cards emit has to be the canonical https address.
-url: "https://dknowledger.drayker.org"
+url: "https://dknowledge.drayker.org"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-optional-front-matter
   - jekyll-sitemap
 
-title: "Dknowledger"
+title: "Dknowledge"
 description: "Drayker's public knowledge layer — current orientation, papers, architecture, evidence and historical context connected to their sources."
 
 dk_kicker: "Knowledge base"
-dk_subdomain: "dknowledger.drayker.org"
+dk_subdomain: "dknowledge.drayker.org"
 dk_repo: "https://github.com/draykerdk/dknowledge"
 
 defaults:
@@ -24,3 +24,12 @@ defaults:
       path: ""
     values:
       layout: default
+
+# The mark, drawn by the shared engine in drayker-theme. Body, rings and wedge say what
+# this part does to the planet; the colour is its scope. Scope colours come from
+# DRAYKER-MARK.md §7 — never invent one. Parts with no assigned colour stay on the
+# main accent until the mark owner assigns theirs.
+dk_body: "weave"
+dk_rings: "hull"
+dk_wedge: "terraform"
+dk_accent: "#FF5500"

@@ -1,6 +1,6 @@
-Dknowledger is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
+Dknowledge is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
 
-Single official public site: **[dknowledger.drayker.org](https://dknowledger.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
+Single official public site: **[dknowledge.drayker.org](https://dknowledge.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
 
 Its first versions exist to get volunteers and stakeholders into the ecosystem. Over time it is meant to become a structured base for all of Dk's data, sensors, files, oracles, processes and ontologies, across public, federated and private layers — that part is a stated direction, not a running system.
 
@@ -16,7 +16,7 @@ Main projects sit in priority and time queues; effort and resources treat them a
 
 ## Role in the system
 
-Dknowledger is the connective tissue: [Dk](https://dk.drayker.org) is the kernel, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
+Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the kernel, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
 
 A complex system needs memory that can be *followed*, not just information that can be stored. That is the whole reason this repository exists.
 
