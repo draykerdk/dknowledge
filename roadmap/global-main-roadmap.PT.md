@@ -1,6 +1,6 @@
 # Global Main Roadmap
 
-> **Material histórico.** Preservado como história do design; não é cronograma, compromisso, lista de responsáveis ou alegação de implementação atual. Veja a [orientação atual](../CURRENT.md).
+> **Material histórico.** Preservado como história do design. Não é cronograma, compromisso, lista de responsáveis ou alegação de implementação atual. Veja a [orientação atual](../CURRENT.md).
 [English](./global-main-roadmap.md) | [Português](./global-main-roadmap.PT.md) |  [Español](./global-main-roadmap.ES.md)
 
 
