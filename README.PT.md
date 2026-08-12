@@ -1,4 +1,4 @@
-# Dknowledge — camada pública de conhecimento da Drayker
+# Dknowledge. Camada pública de conhecimento da Drayker
 
 [English](./README.md) · **Português** · [Español](./README.ES.md)
 
@@ -13,10 +13,10 @@ O Dknowledge mantém a orientação atual, os papers, a arquitetura, as decisõe
 
 ## Limite de evidência
 
-O repositório e o site formam uma base pública de documentação operacional. A visão mais ampla — conhecimento estruturado para dados, sensores, arquivos, oráculos, processos e ontologias em camadas públicas, federadas e privadas — é uma direção de arquitetura, não um sistema distribuído em funcionamento.
+O repositório e o site formam uma base pública de documentação operacional. A visão mais ampla, conhecimento estruturado para dados, sensores, arquivos, oráculos, processos e ontologias em camadas públicas, federadas e privadas, é uma direção de arquitetura, não um sistema distribuído em funcionamento.
 
 O cofre local privado, o contexto pessoal e a memória de agentes não são publicados aqui. Só aparece no site o material intencionalmente versionado neste repositório público.
 
 ## Uma contribuição útil
 
-Abra uma issue para corrigir uma afirmação, conectar uma fonte, preencher um paper vazio ou atualizar uma tradução. O histórico do Git é a trilha de auditoria; nesta fase, a embaixada e o embaixador também podem editar e integrar diretamente pelo fluxo tradicional do Git.
+Abra uma issue para corrigir uma afirmação, conectar uma fonte, preencher um paper vazio ou atualizar uma tradução. O histórico do Git é a trilha de auditoria. Nesta fase, a embaixada e o embaixador também podem editar e integrar diretamente pelo fluxo tradicional do Git.
