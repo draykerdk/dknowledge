@@ -14,6 +14,8 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 The systemic final form of Dknowledge is described as **evolutionary knowledge graphs** — a version of the knowledge layer that is more than a graph of linked documents, and more complex than a wiki can be. Requirements, decisions and evidence stay connected by trust derived from evidence rather than from position; the graph evolves with the system, so the memory of the network is not a snapshot but a living structure — the same fractal logic [Dk](https://dk.drayker.org) is designed around, applied to knowledge itself. Today Dknowledge is pages, papers and roadmaps connected to their sources. What it becomes is a structure that only exists as the whole.
 
+Each scale of the intelligence carries its own knowledge: Dk Personal is connected to the person's personal Dknowledge, Dk Global to global Dknowledge, and every organization and project has its own Dknowledge in connection with a specialized Dk. Dknowledge is not one repository of everything — it is the pattern repeated at every scale, and the global Dknowledge is the junction of them all.
+
 ## What is here
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
