@@ -22,7 +22,7 @@ Main projects sit in priority and time queues; effort and resources treat them a
 
 ## Role in the system
 
-Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the kernel, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
+Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
 
 A complex system needs memory that can be *followed*, not just information that can be stored. That is the whole reason this repository exists.
 
