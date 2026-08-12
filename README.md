@@ -10,6 +10,10 @@ Drayker is a way of working where people keep creating, discovering and learning
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
+## What it becomes
+
+The systemic final form of Dknowledge is described as **evolutionary knowledge graphs** — a version of the knowledge layer that is more than a graph of linked documents, and more complex than a wiki can be. Requirements, decisions and evidence stay connected by trust derived from evidence rather than from position; the graph evolves with the system, so the memory of the network is not a snapshot but a living structure — the same fractal logic [Dk](https://dk.drayker.org) is designed around, applied to knowledge itself. Today Dknowledge is pages, papers and roadmaps connected to their sources. What it becomes is a structure that only exists as the whole.
+
 ## What is here
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
