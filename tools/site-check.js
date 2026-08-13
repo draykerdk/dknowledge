@@ -43,11 +43,12 @@ check(fs.existsSync(path.join(root, 'assets/og.svg')), 'editable Open Graph sour
 const og = fs.readFileSync(path.join(root, 'og.png'));
 check(og.readUInt32BE(16) === 1200 && og.readUInt32BE(20) === 630, 'og.png must be 1200 × 630');
 
-for (const icon of ['favicon.ico', 'assets/logo/drayker-favicon.svg', 'assets/logo/kit/favicon-32.png', 'assets/logo/kit/favicon-16.png', 'assets/logo/kit/apple-touch-icon.png']) {
+for (const icon of ['assets/logo/drayker-icone.svg', 'assets/logo/escuro/drayker-icone.svg', 'assets/logo/kit/icon-512.png', 'assets/logo/kit/icon-512-escuro.png', 'assets/logo/kit/apple-touch-icon.png']) {
   check(fs.existsSync(path.join(root, icon)), 'missing icon asset: ' + icon);
-  check(html.includes('/' + icon + '?v=20260811'), 'landing page does not use the versioned icon: ' + icon);
+  check(html.includes('/' + icon + (icon.includes('apple-touch') ? '?v=20260811' : '?v=20260813')), 'landing page does not use the versioned icon: ' + icon);
 }
-check(html.includes('sizes="any"') && html.includes('sizes="180x180"'), 'favicon size metadata is incomplete');
+check(html.includes('prefers-color-scheme: light') && html.includes('prefers-color-scheme: dark'), 'favicon theme variants are incomplete');
+check(html.includes('sizes="any"') && html.includes('sizes="512x512"'), 'favicon size metadata is incomplete');
 
 check(catalog.schema_version === 1, 'unknown catalog schema');
 check(catalog.counts.documents === catalog.documents.length, 'document count does not match catalog');
