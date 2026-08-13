@@ -103,3 +103,21 @@ The first main projects 1.0, and the first embassy. The federation (DAF) moves t
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is the means, never the master.** Every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
+
+## Sources and further reading
+
+**The roadmaps this is derived from**
+
+- [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap with the phase structure this page states without dates.
+- [Current orientation](../CURRENT.md) — what is available now, what remains architecture, and how founding governance works.
+- [Roadmap index](./README.md) — the structure of project roadmaps and how they are organized.
+- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
+
+**The components named in the phases**
+
+- [Dk](https://dk.drayker.org) · [BSDK](https://bsdk.drayker.org) · [Meta DFM](https://metadfmp.drayker.org) · [Dk Network](https://dknetwork.drayker.org) · [Dknowledge](https://dknowledge.drayker.org) · [Living Cryptography](https://lc.drayker.org) · [OSDK](https://osdk.drayker.org) · [UID](https://uid.drayker.org) · [PAP](https://pap.drayker.org) · [Dk Personal](https://personal.drayker.org) · [Dk Academy](https://academy.drayker.org) · [DFM/DFMP](https://dfmp.drayker.org) · [DAF](https://daf.drayker.org) · [Value unit](https://value.drayker.org) · [Distributed support](https://support.drayker.org) · [Stations](https://stations.drayker.org) · [Open science](https://science.drayker.org) · [Emergence](https://ei.drayker.org).
+
+**The portal**
+
+- [Direction — drayker.org](https://drayker.org/direction/) — the interactive version of this page.
+- [The ecosystem map](https://drayker.org/eco/) — every part, one by one.
