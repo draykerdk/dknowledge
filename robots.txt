@@ -1,4 +1,13 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dknowledger.drayker.org/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://dknowledge.drayker.org/sitemap.xml

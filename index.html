@@ -14,6 +14,7 @@
   <link rel="icon" href="/assets/logo/kit/favicon-32.png?v=20260811" type="image/png" sizes="32x32">
   <link rel="icon" href="/assets/logo/kit/favicon-16.png?v=20260811" type="image/png" sizes="16x16">
   <link rel="apple-touch-icon" href="/assets/logo/kit/apple-touch-icon.png?v=20260811" sizes="180x180">
+  <link rel="alternate" type="text/plain" href="/llms.txt" title="AI-readable site summary">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Dknowledge">
   <meta property="og:title" content="Dknowledge — Drayker's public knowledge layer">
@@ -24,21 +25,46 @@
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="The Drayker mark: an orange sphere crossed by two orbital rings.">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dknowledge | Drayker's public knowledge layer">
+  <meta name="twitter:description" content="Current orientation, papers, architecture, decisions and evidence, connected directly to their public sources.">
   <meta name="twitter:image" content="https://dknowledge.drayker.org/og.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css">
-  <script type="application/ld+json">
+  <script id="drayker-structured-data" type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Dknowledge",
-    "url": "https://dknowledge.drayker.org/",
-    "description": "The public knowledge layer for Drayker and Dk.",
-    "isPartOf": { "@type": "WebSite", "name": "Drayker", "url": "https://drayker.org/" },
-    "about": { "@type": "Organization", "name": "Drayker", "url": "https://drayker.com/", "sameAs": "https://github.com/draykerdk" },
-    "mainEntity": { "@type": "SoftwareSourceCode", "name": "Dknowledge public repository", "codeRepository": "https://github.com/draykerdk/dknowledge" }
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://drayker.com/#organization",
+        "name": "Drayker",
+        "url": "https://drayker.com/",
+        "logo": { "@type": "ImageObject", "url": "https://drayker.org/assets/logo/kit/icon-512.png", "width": 512, "height": 512 },
+        "sameAs": ["https://github.com/draykerdk", "https://twitter.com/Draykerdk", "https://medium.com/drayker"]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://dknowledge.drayker.org/#website",
+        "name": "Dknowledge",
+        "alternateName": "Drayker Knowledge Base",
+        "url": "https://dknowledge.drayker.org/",
+        "publisher": { "@id": "https://drayker.com/#organization" },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://dknowledge.drayker.org/#webpage",
+        "name": "Dknowledge — Drayker's public knowledge layer",
+        "url": "https://dknowledge.drayker.org/",
+        "description": "Current orientation, papers, architecture, decisions and evidence, connected directly to their public sources.",
+        "isPartOf": { "@id": "https://dknowledge.drayker.org/#website" },
+        "about": { "@id": "https://drayker.com/#organization" },
+        "mainEntity": { "@type": "SoftwareSourceCode", "name": "Dknowledge public repository", "codeRepository": "https://github.com/draykerdk/dknowledge" },
+        "inLanguage": "en"
+      }
+    ]
   }
   </script>
 </head>

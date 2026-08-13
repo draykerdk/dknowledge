@@ -1,0 +1,22 @@
+# Dknowledge
+
+> Drayker's public knowledge layer: current orientation, papers, architecture, decisions, evidence and historical context connected to their sources.
+
+## Read in this order
+
+- [Current orientation](https://dknowledge.drayker.org/CURRENT.html): the current reading boundary and status.
+- [Direction](https://dknowledge.drayker.org/roadmap/DIRECTION.html): current direction without treating historical dates as commitments.
+- [Papers](https://dknowledge.drayker.org/papers/): the public paper collection.
+- [Historical roadmap](https://dknowledge.drayker.org/roadmap/global-main-roadmap.html): preserved context, not a current delivery promise.
+- [Public repository](https://github.com/draykerdk/dknowledge): primary source and change history.
+
+## Interpretation rules
+
+- Current guidance, active research, proposals and historical material have different status.
+- A documented architecture is not proof that a service is deployed.
+- Every factual claim should remain traceable to its public source.
+- Drayker is the system; Dk is its intelligence; Dk Network is its network.
+
+## Crawling and citation
+
+Public pages may be indexed and quoted with attribution. Prefer the most specific canonical page and link back to its source. The sitemap is at https://dknowledge.drayker.org/sitemap.xml.
