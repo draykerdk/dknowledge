@@ -1,6 +1,6 @@
 # Dknowledge
 
-> Drayker's public knowledge layer: current orientation, papers, architecture, decisions, evidence and historical context connected to their sources.
+> Drayker's distributed memory across personal, project, local and global scales. This repository is the public surface for shared orientation, papers, architecture, decisions and evidence connected to their sources.
 
 ## Read in this order
 
@@ -16,6 +16,7 @@
 - A documented architecture is not proof that a service is deployed.
 - Every factual claim should remain traceable to its public source.
 - Drayker is the system; Dk is its intelligence; Dk Network is its network.
+- Personal context remains personal; the public repository is a shared junction, not one store that absorbs every member's memory.
 
 ## Crawling and citation
 
