@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Generated from the committed repository by tools/build-catalog.js",
   "counts": {
-    "documents": 113,
+    "documents": 114,
     "papers": 16,
     "open_shells": 16,
     "languages": 3
@@ -209,11 +209,11 @@
     {
       "path": "README.ES.md",
       "href": "/README.ES.html",
-      "title": "Dknowledge — capa pública de conocimiento de Drayker",
+      "title": "Dknowledge. Capa pública de conocimiento de Drayker",
       "language": "es",
       "kind": "guide",
       "state": "current",
-      "bytes": 1763
+      "bytes": 1754
     },
     {
       "path": "README.md",
@@ -222,16 +222,16 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 3595
+      "bytes": 5429
     },
     {
       "path": "README.PT.md",
       "href": "/README.PT.html",
-      "title": "Dknowledge — camada pública de conhecimento da Drayker",
+      "title": "Dknowledge. Camada pública de conhecimento da Drayker",
       "language": "pt",
       "kind": "guide",
       "state": "current",
-      "bytes": 1735
+      "bytes": 1726
     },
     {
       "path": "papers/main-projects/dk/ap-platform.ES.md",
@@ -547,6 +547,15 @@
       "kind": "document",
       "state": "context",
       "bytes": 595
+    },
+    {
+      "path": "roadmap/DIRECTION.md",
+      "href": "/roadmap/DIRECTION.html",
+      "title": "Direction — Drayker, without dates",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 7603
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
@@ -1014,7 +1023,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2451
+      "bytes": 2674
     },
     {
       "path": "roadmap/README.PT.md",
