@@ -1,4 +1,4 @@
-Dknowledge is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
+Dknowledge is the distributed memory of Drayker and Dk. Its systemic design repeats across personal, project, local and global scales; this repository is the official public surface where shared orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources.
 
 Single official public site: **[dknowledge.drayker.org](https://dknowledge.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
 
@@ -6,7 +6,7 @@ Its first versions exist to get volunteers and stakeholders into the ecosystem. 
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources.
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results expands common capacity instead of concentrating. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources and kept at the scale where it belongs.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
