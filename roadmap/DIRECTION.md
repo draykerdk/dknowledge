@@ -61,7 +61,7 @@ Global testing: computation, security, A.I modules, cryptography. Evolutionary c
 
 **State: future.**
 
-The Project and Application Platform (PAP), UID as the super app, and the ecosystem: the value units (Dktron and its representations), the funds, the exchange with the outside. The value layer is designed as documented future work — value backed by production, reputation in transferable and non-transferable kinds, the value management ecosystem (VME) as the whole that organizes funds by category and cause.
+The Project and Application Platform (PAP), UID as the super app, and the ecosystem: Dktron as the proposed stable representation of resources and their distribution across project and category funds, and the exchange with the outside through Drayker bridges. The value layer is documented future work: reputation is contextual operational memory distinct from value, and no unit, bridge or stabilization mechanism exists today.
 
 *Exit condition:* a unit of record that works before any unit that moves.
 
@@ -71,7 +71,7 @@ The Project and Application Platform (PAP), UID as the super app, and the ecosys
 
 **State: future.**
 
-Dk Personal (the agent that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
+Dk Personal (the continuous representation that belongs to one member), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
 
 *Exit condition:* a person can form, contribute and be attributed through the platform.
 
@@ -111,7 +111,7 @@ The first main projects 1.0, and the first embassy. The federation (DAF) moves t
 - [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap with the phase structure this page states without dates.
 - [Current orientation](../CURRENT.md) — what is available now, what remains architecture, and how founding governance works.
 - [Roadmap index](./README.md) — the structure of project roadmaps and how they are organized.
-- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
+- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, economy of capacity, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
 
 **The components named in the phases**
 
