@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source": "Generated from the committed repository by tools/build-catalog.js",
   "counts": {
-    "documents": 113,
+    "documents": 114,
     "papers": 16,
-    "open_shells": 16,
+    "open_shells": 12,
     "languages": 3
   },
   "documents": [
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 2347
+      "bytes": 4149
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -92,11 +92,11 @@
     {
       "path": "papers/main-projects/ecosystem/README.md",
       "href": "/papers/main-projects/ecosystem/",
-      "title": "Ecosystem Proposals",
+      "title": "Ecosystem research",
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 916
+      "bytes": 1632
     },
     {
       "path": "papers/main-projects/organization/README.ES.md",
@@ -209,11 +209,11 @@
     {
       "path": "README.ES.md",
       "href": "/README.ES.html",
-      "title": "Dknowledge — capa pública de conocimiento de Drayker",
+      "title": "Dknowledge. Capa pública de conocimiento de Drayker",
       "language": "es",
       "kind": "guide",
       "state": "current",
-      "bytes": 1763
+      "bytes": 1754
     },
     {
       "path": "README.md",
@@ -222,16 +222,52 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 3595
+      "bytes": 5429
     },
     {
       "path": "README.PT.md",
       "href": "/README.PT.html",
-      "title": "Dknowledge — camada pública de conhecimento da Drayker",
+      "title": "Dknowledge. Camada pública de conhecimento da Drayker",
       "language": "pt",
       "kind": "guide",
       "state": "current",
-      "bytes": 1735
+      "bytes": 1726
+    },
+    {
+      "path": "papers/main-projects/ecosystem/dktron.md",
+      "href": "/papers/main-projects/ecosystem/dktron.html",
+      "title": "Dktron: resources, funds and external exchange",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 2068
+    },
+    {
+      "path": "papers/main-projects/ecosystem/support-model.md",
+      "href": "/papers/main-projects/ecosystem/support-model.html",
+      "title": "Distributed Support",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 2222
+    },
+    {
+      "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
+      "href": "/papers/main-projects/ecosystem/value-management-ecosystem.html",
+      "title": "Economy of capacity",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 3356
+    },
+    {
+      "path": "papers/main-projects/ecosystem/will-to-potential.md",
+      "href": "/papers/main-projects/ecosystem/will-to-potential.html",
+      "title": "Will to potential",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 1062
     },
     {
       "path": "papers/main-projects/dk/ap-platform.ES.md",
@@ -468,24 +504,6 @@
       "bytes": 11
     },
     {
-      "path": "papers/main-projects/ecosystem/dktron.md",
-      "href": "/papers/main-projects/ecosystem/dktron.html",
-      "title": "Dktron",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 7
-    },
-    {
-      "path": "papers/main-projects/ecosystem/support-model.md",
-      "href": "/papers/main-projects/ecosystem/support-model.html",
-      "title": "Support Model",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 14
-    },
-    {
       "path": "papers/main-projects/ecosystem/support-stations.md",
       "href": "/papers/main-projects/ecosystem/support-stations.html",
       "title": "Support Stations",
@@ -495,31 +513,13 @@
       "bytes": 17
     },
     {
-      "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
-      "href": "/papers/main-projects/ecosystem/value-management-ecosystem.html",
-      "title": "Value Management Ecosystem",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 27
-    },
-    {
-      "path": "papers/main-projects/ecosystem/will-to-potential.md",
-      "href": "/papers/main-projects/ecosystem/will-to-potential.html",
-      "title": "Will To Potential",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 18
-    },
-    {
       "path": "papers/main-projects/organization/daf.md",
       "href": "/papers/main-projects/organization/daf.html",
-      "title": "DAF - Decentralized Autonomous Federation",
+      "title": "DAF — transitional federation scaffold",
       "language": "en",
       "kind": "paper",
       "state": "open",
-      "bytes": 44
+      "bytes": 43
     },
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.md",
@@ -547,6 +547,15 @@
       "kind": "document",
       "state": "context",
       "bytes": 595
+    },
+    {
+      "path": "roadmap/DIRECTION.md",
+      "href": "/roadmap/DIRECTION.html",
+      "title": "Direction — Drayker, without dates",
+      "language": "en",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 7633
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
@@ -911,11 +920,11 @@
     {
       "path": "roadmap/main-projects/organization/daf-roadmap.md",
       "href": "/roadmap/main-projects/organization/daf-roadmap.html",
-      "title": "DAF - Decentralized Autonomous Federation",
+      "title": "DAF — transitional federation scaffold",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 44
+      "bytes": 43
     },
     {
       "path": "roadmap/main-projects/organization/README.ES.md",
@@ -1014,7 +1023,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2451
+      "bytes": 2674
     },
     {
       "path": "roadmap/README.PT.md",

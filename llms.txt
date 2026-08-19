@@ -1,6 +1,6 @@
 # Dknowledge
 
-> Drayker's public knowledge layer: current orientation, papers, architecture, decisions, evidence and historical context connected to their sources.
+> Drayker's distributed memory and operational ontology across personal, project, local and global scales. This repository is the public surface for current shared orientation, papers, architecture, decisions and evidence connected to provenance.
 
 ## Read in this order
 
@@ -16,6 +16,12 @@
 - A documented architecture is not proof that a service is deployed.
 - Every factual claim should remain traceable to its public source.
 - Drayker is the system; Dk is its intelligence; Dk Network is its network.
+- Personal context remains personal; the public repository is a shared junction, not one store that absorbs every member's memory.
+- Auditability does not mean total exposure: public, personal, project-restricted and security-sensitive information may have different permissions and authorized Dk contexts.
+- Dk can synthesize relations held in Dknowledge; systemic safeguards — constitutional constraints, security, permissions, integrity, reserves and risk — bound what can be executed; consequential authority remains accountable to the member institutions defined for the context.
+- Decisions do not end the loop: effects, refusals and consequences return through members' personal Dks as new evidence, without a universal individual veto; a decision can be maintained, adapted, excepted, suspended or reversed.
+- Security conditions normal decisions, not only attacks. Legitimate criticism is not infiltration; internal error is not sabotage; extraordinary measures leave memory for later review.
+- The current ecosystem papers define Distributed Support, Dktron, the economy of capacity and Will to Potential in relation to the whole system.
 
 ## Crawling and citation
 
