@@ -16,6 +16,16 @@ The systemic final form of Dknowledge is described as **evolutionary knowledge g
 
 Each scale of the intelligence carries its own knowledge: Dk Personal is connected to the person's personal Dknowledge, Dk Global to global Dknowledge, and every organization and project has its own Dknowledge in connection with a specialized Dk. Dknowledge is not one repository of everything — it is the pattern repeated at every scale, and the global Dknowledge is the junction of them all.
 
+## E.C.H.: the metabolism that underlies this memory
+
+One of the formulations of origin for Dknowledge's cognitive metabolism is the **E.C.H. trinity — Expansion, Complexity and Harmony**. It describes how the knowledge the memory conserves keeps living instead of becoming a static deposit:
+
+- **Expansion** is the entry current: conversations, documents, observations, data, experiences, results and signals arrive. The problem is not to accumulate everything; it is not to lose potential intelligence before it can be contextualized.
+- **Complexity** is the connection work. Isolated information gains value when it can be related to concepts, sources, decisions, people, events, hypotheses and other knowledge. Complexity here means density of useful relations, not complication — the movement by which fragments become a body of knowledge.
+- **Harmony** is the search for coherence, authenticity and integrity of the knowledge state. New entries can contradict earlier records, reveal incompatible versions or expose an outdated hypothesis. Harmony does not erase divergence to produce an appearance of order: it identifies dissonance, preserves its provenance and asks whether the model must be corrected, contextualized, split into versions or kept as an open question. Coherence that is healthy preserves integrity through transformation, not blind fidelity to the previous form.
+
+The E.C.H. metabolism repeats at every scale, just like Dknowledge itself. A personal Dknowledge receives experience, connects it to the member's history and reorganizes its state; a project Dknowledge receives results, relates functions, decisions and evidence and updates what the team knows; a global relationship can enter the same cycle. The E.C.H. distinction is also what prevents Dknowledge from being confused with the intelligence itself: the Dk interprets and acts; Dknowledge conserves and relates, and E.C.H. is the rhythm by which that conservation stays revisable.
+
 ## What is here
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
