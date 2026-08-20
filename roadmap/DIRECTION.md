@@ -61,9 +61,9 @@ Global testing: computation, security, A.I modules, cryptography. Evolutionary c
 
 **State: future.**
 
-The Project and Application Platform (PAP), UID as the super app, and the ecosystem: the value units (Dktron and its representations), the funds, the exchange with the outside. The value layer is designed as documented future work — value backed by production, reputation in transferable and non-transferable kinds, the value management ecosystem (VME) as the whole that organizes funds by category and cause.
+The Project and Application Platform (PAP), UID as the super app, Distributed Support, and the ecosystem: Dktron and other value units, funds, non-deterministic resource distribution, worldwide donation conversion and exchange with the outside. Dktron is one proposed unitary form, distinct from reputation and DAF points; no unit, stabilization mechanism or monetary system operates today. VME remains the wider proposal for organizing funds by category and cause.
 
-*Exit condition:* a unit of record that works before any unit that moves.
+*Exit condition:* an accountable unit of record and one bounded support path work before any currency operates.
 
 ---
 
@@ -91,9 +91,9 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 
 **State: future.**
 
-The first main projects 1.0, and the first embassy. The federation (DAF) moves to its substrate — ICP — when there is value whose guarantee justifies a chain, carrying a real history into the migration. The network of mass participation begins to touch the ground.
+The first main projects 1.0, and the first embassy. If a token-economy DAF phase needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground.
 
-*Exit condition:* a place where the system exists physically, and projects funded by their own delivered work.
+*Exit condition:* a place where the system exists physically, and PAP can absorb the federation's useful functions and infrastructure.
 
 ---
 
