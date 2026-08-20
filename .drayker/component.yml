@@ -1,20 +1,23 @@
 schema_version: 1
 component:
   id: dknowledge
-  name: Dknowledger
+  name: Dknowledge
   layer: KNOWLEDGE
   artifact_type: knowledge-base
   problem: Keep the public vision, architecture, papers and historical roadmaps of Drayker connected to their sources.
   scope:
     - Public documentation and knowledge history for Drayker and Dk.
     - Clear distinction between current orientation and historical material.
+    - The E.C.H. cycle across personal, project and global knowledge.
+    - Anonymous federated learning through patterns or model updates with depersonalized metadata, with independent validation increasing global weight.
+    - Deliberate, authorized sharing of knowledge or narrative with provenance and permissions, kept distinct from federated learning.
   non_scope:
     - The private local Dknowledger vault.
     - An operational distributed data, sensor, oracle or ontology platform.
   dependencies:
     - dk
     - dfmp
-    - daf
+    - pap
   implementation:
     level: operational
     scope: The public documentation site is deployed; the broader knowledge-system vision is not implemented.
@@ -26,10 +29,11 @@ component:
   risks:
     - Historical roadmaps can be mistaken for current commitments.
     - The long-term knowledge-system vision can be confused with the deployed documentation site.
+    - Anonymous or depersonalized learning can be overstated before re-identification safeguards are specified and tested.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dknowledge/issues
   source_of_truth:
     repository: https://github.com/draykerdk/dknowledge
     path: README.md
-  last_reviewed: "2026-08-10"
+  last_reviewed: "2026-08-20"
