@@ -16,6 +16,12 @@ The systemic final form of Dknowledge is described as **evolutionary knowledge g
 
 Each scale of the intelligence carries its own knowledge: Dk Personal is connected to the person's personal Dknowledge, Dk Global to global Dknowledge, and every organization and project has its own Dknowledge in connection with a specialized Dk. Dknowledge is not one repository of everything — it is the pattern repeated at every scale, and the global Dknowledge is the junction of them all.
 
+One of the conceptual bases for that pattern is **E.C.H.: Expansion, Complexity and Harmony**. Expansion admits relevant experience, data and knowledge without treating accumulation as the goal. Complexity connects entries to sources, decisions, hypotheses and other relations. Harmony checks coherence and integrity while keeping contradictions visible; it may integrate a new entry, keep alternatives contextualized, or conclude that the previous state must be reconstructed. The cycle repeats at personal, project and global scales.
+
+Learning crosses scales in two distinct ways. In **anonymous federated learning**, raw experience stays at its originating instance while patterns or model updates circulate with depersonalized metadata. Global Dknowledge can therefore hold broader context and deeper learned structure without becoming a collection of personal histories; when a pattern is validated independently in other instances, its weight in global learning becomes progressively stronger. In **deliberate contribution**, a person or unit chooses to share knowledge, evidence or narrative under explicit permissions and provenance. Neither route makes private context common property, and the federated route still requires a re-identification threat model before implementation.
+
+Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed.
+
 ## What is here
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
@@ -28,7 +34,7 @@ Main projects sit in priority and time queues; effort and resources treat them a
 
 ## How it fits the whole
 
-Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
+Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [PAP](https://pap.drayker.org) is the durable environment for projects and applications, and [DAF](https://daf.drayker.org) is a transitional governance experiment — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
 
 A complex system needs memory that can be *followed*, not just information that can be stored. That is the whole reason this repository exists.
 
