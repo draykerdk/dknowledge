@@ -61,9 +61,9 @@ Global testing: computation, security, A.I modules, cryptography. Evolutionary c
 
 **State: future.**
 
-The Project and Application Platform (PAP), UID as the super app, and the ecosystem: Dktron as the proposed stable representation of resources and their distribution across project and category funds, and the exchange with the outside through Drayker bridges. The value layer is documented future work: reputation is contextual operational memory distinct from value, and no unit, bridge or stabilization mechanism exists today.
+The Project and Application Platform (PAP), UID as the super app, Distributed Support, and the ecosystem: Dktron and other value units, funds, non-deterministic resource distribution, worldwide donation conversion and exchange with the outside. Dktron is one proposed unitary form, distinct from reputation and DAF points; no unit, stabilization mechanism or monetary system operates today. VME remains the wider proposal for organizing funds by category and cause.
 
-*Exit condition:* a unit of record that works before any unit that moves.
+*Exit condition:* an accountable unit of record and one bounded support path work before any currency operates.
 
 ---
 
@@ -71,7 +71,7 @@ The Project and Application Platform (PAP), UID as the super app, and the ecosys
 
 **State: future.**
 
-Dk Personal (the continuous representation that belongs to one member), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
+Dk Personal (the agent that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
 
 *Exit condition:* a person can form, contribute and be attributed through the platform.
 
@@ -91,9 +91,9 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 
 **State: future.**
 
-The first main projects 1.0, and the first embassy. The federation (DAF) moves to its substrate — ICP — when there is value whose guarantee justifies a chain, carrying a real history into the migration. The network of mass participation begins to touch the ground.
+The first main projects 1.0, and the first embassy. If a token-economy DAF phase needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground.
 
-*Exit condition:* a place where the system exists physically, and projects funded by their own delivered work.
+*Exit condition:* a place where the system exists physically, and PAP can absorb the federation's useful functions and infrastructure.
 
 ---
 
@@ -111,7 +111,7 @@ The first main projects 1.0, and the first embassy. The federation (DAF) moves t
 - [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap with the phase structure this page states without dates.
 - [Current orientation](../CURRENT.md) — what is available now, what remains architecture, and how founding governance works.
 - [Roadmap index](./README.md) — the structure of project roadmaps and how they are organized.
-- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, economy of capacity, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
+- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
 
 **The components named in the phases**
 

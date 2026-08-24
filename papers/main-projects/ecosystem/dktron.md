@@ -7,15 +7,15 @@ reviewed: 2026-08-17
 
 # Dktron: resources, funds and external exchange
 
-Dktron is Drayker's proposed stable representation of resources available to the system and distributed among its funds and projects. It also has an external-exchange role: Dktron can be negotiated outside Drayker through bridge infrastructure built by the organization.
+Dktron is one proposed **unitary form of value in the capacity economy**: a single Drayker unit that can carry resource distributions inside the system and relate them to economies outside it. Internally it participates in the non-deterministic distribution of resources. Externally it may operate as a currency in external markets — one intended function is to convert donations received in foreign currencies around the world into one Drayker unit, with its own proposed stabilization and economic mechanisms.
 
 ## Current distinction
 
 - **External economy:** money, contracts, assets, donations, purchases and exchanges through which Drayker relates to governments, corporations and other systems.
-- **Internal economy:** Dktron represents available resources and distributions to project and category funds. A project decides how to spend the capacity it receives within its purpose, permissions and accountability constraints.
+- **Internal economy:** a Dktron can represent and move an allocation after a contextual, non-deterministic decision, linking it to source, purpose, permissions and review path. The decision to expand someone's or a project's capacity still depends on context and member governance, not on mere ownership of the unit.
 - **Reputation:** non-transferable contextual memory of a member's relationship with common capacity; it has no purchase price.
-- **Dktron:** a carrier and accounting representation of capacity with provenance, purpose, permissions and constraints.
-- **External bridge:** proposed Drayker infrastructure through which Dktron can be exchanged or negotiated with external money and assets.
+- **Federative points:** a separate, non-transferable ledger for one governance experiment inside the transitional federation.
+- **Dktron:** a third object — a unit of value that may carry resource distributions, connect foreign-currency donations to one system unit and participate in external markets without letting money buy position inside Drayker.
 - **Stable value:** an architectural requirement intended to make resource accounting and external exchange coherent; its mechanism still requires specification and evidence.
 
 A large donation can produce major reputation because it became major real capacity for the system, not because a fixed exchange rate lets somebody buy standing or sovereignty.
