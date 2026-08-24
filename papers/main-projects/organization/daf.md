@@ -1,1 +1,1 @@
-# DAF - Decentralized Autonomous Federation
+# DAF — transitional federation scaffold
