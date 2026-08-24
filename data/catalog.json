@@ -222,7 +222,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 5429
+      "bytes": 6965
     },
     {
       "path": "README.PT.md",
@@ -240,7 +240,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2068
+      "bytes": 2494
     },
     {
       "path": "papers/main-projects/ecosystem/support-model.md",
@@ -555,7 +555,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 7633
+      "bytes": 7855
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
