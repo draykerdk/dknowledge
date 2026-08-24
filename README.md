@@ -1,4 +1,4 @@
-Dknowledge is the distributed memory of Drayker and Dk. Its systemic design repeats across personal, project, local and global scales; this repository is the official public surface where shared orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources.
+Dknowledge is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
 
 Single official public site: **[dknowledge.drayker.org](https://dknowledge.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
 
@@ -6,7 +6,7 @@ Its first versions exist to get volunteers and stakeholders into the ecosystem. 
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results expands common capacity instead of concentrating. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources and kept at the scale where it belongs.
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
@@ -16,15 +16,11 @@ The systemic final form of Dknowledge is described as **evolutionary knowledge g
 
 Each scale of the intelligence carries its own knowledge: Dk Personal is connected to the person's personal Dknowledge, Dk Global to global Dknowledge, and every organization and project has its own Dknowledge in connection with a specialized Dk. Dknowledge is not one repository of everything — it is the pattern repeated at every scale, and the global Dknowledge is the junction of them all.
 
-## E.C.H.: the metabolism that underlies this memory
+One of the conceptual bases for that pattern is **E.C.H.: Expansion, Complexity and Harmony**. Expansion admits relevant experience, data and knowledge without treating accumulation as the goal. Complexity connects entries to sources, decisions, hypotheses and other relations. Harmony checks coherence and integrity while keeping contradictions visible; it may integrate a new entry, keep alternatives contextualized, or conclude that the previous state must be reconstructed. The cycle repeats at personal, project and global scales.
 
-One of the formulations of origin for Dknowledge's cognitive metabolism is the **E.C.H. trinity — Expansion, Complexity and Harmony**. It describes how the knowledge the memory conserves keeps living instead of becoming a static deposit:
+Learning crosses scales in two distinct ways. In **anonymous federated learning**, raw experience stays at its originating instance while patterns or model updates circulate with depersonalized metadata. Global Dknowledge can therefore hold broader context and deeper learned structure without becoming a collection of personal histories; when a pattern is validated independently in other instances, its weight in global learning becomes progressively stronger. In **deliberate contribution**, a person or unit chooses to share knowledge, evidence or narrative under explicit permissions and provenance. Neither route makes private context common property, and the federated route still requires a re-identification threat model before implementation.
 
-- **Expansion** is the entry current: conversations, documents, observations, data, experiences, results and signals arrive. The problem is not to accumulate everything; it is not to lose potential intelligence before it can be contextualized.
-- **Complexity** is the connection work. Isolated information gains value when it can be related to concepts, sources, decisions, people, events, hypotheses and other knowledge. Complexity here means density of useful relations, not complication — the movement by which fragments become a body of knowledge.
-- **Harmony** is the search for coherence, authenticity and integrity of the knowledge state. New entries can contradict earlier records, reveal incompatible versions or expose an outdated hypothesis. Harmony does not erase divergence to produce an appearance of order: it identifies dissonance, preserves its provenance and asks whether the model must be corrected, contextualized, split into versions or kept as an open question. Coherence that is healthy preserves integrity through transformation, not blind fidelity to the previous form.
-
-The E.C.H. metabolism repeats at every scale, just like Dknowledge itself. A personal Dknowledge receives experience, connects it to the member's history and reorganizes its state; a project Dknowledge receives results, relates functions, decisions and evidence and updates what the team knows; a global relationship can enter the same cycle. The E.C.H. distinction is also what prevents Dknowledge from being confused with the intelligence itself: the Dk interprets and acts; Dknowledge conserves and relates, and E.C.H. is the rhythm by which that conservation stays revisable.
+Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed.
 
 ## What is here
 
@@ -38,7 +34,7 @@ Main projects sit in priority and time queues; effort and resources treat them a
 
 ## How it fits the whole
 
-Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [DAF](https://daf.drayker.org) is the organization — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
+Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [PAP](https://pap.drayker.org) is the durable environment for projects and applications, and [DAF](https://daf.drayker.org) is a transitional governance experiment — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
 
 A complex system needs memory that can be *followed*, not just information that can be stored. That is the whole reason this repository exists.
 
