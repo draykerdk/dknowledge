@@ -8,7 +8,7 @@ component:
   scope:
     - Public documentation and knowledge history for Drayker and Dk.
     - Clear distinction between current orientation and historical material.
-    - The E.C.H. cycle across personal, project and global knowledge.
+    - The E.C.H. Triad (Expansion, Complexity, Harmony) across scales, grounded in complex systems dynamics and scale invariance, with Harmony capable of reconstructing the model.
     - Anonymous federated learning through patterns or model updates with depersonalized metadata, with independent validation increasing global weight.
     - Deliberate, authorized sharing of knowledge or narrative with provenance and permissions, kept distinct from federated learning.
   non_scope:
@@ -29,11 +29,11 @@ component:
   risks:
     - Historical roadmaps can be mistaken for current commitments.
     - The long-term knowledge-system vision can be confused with the deployed documentation site.
-    - Anonymous or depersonalized learning can be overstated before re-identification safeguards are specified and tested.
+    - Anonymous or depersonalized learning can be overstated before re-identification safeguards are tested.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dknowledge/issues
   source_of_truth:
     repository: https://github.com/draykerdk/dknowledge
     path: README.md
-  last_reviewed: "2026-08-20"
+  last_reviewed: "2026-09-03"
