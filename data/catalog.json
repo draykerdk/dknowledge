@@ -72,19 +72,10 @@
       "bytes": 1526
     },
     {
-      "path": "papers/main-projects/ecosystem/README .ES.md",
-      "href": "/papers/main-projects/ecosystem/README%20.ES.html",
+      "path": "papers/main-projects/ecosystem/README.ES.md",
+      "href": "/papers/main-projects/ecosystem/README.ES.html",
       "title": "Ecosystem Proposals",
       "language": "es",
-      "kind": "guide",
-      "state": "current",
-      "bytes": 934
-    },
-    {
-      "path": "papers/main-projects/ecosystem/README .PT.md",
-      "href": "/papers/main-projects/ecosystem/README%20.PT.html",
-      "title": "Ecosystem Proposals",
-      "language": "pt",
       "kind": "guide",
       "state": "current",
       "bytes": 934
@@ -97,6 +88,15 @@
       "kind": "guide",
       "state": "current",
       "bytes": 1632
+    },
+    {
+      "path": "papers/main-projects/ecosystem/README.PT.md",
+      "href": "/papers/main-projects/ecosystem/README.PT.html",
+      "title": "Ecosystem Proposals",
+      "language": "pt",
+      "kind": "guide",
+      "state": "current",
+      "bytes": 934
     },
     {
       "path": "papers/main-projects/organization/README.ES.md",
@@ -405,27 +405,27 @@
       "bytes": 93
     },
     {
-      "path": "papers/main-projects/dk/linving-cryptograph.ES.md",
-      "href": "/papers/main-projects/dk/linving-cryptograph.ES.html",
-      "title": "Living Cryptograph.ES",
+      "path": "papers/main-projects/dk/living-cryptography.ES.md",
+      "href": "/papers/main-projects/dk/living-cryptography.ES.html",
+      "title": "Living Cryptography.ES",
       "language": "es",
       "kind": "paper",
       "state": "open",
       "bytes": 127
     },
     {
-      "path": "papers/main-projects/dk/linving-cryptograph.md",
-      "href": "/papers/main-projects/dk/linving-cryptograph.html",
-      "title": "Living Cryptograph",
+      "path": "papers/main-projects/dk/living-cryptography.md",
+      "href": "/papers/main-projects/dk/living-cryptography.html",
+      "title": "Living Cryptography",
       "language": "en",
       "kind": "paper",
       "state": "open",
       "bytes": 123
     },
     {
-      "path": "papers/main-projects/dk/linving-cryptograph.PT.md",
-      "href": "/papers/main-projects/dk/linving-cryptograph.PT.html",
-      "title": "Living Cryptograph.PT",
+      "path": "papers/main-projects/dk/living-cryptography.PT.md",
+      "href": "/papers/main-projects/dk/living-cryptography.PT.html",
+      "title": "Living Cryptography.PT",
       "language": "pt",
       "kind": "paper",
       "state": "open",
@@ -720,27 +720,27 @@
       "bytes": 117
     },
     {
-      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.ES.md",
-      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.ES.html",
-      "title": "Living Cryptograph Roadmap.ES",
+      "path": "roadmap/main-projects/dk/living-cryptography-roadmap.ES.md",
+      "href": "/roadmap/main-projects/dk/living-cryptography-roadmap.ES.html",
+      "title": "Living Cryptography Roadmap.ES",
       "language": "es",
       "kind": "roadmap",
       "state": "historical",
       "bytes": 151
     },
     {
-      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.md",
-      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.html",
-      "title": "Living Cryptograph Roadmap",
+      "path": "roadmap/main-projects/dk/living-cryptography-roadmap.md",
+      "href": "/roadmap/main-projects/dk/living-cryptography-roadmap.html",
+      "title": "Living Cryptography Roadmap",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
       "bytes": 147
     },
     {
-      "path": "roadmap/main-projects/dk/linving-cryptograph-roadmap.PT.md",
-      "href": "/roadmap/main-projects/dk/linving-cryptograph-roadmap.PT.html",
-      "title": "Living Cryptograph Roadmap.PT",
+      "path": "roadmap/main-projects/dk/living-cryptography-roadmap.PT.md",
+      "href": "/roadmap/main-projects/dk/living-cryptography-roadmap.PT.html",
+      "title": "Living Cryptography Roadmap.PT",
       "language": "pt",
       "kind": "roadmap",
       "state": "historical",
@@ -855,19 +855,10 @@
       "bytes": 7
     },
     {
-      "path": "roadmap/main-projects/ecosystem/README .ES.md",
-      "href": "/roadmap/main-projects/ecosystem/README%20.ES.html",
+      "path": "roadmap/main-projects/ecosystem/README.ES.md",
+      "href": "/roadmap/main-projects/ecosystem/README.ES.html",
       "title": "Ecosystem Proposals",
       "language": "es",
-      "kind": "roadmap",
-      "state": "historical",
-      "bytes": 934
-    },
-    {
-      "path": "roadmap/main-projects/ecosystem/README .PT.md",
-      "href": "/roadmap/main-projects/ecosystem/README%20.PT.html",
-      "title": "Ecosystem Proposals",
-      "language": "pt",
       "kind": "roadmap",
       "state": "historical",
       "bytes": 934
@@ -880,6 +871,15 @@
       "kind": "roadmap",
       "state": "historical",
       "bytes": 916
+    },
+    {
+      "path": "roadmap/main-projects/ecosystem/README.PT.md",
+      "href": "/roadmap/main-projects/ecosystem/README.PT.html",
+      "title": "Ecosystem Proposals",
+      "language": "pt",
+      "kind": "roadmap",
+      "state": "historical",
+      "bytes": 934
     },
     {
       "path": "roadmap/main-projects/ecosystem/support-model-roadmap.md",
