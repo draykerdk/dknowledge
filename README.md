@@ -1,12 +1,18 @@
-Dknowledge is the public knowledge layer of Drayker and Dk: the place where current orientation, papers, architecture, decisions, evidence and historical roadmaps remain connected to their sources instead of scattered across repositories.
+> Knowledge with sources, context and a path to correction.
 
-Single official public site: **[dknowledge.drayker.org](https://dknowledge.drayker.org)**. The main Drayker sites link here instead of maintaining a second public copy of this material.
+Dknowledge connects the papers, architecture, decisions and evidence of Drayker. Its longer-term design links public, project and personal knowledge under distinct access and provenance rules.
 
-Its first versions exist to get volunteers and stakeholders into the ecosystem. Over time it is meant to become a structured base for all of Dk's data, sensors, files, oracles, processes and ontologies, across public, federated and private layers — that part is a stated direction, not a running system.
+Knowledge records should retain their origin, scope, revision history and relevant dependencies, so that a correction can prompt review of the conclusions built on it.
+
+Shared memory becomes more useful when people can inspect how it was formed, challenge it and carry corrections forward.
+
+## A practical example
+
+When a measurement is corrected, a project should be able to locate the analysis and decision that used it and record whether their conclusions still hold. This is an illustration of the proposed design.
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources.
+Dknowledge is the memory of it: what has been decided, tried, learned and discarded, still attached to its sources.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
