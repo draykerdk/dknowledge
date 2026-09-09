@@ -20,7 +20,9 @@ One of the conceptual bases for that pattern is **E.C.H.: Expansion, Complexity 
 
 Learning crosses scales in two distinct ways. In **anonymous federated learning**, raw experience stays at its originating instance while patterns or model updates circulate with depersonalized metadata. Global Dknowledge can therefore hold broader context and deeper learned structure without becoming a collection of personal histories; when a pattern is validated independently in other instances, its weight in global learning becomes progressively stronger. In **deliberate contribution**, a person or unit chooses to share knowledge, evidence or narrative under explicit permissions and provenance. Neither route makes private context common property, and the federated route still requires a re-identification threat model before implementation.
 
-Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed.
+Importantly, **memory is corrigible and contestable**. An individual member retains sovereign authority to inspect, contest, and correct algorithmic inferences made by their agent, revoking associations or exporting their relational memory graph without platform lock-in. 
+
+Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed. Epistemologically, Dknowledge operates under the core Drayker principle: **kind to people, relentless with ideas** — protecting the unconditional dignity and situated context of every human participant, while holding every technical hypothesis, proof, and allocation to uncompromising empirical verification. Economic models documented here reflect the strict tri-spherical separation: common capacity reserves, project-linked temporary custody, and personal member balances (Dktron) immune to inactivity forfeiture.
 
 ## What is here
 
