@@ -1,30 +1,38 @@
 ---
-title: "Dktron and the value boundary — current synthesis"
+title: "Dktron: common capacity, project custody and personal balances"
 state: current
 language: en
-reviewed: 2026-08-17
+reviewed: 2026-09-09
 ---
 
-# Dktron: resources, funds and external exchange
+# Dktron: three meanings that accounting must preserve
 
-Dktron is one proposed **unitary form of value in the capacity economy**: a single Drayker unit that can carry resource distributions inside the system and relate them to economies outside it. Internally it participates in the non-deterministic distribution of resources. Externally it may operate as a currency in external markets — one intended function is to convert donations received in foreign currencies around the world into one Drayker unit, with its own proposed stabilization and economic mechanisms.
+Dktron is proposed as a unit for accounting and accessing the material capacity of Drayker. Its design distinguishes resources held in common, allocations entrusted to a project and balances attributed to a person. These records have different purposes and obligations, even when expressed in the same unit.
 
-## Current distinction
+## Common capacity
 
-- **External economy:** money, contracts, assets, donations, purchases and exchanges through which Drayker relates to governments, corporations and other systems.
-- **Internal economy:** a Dktron can represent and move an allocation after a contextual, non-deterministic decision, linking it to source, purpose, permissions and review path. The decision to expand someone's or a project's capacity still depends on context and member governance, not on mere ownership of the unit.
-- **Reputation:** non-transferable contextual memory of a member's relationship with common capacity; it has no purchase price.
-- **Federative points:** a separate, non-transferable ledger for one governance experiment inside the transitional federation.
-- **Dktron:** a third object — a unit of value that may carry resource distributions, connect foreign-currency donations to one system unit and participate in external markets without letting money buy position inside Drayker.
-- **Stable value:** an architectural requirement intended to make resource accounting and external exchange coherent; its mechanism still requires specification and evidence.
+Common reserves represent resources available for support and collective activity. Their usefulness depends on the assets, services and liquidity actually available, together with accountable decisions about allocation. An accounting entry alone does not create the resource it represents.
 
-A large donation can produce major reputation because it became major real capacity for the system, not because a fixed exchange rate lets somebody buy standing or sovereignty.
+## Project allocations
 
-## Status
+A project allocation places capacity under temporary custody for an agreed purpose. Its record should identify the authorised use, responsible participants and review conditions. Unspent resources return according to the approved terms, including the treatment of completion or abandonment. Custody is distinct from a personal balance.
 
-No Dktron is issued, priced, sold or exchangeable. No external bridge or stabilization mechanism operates, and stable value is not a present guarantee. The first public experiment should be an accountable resource ledger with project funds and spending authority; stabilization and bridge experiments follow once the semantics are explicit.
+## Personal balances
+
+A member's personal balance may be retained, transferred or converted through an authorised resource or liquidity bridge. Inactivity alone does not cause forfeiture. Conversion for needs such as housing, food or tools depends on real reserves and the conditions of the bridge. The design grants neither passive yield nor constitutional authority merely for holding a balance.
+
+For example, closing a project could require returning an unused project allocation while the same participant keeps a separately attributed personal balance. The ledger must preserve that distinction and prevent the same capacity from being counted or spent twice.
+
+## Related records
+
+Contextual reputation concerns contribution and evidence. DAF federative points concern a separate governance experiment. Neither is interchangeable with a Dktron balance. The interpretation and treatment of contributions belong in explicit governance rules, rather than an automatic exchange rate between money and standing.
+
+## Development boundary
+
+No Dktron is currently issued, priced, sold or exchangeable. Reserve accounting, redemption and liquidity mechanisms require specification and testing. A first worked ledger should demonstrate the three spheres, authorised transfers, project closure and a redemption limited by actual available resources.
 
 ## Sources
 
-- [Value Unit component](https://value.drayker.org)
-- [Drayker economy](https://drayker.org/economy/)
+- [Value Unit](https://value.drayker.org), the component proposal.
+- [Drayker economy](https://drayker.org/economy/), the system-level account.
+- [Current governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), the institutional context.
