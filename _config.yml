@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Dknowledge"
-description: "Drayker's public knowledge layer — current orientation, papers, architecture, evidence and historical context connected to their sources."
+description: "Knowledge with sources, context and a path to correction. Dknowledge connects the papers, architecture, decisions and evidence of Drayker. Its longer-term design links public, project and personal knowledge under distinct access and provenance rules."
 
 dk_kicker: "Knowledge base"
 dk_subdomain: "dknowledge.drayker.org"

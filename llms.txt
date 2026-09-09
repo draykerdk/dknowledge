@@ -1,6 +1,6 @@
 # Dknowledge
 
-> Drayker's distributed memory and operational ontology across personal, project, local and global scales. This repository is the public surface for current shared orientation, papers, architecture, decisions and evidence connected to provenance.
+> Dknowledge connects the papers, architecture, decisions and evidence of Drayker. Its longer-term design links public, project and personal knowledge under distinct access and provenance rules.
 
 ## Read in this order
 
