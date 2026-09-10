@@ -4,7 +4,7 @@
   "counts": {
     "documents": 114,
     "papers": 16,
-    "open_shells": 12,
+    "open_shells": 11,
     "languages": 3
   },
   "documents": [
@@ -222,7 +222,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 6965
+      "bytes": 7629
     },
     {
       "path": "README.PT.md",
@@ -234,13 +234,22 @@
       "bytes": 1726
     },
     {
-      "path": "papers/main-projects/ecosystem/dktron.md",
-      "href": "/papers/main-projects/ecosystem/dktron.html",
-      "title": "Dktron: resources, funds and external exchange",
+      "path": "papers/main-projects/dk/dknowledge.md",
+      "href": "/papers/main-projects/dk/dknowledge.html",
+      "title": "Dknowledge: memory that can be examined and corrected",
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2494
+      "bytes": 2051
+    },
+    {
+      "path": "papers/main-projects/ecosystem/dktron.md",
+      "href": "/papers/main-projects/ecosystem/dktron.html",
+      "title": "Dktron: three meanings that accounting must preserve",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 2783
     },
     {
       "path": "papers/main-projects/ecosystem/support-model.md",
@@ -358,15 +367,6 @@
       "kind": "paper",
       "state": "open",
       "bytes": 97
-    },
-    {
-      "path": "papers/main-projects/dk/dknowledge.md",
-      "href": "/papers/main-projects/dk/dknowledge.html",
-      "title": "Dknowledge",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 96
     },
     {
       "path": "papers/main-projects/dk/dknowledge.PT.md",
