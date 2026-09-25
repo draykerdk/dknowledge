@@ -10,7 +10,7 @@ Each phase names the work, the state it is in today, and the **exit condition** 
 
 ## The objective: 2033
 
-The goal Drayker gives itself is to bring the mission to a point of no return by 2033 — Drayker consolidated, with Dk Global fully operating — and to have something very close to that before then (*Do animal à superinteligência*, chapters 47 and 48).
+The goal Drayker gives itself is to bring the mission to a point of no return by 2033 — Drayker consolidated, with Dk Global fully operating — and to have something very close to that before then.
 
 A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts working together before the infrastructure of their own exists. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use and the great migration of people, projects and memory into the network starts.
 
@@ -109,7 +109,7 @@ The first main projects 1.0, and the first embassy. If a token-economy DAF phase
 
 - **One date, as an objective.** Each phase keeps its exit condition; 2033 is the goal the phases are measured against, not a schedule that replaces them.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
-- **Intelligence is the means, never the master.** Every phase serves the will to potential of every person.
+- **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
 
 ## Sources and further reading

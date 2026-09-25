@@ -30,7 +30,7 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 
 ## Good first contributions
 
-- One of the 16 English paper shells has only a title: write its scope and connect its sources.
+- One of the 11 English paper shells has only a title: write its scope and connect its sources.
 - Find a claim that no longer matches a component contract and open a correction issue.
 - Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 

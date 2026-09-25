@@ -32,6 +32,8 @@ Synthesis alone does not authorize an action. Systemic safeguards — constituti
 
 The ecosystem papers now contain the current canonical formulations of [Distributed Support](./papers/main-projects/ecosystem/support-model.md), [Dktron](./papers/main-projects/ecosystem/dktron.md), the [economy of capacity](./papers/main-projects/ecosystem/value-management-ecosystem.md) and [Will to Potential](./papers/main-projects/ecosystem/will-to-potential.md). They replace the former one-line placeholders.
 
+The Dk papers now contain [Constitutional alignment](./papers/main-projects/dk/constitutional-alignment.md), the current synthesis of how Dk Global is meant to stay aligned with members as it improves itself.
+
 ## Governance now
 
 Drayker is in a founding phase. Public contribution is open, while the GitHub account [`Hyadhuad`](https://github.com/Hyadhuad) holds the explicit bootstrap authority to edit or integrate directly. Proposed DAF, DAO and council mechanisms are not presented as operating institutions.

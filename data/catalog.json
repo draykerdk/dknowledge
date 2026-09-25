@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": "Generated from the committed repository by tools/build-catalog.js",
   "counts": {
-    "documents": 114,
-    "papers": 16,
+    "documents": 115,
+    "papers": 17,
     "open_shells": 11,
     "languages": 3
   },
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 4449
+      "bytes": 4659
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -60,7 +60,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1483
+      "bytes": 1734
     },
     {
       "path": "papers/main-projects/dk/README.PT.md",
@@ -232,6 +232,15 @@
       "kind": "guide",
       "state": "current",
       "bytes": 1726
+    },
+    {
+      "path": "papers/main-projects/dk/constitutional-alignment.md",
+      "href": "/papers/main-projects/dk/constitutional-alignment.html",
+      "title": "Constitutional alignment",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 8855
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -555,7 +564,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 9341
+      "bytes": 9338
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
