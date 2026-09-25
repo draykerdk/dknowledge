@@ -2,7 +2,7 @@
 
 [Português](./CONTRIBUTING.PT.md) · **English**
 
-Dknowledge is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, improving navigation and bringing a translation back in sync.
+Dknowledge is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, and improving navigation. English is the canonical language; translations are not maintained by hand.
 
 ## The current Git flow
 
@@ -30,8 +30,7 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 
 ## Good first contributions
 
-- One of the 16 English paper shells has only a title: write its scope and connect its sources.
-- Compare a translated document with its English source and update what drifted.
+- One of the 11 English paper shells has only a title: write its scope and connect its sources.
 - Find a claim that no longer matches a component contract and open a correction issue.
 - Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 
