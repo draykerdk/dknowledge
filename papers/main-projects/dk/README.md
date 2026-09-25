@@ -19,6 +19,10 @@ Construction: https://github.com/draykerdk/DK
 All proposed resolutions presented here are solutions to the requirements of Dk and Drayker platform and system, only those requirements are final. These motions for resolutions illustrate what should be done, but the definitive architecture will be structured around optimal solutions that are proposed and developed with metaprogramming intelligent algorithms and research organized through DFMP and other methods.
 
 
+### Current papers
+
+- [Constitutional alignment](./constitutional-alignment.md) — how Dk Global stays aligned with members as it improves itself: representation, justified vetoes with their grounds, triage, the four protections and the veto chain.
+
 ### Main Projects
 
 The main projects are minimal initial structure proposals, forming initial structures that guarantee the operation, until the final application, where Dk will assume its evolutionary development.

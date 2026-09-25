@@ -56,7 +56,7 @@ The most complete documentation in the Drayker ecosystem — start with [Current
 
 Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/). Reading a paper and writing down where it no longer matches reality is a genuinely useful contribution here.
 
-Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
+English is the canonical language of this knowledge base. The Portuguese and Spanish files that exist are preserved, many of them as historical sources, but are no longer kept in sync; read other languages through automatic translation. Native translation and localization are planned for the site itself.
 
 ---
 
