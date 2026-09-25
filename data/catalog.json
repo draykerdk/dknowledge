@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 4149
+      "bytes": 4449
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -258,7 +258,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2222
+      "bytes": 2522
     },
     {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
@@ -267,7 +267,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3356
+      "bytes": 3682
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
