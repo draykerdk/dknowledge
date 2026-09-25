@@ -24,7 +24,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1977
+      "bytes": 1936
     },
     {
       "path": "CONTRIBUTING.PT.md",
@@ -222,7 +222,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 7629
+      "bytes": 7811
     },
     {
       "path": "README.PT.md",
@@ -551,11 +551,11 @@
     {
       "path": "roadmap/DIRECTION.md",
       "href": "/roadmap/DIRECTION.html",
-      "title": "Direction — Drayker, without dates",
+      "title": "Direction — Drayker, toward 2033",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 7855
+      "bytes": 9341
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
@@ -1023,7 +1023,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2674
+      "bytes": 2686
     },
     {
       "path": "roadmap/README.PT.md",

@@ -1,12 +1,20 @@
-# Direction — Drayker, without dates
+# Direction — Drayker, toward 2033
 
-> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The phases there carry dates that were shallow estimates of priority; here the same structure is stated without dates, each phase with the condition that must be true before the next begins. What runs today is marked. Nothing here is a commitment, a schedule or a promise of funding.
-
-[English](./DIRECTION.md) | [Português](./DIRECTION.PT.md) | [Español](./DIRECTION.ES.md)
+> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The dates there were shallow estimates of priority; here each phase carries the condition that must be true before the next begins, and one date is stated as an objective: **Drayker consolidated and Dk Global fully operating by 2033**. What runs today is marked. Nothing here is a schedule or a promise of funding.
 
 ## How to read this
 
 Each phase names the work, the state it is in today, and the **exit condition** — what has to be true for the next phase to start. Phases are not sequential doors: the method allows independent parts to be worked on in parallel, and nothing waits for permission. The order exists to direct focus and resources, not to gate anyone.
+
+---
+
+## The objective: 2033
+
+The goal Drayker gives itself is to bring the mission to a point of no return by 2033 — Drayker consolidated, with Dk Global fully operating — and to have something very close to that before then (*Do animal à superinteligência*, chapters 47 and 48).
+
+A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts working together before the infrastructure of their own exists. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use and the great migration of people, projects and memory into the network starts.
+
+Each phase is measured by what works, not by the date. If the date arrives before the phases, the goal was missed, not the design. Competences keep growing by stages, through the members' process, as far as members can verify what Dk Global does.
 
 ---
 
@@ -81,7 +89,7 @@ Dk Personal (the agent that belongs to one person), the brain extension app, Dk 
 
 **State: future.**
 
-Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. The substrate, the intelligence and the knowledge layer become one system.
+Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system.
 
 *Exit condition:* the components specified in phase 3 exist as described.
 
@@ -91,7 +99,7 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 
 **State: future.**
 
-The first main projects 1.0, and the first embassy. If a token-economy DAF phase needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground.
+The first main projects 1.0, and the first embassy. If a token-economy DAF phase needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground, and the great migration of people, projects and memory into the network begins. This is the point the 2033 objective names.
 
 *Exit condition:* a place where the system exists physically, and PAP can absorb the federation's useful functions and infrastructure.
 
@@ -99,7 +107,7 @@ The first main projects 1.0, and the first embassy. If a token-economy DAF phase
 
 ## The transversal principles
 
-- **No dates.** Each phase has an exit condition instead.
+- **One date, as an objective.** Each phase keeps its exit condition; 2033 is the goal the phases are measured against, not a schedule that replaces them.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is the means, never the master.** Every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
@@ -108,7 +116,7 @@ The first main projects 1.0, and the first embassy. If a token-economy DAF phase
 
 **The roadmaps this is derived from**
 
-- [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap with the phase structure this page states without dates.
+- [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap whose phase structure this page keeps, with exit conditions in place of its old dates.
 - [Current orientation](../CURRENT.md) — what is available now, what remains architecture, and how founding governance works.
 - [Roadmap index](./README.md) — the structure of project roadmaps and how they are organized.
 - Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
