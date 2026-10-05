@@ -28,6 +28,8 @@ Learning crosses scales in two distinct ways. In **anonymous federated learning*
 
 Importantly, **memory is corrigible and contestable**. An individual member retains sovereign authority to inspect, contest, and correct algorithmic inferences made by their agent, revoking associations or exporting their relational memory graph without platform lock-in. 
 
+Dknowledge is also Dk's oracle. For each problem Dk solves, it records the process and explains it in two registers, a didactic one and a technical one, so the knowledge can be studied in the Academy and reviewed by Dk itself as an intelligent memory. A ledger of function responses returns results already computed instead of processing them again.
+
 Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed. Epistemologically, Dknowledge operates under the core Drayker principle: **kind to people, relentless with ideas** — protecting the unconditional dignity and situated context of every human participant, while holding every technical hypothesis, proof, and allocation to uncompromising empirical verification. Economic models documented here reflect the strict tri-spherical separation: common capacity reserves, project-linked temporary custody, and personal member balances (Dktron) immune to inactivity forfeiture.
 
 ## What is here
