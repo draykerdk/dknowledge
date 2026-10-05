@@ -26,17 +26,17 @@ Global Dknowledge is intended to be an operational ontology, not merely a docume
 
 ## Current economic interpretation
 
-Drayker's proposed internal economy circulates capacity rather than selling it among members. Money, contracts and markets belong to the external interface. Internally, Dk may synthesize need, intention, contextual reputation, trust, project quality, risk, impact and available resources; Dknowledge preserves the reasons and consequences; accountable member institutions authorize consequential allocations.
+Drayker's proposed internal economy circulates capacity rather than selling it among members. Money, contracts and markets belong to the external interface. Internally, Dk may synthesize need, intention, contextual reputation, trust, project quality, risk, impact and available resources; Dknowledge preserves the reasons and consequences. Dk Global decides only inside the space the members' constitution gives it, and consequential allocations stay open to representation, proposals and justified vetoes; the rules themselves are the members'.
 
 Synthesis alone does not authorize an action. Systemic safeguards — constitutional constraints, security, permissions, integrity, reserves and risk — condition what Dk proposes, so the executable decision is the one inside a permitted and safe space. Decisions do not end the loop: effects, refusals and consequences return through members' personal Dks as new evidence, without a universal individual veto. Every refusal carries its grounds, even when its author stays anonymous. A well-founded pattern of refusals can justify review, and so can a single refusal whose grounds bring information beyond the scope considered before the decision, once an advanced triage confirms what that information is and what it means ([veto chain](https://uid.drayker.org)). A decision can then be maintained, adapted, excepted, suspended or reversed.
 
 The ecosystem papers now contain the current canonical formulations of [Distributed Support](./papers/main-projects/ecosystem/support-model.md), [Dktron](./papers/main-projects/ecosystem/dktron.md), the [economy of capacity](./papers/main-projects/ecosystem/value-management-ecosystem.md) and [Will to Potential](./papers/main-projects/ecosystem/will-to-potential.md). They replace the former one-line placeholders.
 
-The Dk papers now contain [Constitutional alignment](./papers/main-projects/dk/constitutional-alignment.md), the current synthesis of how Dk Global is meant to stay aligned with members as it improves itself.
+The Dk papers now contain [Constitutional alignment](./papers/main-projects/dk/constitutional-alignment.md), the current synthesis of how Dk Global is meant to stay aligned with members as it improves itself, and [Supersystems and the choice of intelligence](./papers/main-projects/dk/supersystems.md), the forecast and the position Drayker starts from.
 
 ## Governance now
 
-Drayker is in a founding phase. Public contribution is open, while the GitHub account [`Hyadhuad`](https://github.com/Hyadhuad) holds the explicit bootstrap authority to edit or integrate directly. Proposed DAF, DAO and council mechanisms are not presented as operating institutions.
+Drayker is in a founding phase. Public contribution is open, while the GitHub account [`Hyadhuad`](https://github.com/Hyadhuad) holds the explicit bootstrap authority to edit or integrate directly. Proposed DAF and member council mechanisms are not presented as operating institutions.
 
 The versioned governance source is [`draykerdk/.github`](https://github.com/draykerdk/.github).
 
