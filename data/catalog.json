@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": "Generated from the committed repository by tools/build-catalog.js",
   "counts": {
-    "documents": 115,
-    "papers": 17,
+    "documents": 116,
+    "papers": 18,
     "open_shells": 11,
     "languages": 3
   },
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 4659
+      "bytes": 4943
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -60,7 +60,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1734
+      "bytes": 2040
     },
     {
       "path": "papers/main-projects/dk/README.PT.md",
@@ -240,7 +240,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 8855
+      "bytes": 10358
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -250,6 +250,15 @@
       "kind": "paper",
       "state": "draft",
       "bytes": 2051
+    },
+    {
+      "path": "papers/main-projects/dk/supersystems.md",
+      "href": "/papers/main-projects/dk/supersystems.html",
+      "title": "Supersystems and the choice of intelligence",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 6540
     },
     {
       "path": "papers/main-projects/ecosystem/dktron.md",
@@ -564,7 +573,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 9338
+      "bytes": 9758
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",

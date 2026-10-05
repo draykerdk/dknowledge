@@ -21,7 +21,8 @@ All proposed resolutions presented here are solutions to the requirements of Dk 
 
 ### Current papers
 
-- [Constitutional alignment](./constitutional-alignment.md) — how Dk Global stays aligned with members as it improves itself: representation, justified vetoes with their grounds, triage, the four protections and the veto chain.
+- [Constitutional alignment](./constitutional-alignment.md) — how Dk Global stays aligned with members as it improves itself: representation, justified vetoes with their grounds, triage, member councils, the two layers of the constitution, the four protections and the veto chain.
+- [Supersystems and the choice of intelligence](./supersystems.md) — the forecast that states and corporations fuse into supersystems, its signals, the four relations a new kind of intelligence can have with people, and Drayker's position as an exit.
 
 ### Main Projects
 

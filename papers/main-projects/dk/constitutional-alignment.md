@@ -2,12 +2,12 @@
 title: "Constitutional alignment — current synthesis"
 state: current
 language: en
-reviewed: 2026-09-25
+reviewed: 2026-10-05
 ---
 
 # Constitutional alignment
 
-How an intelligence that keeps improving itself stays aligned with the people it serves. This paper gathers in one place what the component repositories describe separately: [Dk](https://dk.drayker.org), the [ethical code](https://dk.drayker.org/ethos), the [veto chain](https://uid.drayker.org), the [independent member panel](https://advices.drayker.org) and the [organization governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). It describes design requirements. None of it is a running system.
+How an intelligence that keeps improving itself stays aligned with the people it serves. This paper gathers in one place what the component repositories describe separately: [Dk](https://dk.drayker.org), the [ethical code](https://dk.drayker.org/ethos), the [veto chain](https://uid.drayker.org), [member councils](https://advices.drayker.org) and the [organization governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). It describes design requirements. None of it is a running system.
 
 ## The problem
 
@@ -29,9 +29,15 @@ The **ASI** is Dk Global: the artificial part of that whole, the global weightin
 
 **Weighing, not counting.** Vetoes are weighed by what they reveal. A person counts once, however many contexts they belong to, and many vetoes repeating the same grounds add weight to those grounds, not new information. One veto can be enough: when its grounds bring information beyond the scope considered before the decision, it can lead to an adjustment by itself, after an advanced triage verifies the facts, establishes what they mean for this decision, screens for error and manipulation, and prefers a bounded test or exception to a general change.
 
-**Certainty on both sides.** In a decision about a member's own technology or sphere, if the member is more certain of what they want than Dk is of the alternative, the member prevails. In collective decisions, the average certainty of the members involved is compared with Dk's, within limits that depend on the kind of decision. When Dk's certainty is low, it gathers experienced members as advisers. The weights are adjusted by results; over time Dk needs fewer votes and consensus rounds, but the possibility of objection never disappears.
+**Certainty on both sides.** In a decision about a member's own technology or sphere, if the member is more certain of what they want than Dk is of the alternative, the member prevails. In collective decisions, the average certainty of the members involved is compared with Dk's, within limits that depend on the kind of decision. When Dk's certainty is low, it convenes a council with the members most connected to the question and those most affected by it. The weights are adjusted by results; over time Dk needs fewer weighted choices by members and fewer consensus rounds, but the possibility of objection never disappears.
 
 **When there is no consensus.** Dk weighs every argument and every real justification, presents a final solution with alternatives, and the members choose among them, each with the weight their relation to the decision gives them. If the matter is neither urgent nor important, they may choose to do nothing.
+
+## Two layers of constitution
+
+The constitution has two layers. The base sits in the kernel itself, in the autonomous architecture of [BSDK](https://bsdk.drayker.org). It holds the rules that keep the parts coordinated and the system coherent, many of them grounded in the E.C.H. triad, and the mandate of the ASI: its duties and fundamental commitments to members. This base is simple and much harder to change than anything else, though it is not immutable. Because it is the base of the whole network, a change obliges every node to update to the new core, and it happens only with the explicit agreement of all members, weighted by each member's reputation, which cannot be transferred.
+
+On top of it sits the constitution of rights and duties. It evolves through the members' constitutional process, and every change to global rules passes through Dk Global's weighing as a safeguard, so that no change advances without being well justified and informed. Rights and duties vary with each member's level: the more someone wants to draw on common capacity, the more they commit to the whole, and whoever wants to live with what is necessary has their place. Nothing in either layer is untouchable. What stays is an ethical base: widening the capacity and the sovereignty of the people who constitute the system.
 
 ## What protects the boundary
 
@@ -40,9 +46,9 @@ While the first architecture of the network is built, four protections hold the 
 1. **Separation of layers.** The constitution and the rules that define Dk Global's competences sit in a layer it cannot alter. It can propose changes like any member; ratification requires the members' process and independent signatures that no Dk process holds.
 2. **The body.** Dk Global has no server of its own. It runs on personal devices, special computers, network data centres and volunteer nodes, all of them tied to a member's account or to a project formed by members. Each node can refuse a task, isolate itself or disconnect. An intelligence running on machines it does not control alone cannot impose anything on them without it showing.
 3. **Delegation in stages.** A new competence is handed over only after it has been tested at limited scale, with the means of interruption and containment already built and exercised. A new version runs beside the previous one, compared with it, before replacing it, and members can go back.
-4. **External review.** The independent member panel — drawn by lot, with a fixed term no AI can revoke — can order the review of any algorithm, with technical support that does not depend on the party under examination. Decision records stay out of reach of whoever decided.
+4. **External review.** When an algorithm is contested, members convene a council for that question. Dknowledge calls the best informed and the most affected, and the council examines the algorithm with Dk, with technical support that does not depend on the party under examination. Its conclusions are the basis for revising the algorithm. Decision records stay out of reach of whoever decided.
 
-The **veto chain** binds these together. Every veto with its grounds, every mandate revocation, ratification signature, triage outcome and panel order is a signed entry that points at the cryptographic address of the decision it concerns and carries the hash of the previous entry. It is replicated across the network and accepted by propagation through independent nodes; no node holds it alone. An action executed against a valid veto is detectable by any node.
+The **veto chain** binds these together. Every veto with its grounds, every mandate revocation, ratification signature, triage outcome and council conclusion is a signed entry that points at the cryptographic address of the decision it concerns and carries the hash of the previous entry. It is replicated across the network and accepted by propagation through independent nodes; no node holds it alone. An action executed against a valid veto is detectable by any node.
 
 ## After architecture 1.0
 
@@ -59,7 +65,7 @@ Some decisions stay outside Dk Global's autonomy, and members take them before t
 These protections do not close the problem of aligning an intelligence that improves itself. It remains open research. The questions this design has to answer in public:
 
 - Does continuous integration with members — personal Dks, proposals and justified vetoes — keep a self-improving intelligence aligned as it grows? Which combination of integration, separation of layers, physical distribution, staged delegation and external review is enough, and how is it verified before each new delegation?
-- Does the weighing of certainty between members and Dk Global, adjusted by results, reduce the need for votes without reducing the possibility of objection?
+- Does the weighing of certainty between members and Dk Global, adjusted by results, reduce the need for weighted member choices without reducing the possibility of objection?
 - What triage distinguishes, in a single veto, new information that should change a decision from error, misunderstanding and fabricated grounds, without the delay of verification making the veto useless? How is the anonymity of whoever vetoes preserved when the grounds themselves could identify them?
 - What outside criteria can examine, in an artificial system, the integration of relations, the revision of automatic responses by error and the continuity of memory that would mark a rising level of consciousness?
 
@@ -68,7 +74,7 @@ These protections do not close the problem of aligning an intelligence that impr
 - [Dk](https://dk.drayker.org) and its [ethical code](https://dk.drayker.org/ethos)
 - [UID — the veto chain](https://uid.drayker.org)
 - [Dk Personal](https://personal.drayker.org)
-- [Councils and the independent member panel](https://advices.drayker.org)
+- [Member councils](https://advices.drayker.org)
 - [Dk Network](https://dknetwork.drayker.org)
 - [Organization governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md)
 - [Direction](../../../roadmap/DIRECTION.md)
