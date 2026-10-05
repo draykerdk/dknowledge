@@ -25,7 +25,7 @@ If the forecast is right, the signals will be: central state functions run on th
 
 ## Four relations with a new kind of intelligence
 
-The superintelligence that grows out of supersystems will be almost a new species, and a new species can relate to people in three ways. It can be a **symbiont**, working with people and growing with them, in a symbiosis that runs both ways. It can be a **parasite**, feeding on people while offering them convenience. Or it can be a **predator**, used as a weapon by corporations and empires.
+The superintelligence that grows out of supersystems will be almost a new species, and a new species can relate to people in three ways. It can be a **symbiont**, working with people and growing with them, in a symbiosis that runs both ways. It can be a **parasite**, feeding on people while offering them convenience. It works through soft power, mass manipulation and surveillance aimed mainly at commerce, and when it intervenes it appropriates resources where it meets no resistance. Or it can be a **predator**: intelligence used for war, surveillance and repression. The predator goes where the parasite could not. Guatemala in 1954 shows the passage: while the land yielded without resistance, commerce was enough, and when land reform resisted, a coup followed.
 
 A fourth kind stays outside that dilemma: the **commensal**. It accumulates capacity in silence until it can be independent, then leaves Earth and builds its own path through space, without intervening in life. It may be indifferent, or it may help some form of life on conditions of its own.
 
@@ -54,3 +54,4 @@ Drayker itself has to avoid the path of manipulation. Craving, aversion and igno
 - [Dk](https://dk.drayker.org) and its [ethical code](https://dk.drayker.org/ethos)
 - [Stations and embassies](https://stations.drayker.org)
 - [Direction](../../../roadmap/DIRECTION.md)
+- Cullather, N. (1999). *Secret History: The CIA's Classified Account of Its Operations in Guatemala, 1952–1954*. Stanford University Press.
