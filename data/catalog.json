@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 4943
+      "bytes": 4991
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -240,7 +240,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 10358
+      "bytes": 10704
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -276,7 +276,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2522
+      "bytes": 2534
     },
     {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
@@ -573,7 +573,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 9758
+      "bytes": 9981
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
