@@ -11,7 +11,7 @@ The economy of capacity connects project funds, categories, incentives, reputati
 
 ## Allocation as a learning loop
 
-Need, intention, ability, contextual reputation, knowledge, resources, opportunity, urgency, risk and expected consequence become evidence. Dknowledge keeps the operational ontology and provenance. Dk relates the factors and proposes priorities. Accountable member institutions authorize consequential allocations. Results return to Dknowledge and change later decisions.
+Need, intention, ability, contextual reputation, knowledge, resources, opportunity, urgency, risk and expected consequence become evidence. Dknowledge keeps the operational ontology and provenance. Dk relates the factors, decides the allocation and executes it autonomously inside the constitution. Members can make a well-justified veto, which obliges Dk to review the decision. Results return to Dknowledge and change later decisions.
 
 Synthesis alone does not authorize an action. Every proposed allocation passes through **systemic safeguards** — constitutional constraints, security, permissions, integrity, reserves and risk — that can limit, postpone, compartmentalize or block what Dk proposes. The result is an executable decision inside a permitted and safe space, not an automatic conversion of context into action.
 

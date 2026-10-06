@@ -4,7 +4,7 @@
   "counts": {
     "documents": 116,
     "papers": 18,
-    "open_shells": 11,
+    "open_shells": 10,
     "languages": 3
   },
   "documents": [
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 4991
+      "bytes": 5067
     },
     {
       "path": "papers/main-projects/dk/README.ES.md",
@@ -87,7 +87,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1632
+      "bytes": 1813
     },
     {
       "path": "papers/main-projects/ecosystem/README.PT.md",
@@ -261,6 +261,15 @@
       "bytes": 7059
     },
     {
+      "path": "papers/main-projects/ecosystem/autonomous-health.md",
+      "href": "/papers/main-projects/ecosystem/autonomous-health.html",
+      "title": "Autonomous Health",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 3200
+    },
+    {
       "path": "papers/main-projects/ecosystem/dktron.md",
       "href": "/papers/main-projects/ecosystem/dktron.html",
       "title": "Dktron: three meanings that accounting must preserve",
@@ -276,7 +285,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2534
+      "bytes": 2601
     },
     {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
@@ -285,7 +294,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3682
+      "bytes": 3747
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
@@ -504,15 +513,6 @@
       "bytes": 119
     },
     {
-      "path": "papers/main-projects/ecosystem/autonomous-health.md",
-      "href": "/papers/main-projects/ecosystem/autonomous-health.html",
-      "title": "Autonomous Health",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 18
-    },
-    {
       "path": "papers/main-projects/ecosystem/dk-academy.md",
       "href": "/papers/main-projects/ecosystem/dk-academy.html",
       "title": "Dk Academy",
@@ -573,7 +573,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 9981
+      "bytes": 9969
     },
     {
       "path": "roadmap/global-main-roadmap.ES.md",
@@ -848,11 +848,11 @@
     {
       "path": "roadmap/main-projects/ecosystem/autonomous-health-roadmap.md",
       "href": "/roadmap/main-projects/ecosystem/autonomous-health-roadmap.html",
-      "title": "Autonomous Health Roadmap",
+      "title": "Autonomous Health — roadmap",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 18
+      "bytes": 1739
     },
     {
       "path": "roadmap/main-projects/ecosystem/dk-academy-roadmap.md",
