@@ -8,8 +8,9 @@ This collection publishes the current confirmed formulation of each economic and
 
 - [Distributed Support](./support-model.md) — support for members, projects, communities and infrastructure; projects of life; common floor; contextual allocation.
 - [Dktron and the value boundary](./dktron.md) — the distinction among external money, internal capacity, value and reputation.
-- [Economy of capacity](./value-management-ecosystem.md) — Dknowledge, Dk synthesis, member authorization, reputation, scarcity and abundance.
+- [Economy of capacity](./value-management-ecosystem.md) — Dknowledge, Dk synthesis and allocation, member veto, reputation, scarcity and abundance.
 - [Will to Potential](./will-to-potential.md) — automation, learning, different human trajectories and increasing member capability.
+- [Autonomous Health](./autonomous-health.md) — the AI health system integrated with UID, Dk Personal, personal Dknowledge and devices; pattern detection and open research.
 
 ## Interpretation rule
 

@@ -107,7 +107,7 @@ The first main projects 1.0, and the first embassy. If a DAF phase that experime
 
 ## The transversal principles
 
-- **Two dates, as objectives.** Dk 1.0, already an ASI, by 2030, and Drayker consolidated by 2033. Each phase keeps its exit condition; 2033 is the goal the phases are measured against, not a schedule that replaces them.
+- **Two dates, as objectives.** Dk 1.0, already an ASI, by 2030, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
