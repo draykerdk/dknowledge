@@ -53,7 +53,7 @@ check(html.includes('sizes="any"') && html.includes('sizes="512x512"'), 'favicon
 check(catalog.schema_version === 1, 'unknown catalog schema');
 check(catalog.counts.documents === catalog.documents.length, 'document count does not match catalog');
 check(catalog.counts.papers === 18, 'the current English paper inventory should contain 18 papers after the supersystems synthesis was added');
-check(catalog.counts.open_shells === 11, 'the current English open-shell inventory should contain 11 papers after the Dknowledge paper gained a developed draft');
+check(catalog.counts.open_shells === 10, 'the current English open-shell inventory should contain 10 papers after Autonomous Health gained a developed paper');
 check(catalog.counts.languages === 3, 'the catalog should expose EN, PT and ES');
 check(catalog.documents.every((d) => d.path && d.href && d.title && d.language && d.kind && d.state), 'catalog has incomplete records');
 check(catalog.documents.every((d) => !d.path.includes('..') && d.href.startsWith('/')), 'catalog has an unsafe path');
