@@ -15,7 +15,7 @@
 - Current guidance, active research, proposals and historical material have different status.
 - A documented architecture is not proof that a service is deployed.
 - Every factual claim should remain traceable to its public source.
-- Drayker is the system; Dk is its intelligence; Dk Network is its network.
+- Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 - Personal context remains personal; the public repository is a shared junction, not one store that absorbs every member's memory.
 - Auditability does not mean total exposure: public, personal, project-restricted and security-sensitive information may have different permissions and authorized Dk contexts.
 - Dk can synthesize relations held in Dknowledge; systemic safeguards — constitutional constraints, security, permissions, integrity, reserves and risk — bound what can be executed; consequential authority remains accountable to the member institutions defined for the context.
