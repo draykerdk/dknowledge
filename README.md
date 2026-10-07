@@ -26,9 +26,9 @@ One of the conceptual bases for that pattern is **E.C.H.: Expansion, Complexity 
 
 Learning crosses scales in two distinct ways. In **anonymous federated learning**, raw experience stays at its originating instance while patterns or model updates circulate with depersonalized metadata. Global Dknowledge can therefore hold broader context and deeper learned structure without becoming a collection of personal histories; when a pattern is validated independently in other instances, its weight in global learning becomes progressively stronger. In **deliberate contribution**, a person or unit chooses to share knowledge, evidence or narrative under explicit permissions and provenance. Neither route makes private context common property, and the federated route still requires a re-identification threat model before implementation.
 
-Importantly, **memory is corrigible and contestable**. An individual member retains sovereign authority to inspect, contest, and correct algorithmic inferences made by their agent, revoking associations or exporting their relational memory graph without platform lock-in. 
+Importantly, **memory is corrigible and contestable**. An individual member is designed to retain sovereign authority to inspect, contest, and correct algorithmic inferences made by their agent, revoking associations or exporting their relational memory graph without platform lock-in. 
 
-Dknowledge is also Dk's oracle. For each problem Dk solves, it records the process and explains it in two registers, a didactic one and a technical one, so the knowledge can be studied in the Academy and reviewed by Dk itself as an intelligent memory. A ledger of function responses returns results already computed instead of processing them again.
+Dknowledge is also designed as Dk's oracle. For each problem Dk solves, it will record the process and explain it in two registers, a didactic one and a technical one, so the knowledge can be studied in the Academy and reviewed by Dk itself as an intelligent memory. A ledger of function responses will return results already computed instead of processing them again.
 
 Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions over the available context. Dknowledge preserves the evolving state, provenance, permissions and decision lines needed to reconstruct what the system knew and why it changed. Epistemologically, Dknowledge operates under the core Drayker principle: **kind to people, relentless with ideas** — protecting the unconditional dignity and situated context of every human participant, while holding every technical hypothesis, proof, and allocation to uncompromising empirical verification. Economic models documented here reflect the strict tri-spherical separation: common capacity reserves, project-linked temporary custody, and personal member balances (Dktron) immune to inactivity forfeiture.
 
@@ -36,15 +36,16 @@ Dk and Dknowledge remain distinct. Dk coordinates, reasons and proposes actions 
 
 - **[Current orientation](./CURRENT.md)** — what is publicly available now, what remains architecture, and how founding governance works.
 - **[Papers](./papers)** — organised by main project rather than by date or author: [Dk](./papers/main-projects/dk), [ecosystem](./papers/main-projects/ecosystem), [organization](./papers/main-projects/organization).
-- **[Historical roadmap](./roadmap)** — older structures and planning documents preserved as context, not a current schedule or commitment.
+- **[Direction](./roadmap/DIRECTION.md)** (current): the execution direction toward 2033, with the condition each phase must meet.
+- **[Historical roadmaps](./roadmap)** — older structures and planning documents preserved as context, not a current schedule or commitment.
 - **[CONTRIBUTING](./CONTRIBUTING.md)** — how to collaborate.
-- **[Code of conduct](./CODE_OF_CONDUCT.md)**.
+- **[Code of conduct](https://github.com/draykerdk/.github/blob/master/CODE_OF_CONDUCT.md)**.
 
 Main projects sit in priority and time queues; effort and resources treat them as the priority. Projects outside that set can be opened and proposed by any contributor through [DFMPProject](https://dfmpproject.drayker.org).
 
 ## How it fits the whole
 
-Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [PAP](https://pap.drayker.org) is the durable environment for projects and applications, and [DAF](https://daf.drayker.org) is a transitional governance experiment — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
+Dknowledge is the connective tissue: [Dk](https://dk.drayker.org) is the intelligence, [DFM](https://dfmp.drayker.org) is the method, [PAP](https://pap.drayker.org) is the durable environment for projects and applications, and [DAF](https://daf.drayker.org) is an autonomous federation of autonomous units and a basic and primitive form of PAP, implemented now — and this is where what they mean, what is being designed and what was decided stay traceable to their sources.
 
 A complex system needs memory that can be *followed*, not just information that can be stored. That is the whole reason this repository exists.
 
@@ -58,8 +59,10 @@ The most complete documentation in the Drayker ecosystem — start with [Current
 
 Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/). Reading a paper and writing down where it no longer matches reality is a genuinely useful contribution here.
 
-English is the canonical language of this knowledge base. The Portuguese and Spanish files that exist are preserved, many of them as historical sources, but are no longer kept in sync; read other languages through automatic translation. Native translation and localization are planned for the site itself.
+This knowledge base is published in English only.
 
 ---
 
-[DFMP](https://dfmp.drayker.org) and [DAF](https://daf.drayker.org) describe proposed collaboration and governance architecture. Drayker's current founding-phase governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), and the work is primarily voluntary.
+[DFMP](https://dfmp.drayker.org) describes proposed collaboration architecture. [DAF](https://daf.drayker.org) is an autonomous federation of autonomous units and a basic and primitive form of PAP, implemented now on GitHub (Phase 0): its rules, instruments and public record exist. No unit has been recorded and no assembly has been held yet. Drayker's current founding-phase governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), and the work is primarily voluntary.
+
+The documentation in this repository is licensed under [CC BY 4.0](./LICENSE).

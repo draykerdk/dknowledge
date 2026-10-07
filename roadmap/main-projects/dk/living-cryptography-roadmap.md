@@ -1,1 +1,3 @@
-[English](./living-cryptography-roadmap.md) | [Português](./living-cryptography-roadmap.PT.md) |  [Español](./living-cryptography-roadmap.ES.md)
+# Living Cryptography roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

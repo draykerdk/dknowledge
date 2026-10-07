@@ -7,7 +7,7 @@ reviewed: 2026-10-05
 
 # Constitutional alignment
 
-How an intelligence that keeps improving itself stays aligned with the people it serves. This paper gathers in one place what the component repositories describe separately: [Dk](https://dk.drayker.org), the [ethical code](https://dk.drayker.org/ethos), the [veto chain](https://uid.drayker.org), [member councils](https://advices.drayker.org) and the [organization governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). It describes design requirements. None of it is a running system.
+How an intelligence that keeps improving itself stays aligned with the people it serves. This paper gathers in one place what the component repositories describe separately: [Dk](https://dk.drayker.org), the [ethical code](https://dk.drayker.org/ethos), the [veto chain](https://uid.drayker.org), [member councils](https://advices.drayker.org) and the [Drayker governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md). It describes design requirements. None of it is a running system.
 
 ## The problem
 
@@ -76,5 +76,5 @@ These protections do not close the problem of aligning an intelligence that impr
 - [Dk Personal](https://personal.drayker.org)
 - [Member councils](https://advices.drayker.org)
 - [Dk Network](https://dknetwork.drayker.org)
-- [Organization governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md)
+- [Drayker governance](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md)
 - [Direction](../../../roadmap/DIRECTION.md)

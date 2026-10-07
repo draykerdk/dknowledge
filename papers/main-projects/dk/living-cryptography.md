@@ -1,1 +1,3 @@
-[English](./living-cryptography.md) | [Português](./living-cryptography.PT.md) |  [Español](./living-cryptography.ES.md)
+# Living Cryptography
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.
