@@ -1,1 +1,3 @@
-[English](./ap-platform-roadmap.md) | [Português](./ap-platform-roadmap.PT.md) |  [Español](./ap-platform-roadmap.ES.md)
+# AP Platform roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

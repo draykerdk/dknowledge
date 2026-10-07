@@ -1,1 +1,3 @@
-[English](./interface.md) | [Português](./interface.PT.md) |  [Español](./interface.ES.md)
+# Interface
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

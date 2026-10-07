@@ -1,5 +1,4 @@
 # Ecosystem Proposals 
-[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
 Proposals for the Drayker Ecosystem
 

@@ -28,10 +28,7 @@ check(html.includes('meta name="twitter:title"') && html.includes('meta name="tw
 check(html.includes('href="/llms.txt"'), 'llms.txt discovery link is missing');
 check(html.includes('data-drayker') && html.includes('/drayker-mark.js'), 'the official Drayker mark engine is not wired');
 check(client.includes('/data/catalog.json'), 'the repository catalog is not wired');
-// The retired hostname is dknowledger.drayker.org — with the r, which is the private
-// vault's name. A blanket rename in 7179417 rewrote this line as well, leaving it
-// forbidding the very hostname line 23 requires. The check could not pass, and the site
-// build has failed on every push since.
+// The retired hostname must not come back into the landing page.
 check(!html.includes('https://dknowledger.drayker.org'), 'the retired hostname remains in the landing page');
 check(read('CNAME').trim() === 'dknowledge.drayker.org', 'CNAME is not canonical');
 check(config.includes('https://dknowledge.drayker.org'), 'Jekyll canonical URL is wrong');
@@ -54,7 +51,8 @@ check(catalog.schema_version === 1, 'unknown catalog schema');
 check(catalog.counts.documents === catalog.documents.length, 'document count does not match catalog');
 check(catalog.counts.papers === 18, 'the current English paper inventory should contain 18 papers after the supersystems synthesis was added');
 check(catalog.counts.open_shells === 10, 'the current English open-shell inventory should contain 10 papers after Autonomous Health gained a developed paper');
-check(catalog.counts.languages === 3, 'the catalog should expose EN, PT and ES');
+check(catalog.counts.languages === 1, 'the catalog should expose English only');
+check(catalog.documents.every((d) => d.language === 'en'), 'the catalog should contain no PT or ES translation');
 check(catalog.documents.every((d) => d.path && d.href && d.title && d.language && d.kind && d.state), 'catalog has incomplete records');
 check(catalog.documents.every((d) => !d.path.includes('..') && d.href.startsWith('/')), 'catalog has an unsafe path');
 

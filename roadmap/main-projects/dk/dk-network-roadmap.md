@@ -1,1 +1,3 @@
-[English](./dk-network-roadmap.md) | [Português](./dk-network-roadmap.PT.md) |  [Español](./dk-network-roadmap.ES.md)
+# Dk Network roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.
