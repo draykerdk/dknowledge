@@ -1,1 +1,3 @@
-[English](./bsdk-dfm.md) | [Português](./bsdk-dfm.PT.md) |  [Español](./bsdk-dfm.ES.md)
+# BSDK-DFM
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

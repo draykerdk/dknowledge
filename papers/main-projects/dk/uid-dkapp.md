@@ -1,6 +1,3 @@
-[English](./uid-dkapp.md) | [Português](./uid-dkapp.PT.md) |  [Español](./uid-dkapp.ES.md)
+# UID and DkApp
 
-
-# UID AND DKApp Paper
-
-
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

@@ -12,7 +12,7 @@ component:
     - Anonymous federated learning through patterns or model updates with depersonalized metadata, with independent validation increasing global weight.
     - Deliberate, authorized sharing of knowledge or narrative with provenance and permissions, kept distinct from federated learning.
   non_scope:
-    - The private local Dknowledger vault.
+    - Private local knowledge bases.
     - An operational distributed data, sensor, oracle or ontology platform.
   dependencies:
     - dk
@@ -36,4 +36,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dknowledge
     path: README.md
-  last_reviewed: "2026-09-03"
+  last_reviewed: "2026-10-07"

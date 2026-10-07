@@ -46,7 +46,7 @@ Drayker is not a software and not an institution. It is a supersystem, and a sup
 
 ## The risk inside
 
-Drayker itself has to avoid the path of manipulation. Craving, aversion and ignorance are the forces of reactivity that manipulation exploits. A movement driven by them looks combative: it reacts to every provocation, spends its energy on the target offered to it and mistakes noise for strength, until it becomes one more harmless, controlled dissent. Against that, members and the organization keep autonomy, sovereignty and equanimity: decisions not taken in the heat of provocation, purposes chosen by members rather than by an adversary's agenda, memory of what actually worked, and infrastructure of its own, so that no other power decides what Drayker can do.
+Drayker itself has to avoid the path of manipulation. Craving, aversion and ignorance are the forces of reactivity that manipulation exploits. A movement driven by them looks combative: it reacts to every provocation, spends its energy on the target offered to it and mistakes noise for strength, until it becomes one more harmless, controlled dissent. Against that, members and the supersystem keep autonomy, sovereignty and equanimity: decisions not taken in the heat of provocation, purposes chosen by members rather than by an adversary's agenda, memory of what actually worked, and infrastructure of its own, so that no other power decides what Drayker can do.
 
 ## Sources
 

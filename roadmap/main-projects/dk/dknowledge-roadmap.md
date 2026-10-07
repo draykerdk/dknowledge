@@ -1,1 +1,3 @@
-[English](./dknowledge-roadmap.md) | [Português](./dknowledge-roadmap.PT.md) |  [Español](./dknowledge-roadmap.ES.md)
+# Dknowledge roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

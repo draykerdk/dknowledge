@@ -1,7 +1,5 @@
 # Ecosystem research
 
-[English](./README.md) | [Português](./README%20.PT.md) | [Español](./README%20.ES.md)
-
 This collection publishes the current confirmed formulation of each economic and support concept in its global context and in connection with the rest of Drayker. Internal research sources inform these papers; the GitHub documents themselves are the current public versions.
 
 ## Current papers

@@ -1,8 +1,6 @@
 # Global Main Roadmap
 
-> **Historical material.** Preserved as design history. Not a current schedule, commitment, assignment list or implementation claim. See [Current orientation](../CURRENT.md).
-
-[English](./global-main-roadmap.md) | [Português](./global-main-roadmap.PT.md) |  [Español](./global-main-roadmap.ES.md)
+> **Historical material.** Preserved as design history. Not a current schedule, commitment, assignment list or implementation claim. The current direction is [Direction](./DIRECTION.md). See also [Current orientation](../CURRENT.md).
 
 ### Real-time Main Projects Road-map 
 
@@ -17,7 +15,7 @@
 
 ## 12012 - 12019 - Intelligence and R&D
 
-> In 12012 the process of research and development began. Name, logo and general idea of ​​the organization in mid 12010.
+> In 12012 the process of research and development began. Name, logo and general idea of Drayker in mid 12010.
 
 ### Base architecture
 The foundation of the Dk and Platform architecture has been built and is constantly improving.
@@ -35,9 +33,9 @@ Drayker embassy works hard to get interdependent funding.
 
 We have developed a model for formal collaboration specification called DFM, which will be the basis for cooperation in building Dk and platform.
 
-**Distributed Function Modeling** - [**DFM**](https://github.com/draykerdk/DFMP)
+**Distributed Functional Modeling** - [**DFM**](https://github.com/draykerdk/DFMP)
 
-Distributed function modeling is a generalist method / protocol that structures data, events, and ontologies, breaking it all into small individual functions that are connected by synaptic functions called modules or modeling, which can connect to other modules in a distributed topology.
+Distributed functional modeling is a generalist method / protocol that structures data, events, and ontologies, breaking it all into small individual functions that are connected by synaptic functions called modules or modeling, which can connect to other modules in a distributed topology.
 
 ### Reference Architecture
 The reference architectures have been developed in the intelligence phase, in the structuring phase the architectures are formalized to go through the transition process.

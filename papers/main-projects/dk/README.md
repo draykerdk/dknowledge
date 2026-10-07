@@ -1,5 +1,4 @@
 # Dk Proposals 
-[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
 General Technical Proposals and Dk Network Infrastructure
 

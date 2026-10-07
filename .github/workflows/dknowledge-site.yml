@@ -1,4 +1,4 @@
-name: Dknowledger site
+name: Dknowledge site
 
 on:
   pull_request:

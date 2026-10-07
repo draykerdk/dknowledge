@@ -1,6 +1,3 @@
-[English](./uid-dkapp-roadmap.md) | [Português](./uid-dkapp-roadmap.PT.md) |  [Español](./uid-dkapp-roadmap.ES.md)
+# UID and DkApp roadmap
 
-
-# UID AND DKApp Paper
-
-
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

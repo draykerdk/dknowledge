@@ -1,1 +1,3 @@
-[English](./dk-network.md) | [Português](./dk-network.PT.md) |  [Español](./dk-network.ES.md)
+# Dk Network
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

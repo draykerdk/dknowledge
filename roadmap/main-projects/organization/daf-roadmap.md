@@ -1,1 +1,3 @@
-# DAF — transitional federation scaffold
+# DAF roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

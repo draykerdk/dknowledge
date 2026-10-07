@@ -1,7 +1,6 @@
 # Roadmap
-[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
-## Global main roadmap [English](./global-main-roadmap.md)
+## [Global main roadmap](../../roadmap/global-main-roadmap.md)
 The structure of roadmaps and task organization works with a global view of the main projects, where all major projects and their main modules and functions are specified and structured giving a global view of Drayker.
 
 ## Structural and ecosystem roadmap.
@@ -17,7 +16,7 @@ The papers are a structure with details and different groupings and points of vi
 The individual roadmap for each project is where all the points of the project will be specified and organized, where all the steps, functions and problems are specified, divided and detailed to form issues, sprints and tasks. Separating the modules and functions in order of priority, signaling what has already been done, must be done now, must be reviewed and what is open or waiting.
 
 ### Parallel Projects
-All this structure is repeated in a separate and personalized way for parallel projects, where employees can link their project to global visions so that they are documented and easily found by other collaborators. The global parts are in the repository of Dknowledge and the locations in the project repository itself.
+All this structure is repeated in a separate and personalized way for parallel projects, where contributors can link their project to global visions so that they are documented and easily found by other collaborators. The global parts are in the repository of Dknowledge and the locations in the project repository itself.
 
 ![draykerroadmap.jpg](https://cdn.steemitimages.com/DQmYMEafGafvYJRhb8ppGpo6gDGe6Q6sCG9A2biFV1FByXo/draykerroadmap.jpg)
 

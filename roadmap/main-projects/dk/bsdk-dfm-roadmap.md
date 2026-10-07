@@ -1,1 +1,3 @@
-[English](./bsdk-dfm-roadmap.md) | [Português](./bsdk-dfm-roadmap.PT.md) |  [Español](./bsdk-dfm-roadmap.ES.md)
+# BSDK-DFM roadmap
+
+This roadmap is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

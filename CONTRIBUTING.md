@@ -1,8 +1,6 @@
 # Contributing to Dknowledge
 
-[Português](./CONTRIBUTING.PT.md) · **English**
-
-Dknowledge is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, and improving navigation. English is the canonical language; translations are not maintained by hand.
+Dknowledge is an open public knowledge base. Useful contributions include correcting a claim, connecting a source, filling an empty paper, and improving navigation. The knowledge base is published in English only.
 
 ## The current Git flow
 
@@ -18,7 +16,7 @@ Dknowledge is an open public knowledge base. Useful contributions include correc
 
 5. Open a pull request to `master` and connect it to the issue.
 
-There is no active `peer-review` or `community-review` branch. During the founding phase, contributions remain open while the embassy and the ambassador may also edit, integrate and correct material directly through the ordinary Git flow. The versioned governance source is [`draykerdk/.github`](https://github.com/draykerdk/.github).
+There is no active `peer-review` or `community-review` branch. During the founding phase, contributions remain open while the Embassy of Drayker, through its founding steward, may also edit, integrate and correct material directly through the ordinary Git flow. The versioned governance source is [`draykerdk/.github`](https://github.com/draykerdk/.github).
 
 ## Evidence rules
 
@@ -30,7 +28,7 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 
 ## Good first contributions
 
-- One of the 11 English paper shells has only a title: write its scope and connect its sources.
+- One of the 10 paper shells is still empty: write its scope and connect its sources.
 - Find a claim that no longer matches a component contract and open a correction issue.
 - Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 

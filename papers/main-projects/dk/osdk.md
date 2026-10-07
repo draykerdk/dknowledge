@@ -1,1 +1,3 @@
-[English](./osdk.md) | [Português](./osdk.PT.md) |  [Español](./osdk.ES.md)
+# OSDK
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.
