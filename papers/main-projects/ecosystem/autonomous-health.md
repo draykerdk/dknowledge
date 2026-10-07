@@ -13,7 +13,7 @@ This is the current public formulation of Autonomous Health in relation to the w
 
 Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
 
-For approved members, Autonomous Health is the form the common floor takes in health ([Distributed Support](./support-model.md)).
+For every member, Autonomous Health is the form the common floor takes in health ([Distributed Support](./support-model.md)).
 
 ## Detection by patterns
 
