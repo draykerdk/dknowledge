@@ -1,12 +1,13 @@
 # Roadmap
-[English](./README.md) | [Português](./README.PT.md) |  [Español](./README.ES.md)
 
-> **Historical material.** This roadmap is preserved as context. It is not the current execution plan, schedule, assignment list or implementation evidence. Start with [Current orientation](../CURRENT.md).
+> **Direction is current. The rest of this folder is historical material.** [Direction](./DIRECTION.md) is the current execution direction. The other roadmaps are preserved as context. They are not the current execution plan, schedule, assignment list or implementation evidence. Start with [Current orientation](../CURRENT.md).
 
-## Direction [English](./DIRECTION.md)
-The execution direction of Drayker toward its 2033 objective: the same phases as the global roadmap, each with the condition that must be true before the next begins, and what runs today marked.
+## Direction (current)
+[Direction](./DIRECTION.md) is the execution direction of Drayker toward its 2033 objective: the same phases as the global roadmap, each with the condition that must be true before the next begins, and what runs today marked.
 
-## Global main roadmap [English](./global-main-roadmap.md)
+## Historical roadmaps
+
+### [Global main roadmap](./global-main-roadmap.md)
 The structure of roadmaps and task organization works with a global view of the main projects, where all major projects and their main modules and functions are specified and structured giving a global view of Drayker.
 
 ## Structural and ecosystem roadmap.
@@ -22,7 +23,7 @@ The papers are a structure with details and different groupings and points of vi
 The individual roadmap for each project is where all the points of the project will be specified and organized, where all the steps, functions and problems are specified, divided and detailed to form issues, sprints and tasks. Separating the modules and functions in order of priority, signaling what has already been done, must be done now, must be reviewed and what is open or waiting.
 
 ### Parallel Projects
-All this structure is repeated in a separate and personalized way for parallel projects, where employees can link their project to global visions so that they are documented and easily found by other collaborators. The global parts are in the repository of Dknowledge and the locations in the project repository itself.
+All this structure is repeated in a separate and personalized way for parallel projects, where contributors can link their project to global visions so that they are documented and easily found by other collaborators. The global parts are in the repository of Dknowledge and the locations in the project repository itself.
 
 ![draykerroadmap.jpg](https://cdn.steemitimages.com/DQmYMEafGafvYJRhb8ppGpo6gDGe6Q6sCG9A2biFV1FByXo/draykerroadmap.jpg)
 

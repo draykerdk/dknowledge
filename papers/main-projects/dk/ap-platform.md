@@ -1,1 +1,3 @@
-[English](./ap-platform.md) | [Português](./ap-platform.PT.md) |  [Español](./ap-platform.ES.md)
+# AP Platform
+
+This paper is an open shell: it has not been written yet. See [Contributing](../../../CONTRIBUTING.md) to write it.

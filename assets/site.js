@@ -14,11 +14,11 @@
     const value = modes.includes(mode) ? mode : 'auto';
     root.dataset.theme = resolved(value);
     if (toggle) toggle.textContent = value.toUpperCase();
-    try { localStorage.setItem('dknowledger-theme', value); } catch (_) {}
+    try { localStorage.setItem('dknowledge-theme', value); } catch (_) {}
   }
 
   let selected = 'auto';
-  try { selected = localStorage.getItem('dknowledger-theme') || 'auto'; } catch (_) {}
+  try { selected = localStorage.getItem('dknowledge-theme') || 'auto'; } catch (_) {}
   applyTheme(selected);
   if (toggle) toggle.addEventListener('click', function () {
     selected = modes[(modes.indexOf(selected) + 1) % modes.length];
@@ -74,8 +74,8 @@
     .then(function (response) { if (!response.ok) throw new Error('HTTP ' + response.status); return response.json(); })
     .then(function (catalog) {
       documents = catalog.documents || [];
-      const values = [catalog.counts.documents, catalog.counts.papers, catalog.counts.open_shells, catalog.counts.languages];
-      document.querySelectorAll('[data-metrics] strong').forEach(function (node, index) { node.textContent = values[index] == null ? '—' : values[index]; });
+      const values = [catalog.counts.documents, catalog.counts.papers, catalog.counts.open_shells];
+      document.querySelectorAll('[data-metrics] strong').forEach(function (node, index) { if (index < values.length) node.textContent = values[index] == null ? '—' : values[index]; });
       render();
     })
     .catch(function () {

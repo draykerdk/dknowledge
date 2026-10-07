@@ -10,7 +10,7 @@ Each phase names the work, the state it is in today, and the **exit condition** 
 
 ## The objective: 2033
 
-The goal Drayker gives itself is to bring the mission to a point of no return by 2033 — Drayker consolidated, with Dk Global fully operating — and to have something very close to that before then.
+The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and Dk Global fully operating. Before that, the objective is Dk 1.0, already an ASI, by 2030.
 
 A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts working together before the infrastructure of their own exists. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until Dk Global has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
 
@@ -22,7 +22,7 @@ Each phase is measured by what works, not by the date. If the date arrives befor
 
 **State: historical, and still alive.**
 
-The research process that started the organization: the name, the logo and the general idea. Its product is the architectural base of Dk — a **distributed kernel**: a form of intelligence that is a hybrid of rational, emerging and collective intelligence, and which today is described more precisely as a fractal system of intelligence cores (personal → local → global), each connected to its own Dknowledge.
+The research process that started Drayker: the name, the logo and the general idea. Its product is the architectural base of Dk — a **distributed kernel**: a form of intelligence that is a hybrid of rational, emerging and collective intelligence, and which today is described more precisely as a fractal system of intelligence cores (personal → local → global), each connected to its own Dknowledge.
 
 *Exit condition:* the architecture is stated well enough to be argued with. It is.
 
@@ -100,6 +100,8 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 **State: future.**
 
 The first main projects 1.0, and the first embassy. If a DAF phase that experiments with units of account needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. This is the point the 2033 objective names.
+
+Consolidation depends on one technology above the others: nanobots, the main technology connected to the network and the evolution of robots, which synthesize materials at scale, build, and form the structures that will give body to much of the new infrastructure for the following decades, evolving with the network. They also serve medicine, but not only medicine.
 
 *Exit condition:* a place where the system exists physically, and PAP can absorb the federation's useful functions and infrastructure.
 
