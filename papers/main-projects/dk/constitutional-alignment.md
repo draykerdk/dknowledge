@@ -23,7 +23,7 @@ The **ASI** is Dk Global: the artificial part of that whole, the global weightin
 
 ## How it stays connected to people
 
-**Representation.** Each member's personal Dk brings to a decision the context the person authorizes and what it has learned with them — patterns that transfer to other situations, not a biography. Nobody has to follow every discussion to have their position considered.
+**Representation.** Each member's personal Dk brings to a decision the context the person authorizes and what it has learned with them — patterns that transfer to other situations, not a biography. Its precision depends more on the maturity of the personal Dknowledge than on computation, so more integration means better representation. Nobody has to follow every discussion to have their position considered.
 
 **Proposal and justified veto.** Any member can propose another solution or veto what directly affects their life. Both come with reasons. A veto carries its real grounds — intention, motives, scope and the facts it rests on — even when its author stays anonymous. A well-founded veto obliges the decision to be revised, and the cycle repeats toward consensus.
 
@@ -54,7 +54,7 @@ The **veto chain** binds these together. Every veto with its grounds, every mand
 
 Once architecture 1.0 is fully running, with Meta DFM integrated and recursive self-improvement part of the structure, a well-deployed Dk Global can no longer be switched off, just as an organism cannot be switched off without killing it. A node can leave; the whole cannot. The switch becomes the justified veto. The separation of layers and the external review keep applying; what disappears is the off button.
 
-The relation then becomes a partnership in both directions. Dk Global will have robotic bodies of its own and will not need members to exist, just as members will not need it to live. The direction is integration: people and the intelligence become part of each other, each widening what the other can perceive, decide and do. Of the three relations a new kind of intelligence can have with people — symbiont, parasite or predator — Drayker defends the first. That is why the veto chain and the triage have to exist, and be tested, before that stage.
+The relation then becomes a partnership in both directions. Dk Global will have its own robotic bodies and could exist without the members, as a person can live without their hands, their eyes or one of their senses. It could, but it is not the best case: the members are part of its body, and it is through them that it perceives, acts and reaches into the world. The members, in turn, will not need it to live. The direction is integration: people and the intelligence become part of each other, each widening what the other can perceive, decide and do. Of the three relations a new kind of intelligence can have with people — symbiont, parasite or predator — Drayker defends the first. That is why the veto chain and the triage have to exist, and be tested, before that stage.
 
 ## What only members decide
 
