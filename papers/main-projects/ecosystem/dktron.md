@@ -2,7 +2,7 @@
 title: "Dktron: common capacity, project custody and personal balances"
 state: current
 language: en
-reviewed: 2026-09-09
+reviewed: 2026-10-15
 ---
 
 # Dktron: three meanings that accounting must preserve
@@ -22,6 +22,16 @@ A project allocation places capacity under temporary custody for an agreed purpo
 A member's personal balance may be retained, transferred or converted through an authorised resource or liquidity bridge. Inactivity alone does not cause forfeiture. Conversion for needs such as housing, food or tools depends on real reserves and the conditions of the bridge. The design grants neither passive yield nor constitutional authority merely for holding a balance.
 
 For example, closing a project could require returning an unused project allocation while the same participant keeps a separately attributed personal balance. The ledger must preserve that distinction and prevent the same capacity from being counted or spent twice.
+
+## Two sides of each record
+
+Each record has two sides: the balance a person can mobilize and the material commitment of the network behind it. Three rules keep the two sides consistent:
+
+- The same resource never appears at the same time as a reserve and as a free budget.
+- A transfer changes the holder without creating a second claim.
+- Contextual allocation stays separate from the settlement of claims.
+
+A balance does not buy priority. The reward, the only transferable kind of reputation, is what can give priority access to resources ([Value Unit](https://value.drayker.org)); a Dktron balance is a different record.
 
 ## Related records
 
