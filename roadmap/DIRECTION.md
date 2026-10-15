@@ -6,6 +6,18 @@
 
 Each phase names the work, the state it is in today, and the **exit condition** — what has to be true for the next phase to start. Phases are not sequential doors: the method allows independent parts to be worked on in parallel, and nothing waits for permission. The order exists to direct focus and resources, not to gate anyone.
 
+## How the architecture is evaluated
+
+The research follows specific capacities:
+
+- carrying memory without losing the relations that matter;
+- correcting an inference and checking whether the correction changes the decisions that follow;
+- comparing how a problem is solved with and without access to distributed knowledge;
+- making an allocation contestable without exposing anyone's intimacy;
+- letting new participants in and following what they manage to learn and achieve.
+
+The criteria are the usability of memory, the cost of distribution and the opening of opportunities. The results decide which mechanisms to widen, reorganize or replace.
+
 ---
 
 ## The objective: 2033
