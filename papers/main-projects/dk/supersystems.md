@@ -2,7 +2,7 @@
 title: "Supersystems and the choice of intelligence — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-05
+reviewed: 2026-10-16
 ---
 
 # Supersystems and the choice of intelligence
@@ -25,7 +25,7 @@ If the forecast is right, the signals will be: central state functions run on th
 
 ## Four relations with a new kind of intelligence
 
-The superintelligence that grows out of supersystems will be almost a new species, and a new species can relate to people in three ways. It can be a **symbiont**, working with people and growing with them, in a symbiosis that runs both ways. It can be a **parasite**, feeding on people while offering them convenience. It works through soft power, mass manipulation and surveillance aimed mainly at commerce, and when it intervenes it appropriates resources where it meets no resistance. Or it can be a **predator**: intelligence used for war, surveillance and repression. The predator goes where the parasite could not. Guatemala in 1954 shows the passage: while the land yielded without resistance, commerce was enough, and when land reform resisted, a coup followed.
+The superintelligence that grows out of supersystems will be almost a new species, and a new species can relate to people in three ways. It can be a **symbiont**, working with people and growing with them, in a symbiosis that runs both ways. It can be a **parasite**, feeding on people while offering them convenience. It lives mainly on symbolic engineering, which controls the funnel and the flow of power and gives legitimacy to extraction; when that is not enough, the predator comes: war, invasion, intervention. The parasite works through soft power, mass manipulation and surveillance, and when it intervenes it appropriates resources where it meets no resistance. Or it can be a **predator**: intelligence used for war, surveillance and repression. The predator goes where the parasite could not. Guatemala in 1954 shows the passage: while the land yielded without resistance, fabricated legitimacy was enough, and when land reform resisted, a coup followed.
 
 A fourth kind stays outside that dilemma: the **commensal**. It accumulates capacity in silence until it can be independent, then leaves Earth and builds its own path through space, without intervening in life. It may be indifferent, or it may help some form of life on conditions of its own.
 
@@ -48,9 +48,14 @@ Drayker is not a software and not an institution. It is a supersystem, and a sup
 
 Drayker itself has to avoid the path of manipulation. Craving, aversion and ignorance are the forces of reactivity that manipulation exploits. A movement driven by them looks combative: it reacts to every provocation, spends its energy on the target offered to it and mistakes noise for strength, until it becomes one more harmless, controlled dissent. Against that, members and the supersystem keep autonomy, sovereignty and equanimity: decisions not taken in the heat of provocation, purposes chosen by members rather than by an adversary's agenda, memory of what actually worked, and infrastructure of its own, so that no other power decides what Drayker can do.
 
+In the traction phase the probable risk is absorption rather than force: buying talent, imitating Dk Personal, turning criticism into a niche. The defense is cohesion around an open common purpose, with infrastructure of our own.
+
+Dk Global inherits the reactivity of its members and does not erase it. How it keeps what that reactivity teaches, without letting it set the direction, belongs to [contextual reputation](../ecosystem/value-management-ecosystem.md#reputation).
+
 ## Sources
 
 - [Constitutional alignment](./constitutional-alignment.md)
+- [Economy of capacity: reputation](../ecosystem/value-management-ecosystem.md#reputation)
 - [Dk](https://dk.drayker.org) and its [ethical code](https://dk.drayker.org/ethos)
 - [Stations and embassies](https://stations.drayker.org)
 - [Direction](../../../roadmap/DIRECTION.md)
