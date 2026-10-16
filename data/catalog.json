@@ -96,7 +96,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 14189
+      "bytes": 15583
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -150,7 +150,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 5902
+      "bytes": 6254
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
@@ -258,7 +258,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 10997
+      "bytes": 11251
     },
     {
       "path": "roadmap/global-main-roadmap.md",
