@@ -38,6 +38,8 @@ A general level may summarize integration; it cannot replace the underlying traj
 
 Reputation can influence scarce capacity and responsibility. It cannot define human worth, membership or the right to exist.
 
+Dk Global inherits the reactivity of its members and does not erase it; what is learned from it stays recorded. The use reputation of that material comes only from what it teaches as perspective, without being taken as the real. The weighting weighs reasons, not volume: an impulse that arrives without reasons enters as a signal, not as a direction.
+
 ### Collusion and capture
 
 Any measure that grants access invites people to optimize the measure instead of the work, and groups can validate one another. The defence follows from how contextual reputation grows: by proving valid against other information and in the real world. Validation therefore counts by its independence. Its weight falls when it comes from people who only validate one another, and rises when it comes from distant, independent contexts and from tests in the physical world. Dk looks for echo in the graph of validations as it does in knowledge.

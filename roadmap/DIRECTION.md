@@ -107,7 +107,7 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 
 ---
 
-## 8. Drayker 1.0 — the first real world
+## 8. Drayker consolidated — the first real world
 
 **State: future.**
 
@@ -122,6 +122,7 @@ Consolidation depends on one technology above the others: nanobots, the main tec
 ## The transversal principles
 
 - **Two dates, as objectives.** Dk 1.0, already an ASI, by 2030, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
+- **The transition is accompanied.** The frontier of what machines can do advances every day and changes jobs, routines and certainties. Each change is monitored and evaluated. How we go through this period will decide how we reach Drayker 1.0.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
