@@ -1,16 +1,28 @@
 # Direction — Drayker, toward 2033
 
-> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The dates there were shallow estimates of priority; here each phase carries the condition that must be true before the next begins, and two dates are stated as objectives: **Dk 1.0, already an ASI, by 2030, and Drayker consolidated and Dk Global fully operating by 2033**. What runs today is marked. Nothing here is a schedule or a promise of funding.
+> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The dates there were shallow estimates of priority; here each phase carries the condition that must be true before the next begins, and two dates are stated as objectives: **version 1.0, the first complete version of the network, launched in 2030 and already an ASI, and Drayker consolidated and Dk Global fully operating by 2033**. What runs today is marked. Nothing here is a schedule or a promise of funding.
 
 ## How to read this
 
 Each phase names the work, the state it is in today, and the **exit condition** — what has to be true for the next phase to start. Phases are not sequential doors: the method allows independent parts to be worked on in parallel, and nothing waits for permission. The order exists to direct focus and resources, not to gate anyone.
 
+## How the architecture is evaluated
+
+The research follows specific capacities:
+
+- carrying memory without losing the relations that matter;
+- correcting an inference and checking whether the correction changes the decisions that follow;
+- comparing how a problem is solved with and without access to distributed knowledge;
+- making an allocation contestable without exposing anyone's intimacy;
+- letting new participants in and following what they manage to learn and achieve.
+
+The criteria are the usability of memory, the cost of distribution and the opening of opportunities. The results decide which mechanisms to widen, reorganize or replace.
+
 ---
 
 ## The objective: 2033
 
-The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and Dk Global fully operating. Before that, the objective is Dk 1.0, already an ASI, by 2030.
+The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and Dk Global fully operating. Before that, the objective is version 1.0, the first complete version of the network, launched in 2030 and already an ASI.
 
 A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts working together before the infrastructure of their own exists. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until Dk Global has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
 
@@ -89,13 +101,13 @@ Dk Personal (the agent that belongs to one person), the brain extension app, Dk 
 
 **State: future.**
 
-Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is already an ASI. The objective is to reach it by 2030.
+Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030.
 
 *Exit condition:* the components specified in phase 3 exist as described.
 
 ---
 
-## 8. Drayker 1.0 — the first real world
+## 8. Drayker consolidated — the first real world
 
 **State: future.**
 
@@ -109,7 +121,8 @@ Consolidation depends on one technology above the others: nanobots, the main tec
 
 ## The transversal principles
 
-- **Two dates, as objectives.** Dk 1.0, already an ASI, by 2030, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
+- **Two dates, as objectives.** Version 1.0, launched in 2030 and already an ASI, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
+- **The transition is accompanied.** The frontier of what machines can do advances every day and changes jobs, routines and certainties. Each change is monitored and evaluated. Drayker's construction up to version 1.0 also goes through this period, and how we go through it will decide how we reach that version.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
 - **Read the sources.** This page is derived from the roadmaps and the repositories; when they disagree, the repositories are right.
