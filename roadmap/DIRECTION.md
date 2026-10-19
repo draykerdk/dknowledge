@@ -58,7 +58,7 @@ The **transition** is the opening to the world — volunteer recruitment, public
 
 - **BSDK** — the base structure, the DNA of the kernel: the assembly structure that is the parent function of the whole function chain. Its definitive form is a **super equation** whose predictive modeling research suggests may be beyond human capacity alone — expected to be carried out by **Meta DFM**, the evolutionary research and development agent.
 - **OSDK** — the universal coupler, the virtual machine coupling language and programming kernel.
-- **Dk Network** — the distributed network, two networks, three layers, fractal structure.
+- **Dk Network** — the distributed network: two networks, the layers of the main network and of each node, fractal structure.
 - **Evolutionary A.I structures** — the intelligence cores, in the spirit of mixture-of-experts but an architecture of its own.
 - **Dknowledge** — the knowledge layer, whose systemic final form is **evolutionary knowledge graphs**.
 - **Living Cryptography** — the hydra: security that changes when an authentication fails.
