@@ -32,7 +32,7 @@ The main projects are minimal initial structure proposals, forming initial struc
 - [Interface](./interface.md) — open shell, not written yet.
 - [Living Cryptography](./living-cryptography.md) — open shell, not written yet.
 - [OSDK](./osdk.md) — open shell, not written yet.
-- [UID and DkApp](./uid-dkapp.md) — open shell, not written yet.
+- [UID and DkApp](./uid-dkapp.md) — first section written; the rest is open.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
