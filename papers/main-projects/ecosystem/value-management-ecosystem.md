@@ -2,7 +2,7 @@
 title: "Economy of capacity — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-15
+reviewed: 2026-10-19
 ---
 
 # Economy of capacity
@@ -44,11 +44,17 @@ Dk Global inherits the reactivity of its members and does not erase it; what is 
 
 Any measure that grants access invites people to optimize the measure instead of the work, and groups can validate one another. The defence follows from how contextual reputation grows: by proving valid against other information and in the real world. Validation therefore counts by its independence. Its weight falls when it comes from people who only validate one another, and rises when it comes from distant, independent contexts and from tests in the physical world. Dk looks for echo in the graph of validations as it does in knowledge.
 
+The same defences hold against poisoning, when coordinated sources fabricate patterns for Dk Global to learn from. Each UID corresponds to one living person, which keeps crowds of fake accounts out of the network ([UID](https://uid.drayker.org)). A pattern learned from personal Dks gains weight only as it is validated independently in more instances ([Dk Personal](https://personal.drayker.org)). The triage of the veto chain detects coordinated vetoes and fabricated grounds, the echo in the graph of validations lowers the weight of groups that only validate one another, and the detection of anomalous behaviour is a security requirement of [Dk Network](https://dknetwork.drayker.org). What lies beyond the independence of contexts remains an open question ([What this does not solve](../dk/constitutional-alignment.md#what-this-does-not-solve)).
+
 Proven collusion is misconduct, not failure: it sits with fraud, not with honest error, and the [DAF constitution](https://github.com/draykerdk/daf/blob/master/dafp/daf-000-federation-constitution.md) already sanctions it (DAF-000 §7).
 
 The weight of a validation follows the evidence that continues to sustain it, and the history is never deleted. There is no decay through inactivity, and a justified pause does not remove a level, as with federative points (DAF-000 §3.3 and §3.4).
 
 Whoever vouches for a member, a result or a UID risks part of their own reputation only in proven fraud or collusion, never in honest error, so that vouching does not close the door to new members.
+
+### External relations
+
+Ethics continues when each decision is traced to those truly responsible. Just as within Drayker the weight of a reputation carries how much responsibility someone can take on, in external relations the real responsibility for actions defines the reputation of those we interact with, and consequences go directly to those responsible. How the responsibility of states, corporations and other supersystems is traced, recorded and weighed in diplomatic, economic and security interfaces is still to be specified.
 
 ## Scarcity and abundance
 
