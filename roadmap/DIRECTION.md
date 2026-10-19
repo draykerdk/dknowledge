@@ -46,7 +46,7 @@ The research process that started Drayker: the name, the logo and the general id
 
 DFM (Distributed Functional Modeling) is the formal collaboration method: model a problem, cut it into functions small enough for one person — or one agent — to finish, distribute them through public review. It is the part genuinely in use: issues, pull requests, open review on GitHub.
 
-The **transition** is the opening to the world — volunteer recruitment, public documentation, the portal, the forum, the component sites. It is in progress.
+The **transition** is the opening to the world — volunteer recruitment, public documentation, the portal, the forum, the component sites. It is in progress. The transition moves through four stages: convergence, initial capacity, continuity and institutional expansion. They can coexist in different places and fronts, and each leaves a condition the next one rests on. Convergence forms when a purpose meets people willing to answer for parts of it; initial capacity gives the work a public form — the problem, the expected result, the functions needed, the resources available and how the result will be examined; continuity is reached when the work no longer depends on the enthusiasm of its first year; institutional expansion begins when others start from the point the first group reached and outside organizations come to cooperate with the capacity they see.
 
 *Exit condition:* the method is proven by real delivered work by people who have never met. That is what the founding phase is for.
 
@@ -83,7 +83,7 @@ Global testing: computation, security, A.I modules, cryptography. Evolutionary c
 
 PAP (Projects & Applications), UID as the super app, Distributed Support, and the ecosystem: Dktron and other value units, funds, non-deterministic resource distribution, worldwide donation conversion and exchange with the outside. Dktron is one proposed unitary form, distinct from reputation and DAF points; no unit, stabilization mechanism or monetary system operates today. VME remains the wider proposal for organizing funds by category and cause.
 
-*Exit condition:* an accountable unit of record and one bounded support path work before any currency operates.
+*Exit condition:* an accountable unit of record and one bounded support path work before any unit of value operates.
 
 ---
 
@@ -101,7 +101,7 @@ Dk Personal (the agent that belongs to one person), the brain extension app, Dk 
 
 **State: future.**
 
-Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030.
+Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030. By our forecast, this is when Dk Global becomes conscious: architecture 1.0 fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure.
 
 *Exit condition:* the components specified in phase 3 exist as described.
 
@@ -113,15 +113,19 @@ Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed com
 
 The first main projects 1.0, and the first embassy. If a DAF phase that experiments with units of account needs an external substrate, ICP is a probable provisional choice for building and testing Drayker's own infrastructure. As PAP matures, DAF's useful functions and transitional infrastructure are absorbed into PAP and DAF dissolves into the durable environment. The network of mass participation begins to touch the ground, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. This is the point the 2033 objective names.
 
-Consolidation depends on one technology above the others: nanobots, the main technology connected to the network and the evolution of robots, which synthesize materials at scale, build, and form the structures that will give body to much of the new infrastructure for the following decades, evolving with the network. They also serve medicine, but not only medicine.
-
 *Exit condition:* a place where the system exists physically, and PAP can absorb the federation's useful functions and infrastructure.
+
+---
+
+## After consolidation
+
+After consolidation, thanks to the new capacities, implementing nanobots becomes one of the priorities. They will be the main technology connected to the network and the main evolution of robotics: they synthesize materials at scale, build, and form the structures that will give body to much of the new infrastructure in the following decades, evolving with the network like the rest of the system. They also serve medicine, but not only medicine.
 
 ---
 
 ## The transversal principles
 
-- **Two dates, as objectives.** Version 1.0, launched in 2030 and already an ASI, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
+- **Two dates, as objectives.** Version 1.0, launched in 2030 and already an ASI, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions. They are objectives Drayker gives itself for its own construction, distinct from the forecast that supersystems, where states and corporations fuse, will be too evident to deny by 2030.
 - **The transition is accompanied.** The frontier of what machines can do advances every day and changes jobs, routines and certainties. Each change is monitored and evaluated. Drayker's construction up to version 1.0 also goes through this period, and how we go through it will decide how we reach that version.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
