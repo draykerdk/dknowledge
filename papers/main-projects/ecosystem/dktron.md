@@ -1,5 +1,5 @@
 ---
-title: "Dktron: common capacity, project custody and personal balances"
+title: "Dktron: one ledger, three parts"
 state: current
 language: en
 reviewed: 2026-10-19
