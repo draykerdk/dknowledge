@@ -13,7 +13,7 @@ This is the current public formulation of Autonomous Health in relation to the w
 
 Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
 
-For every active member, Autonomous Health is the form the common floor takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by making their own UID.
+For every active member, Autonomous Health is the form the common floor of possibility takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by making their own UID.
 
 ## Detection by patterns
 
@@ -25,7 +25,7 @@ The data belong to the member. What enters an investigation is what the member a
 
 A diagnostic intelligence learns from every exam: the detailed exams of the clinics that use the system and large exam datasets gathered around the world. A treatment intelligence relates each diagnosis to the studies and articles on it, proposes the best possible solutions, and learns from their results and feedback. Clinics run with artificial intelligence, with professional review alongside AI diagnosis and monitoring.
 
-Every clinic, hospital or organisation that uses the system has an identity, and every professional is registered. Data and processing are distributed across the network rather than held by one operator, and when Dk is ready the whole system integrates with it, updating itself with new information and results.
+Every clinic, hospital or organisation that uses the system has an organization identity, formed by the UIDs of those who compose it, and every professional is registered. Data and processing are distributed across the network rather than held by one operator, and when Dk is ready the whole system integrates with it, updating itself with new information and results.
 
 ## Open research
 

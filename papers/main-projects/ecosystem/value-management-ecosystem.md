@@ -36,6 +36,10 @@ Auditability does not mean total exposure. Personal context, private projects, s
 
 Security conditions normal decisions, not only attacks: what may be accessed, what may be executed, how much capacity may be committed, when a decision must escalate to human, local or global review. Security must not become the fiction that immunizes the system against correction: legitimate criticism is not infiltration, internal error is not sabotage, and extraordinary measures leave enough memory for later review.
 
+## Funds by project, category and cause
+
+Every project has its own fund, under the custody rules of [Value Unit](https://value.drayker.org). Projects that share characteristics form categories and causes, and each has a common fund. A person or organisation can direct a contribution to a cause — research on a disease, for instance — and that capacity stays bound to it, allocated in context among the projects that serve it. Directing a contribution to a cause does not give the contributor the judgement of priority inside it. No such fund exists today.
+
 ## Reputation
 
 Contextual reputation is a base layer of the architecture and is present in almost everything: data, relations, functions and members. It is the evolving form of the system's metadata. It grows as it proves valid against other information and in the real world, and falls when the world contradicts it. It can express trust, integration, validation in reality, contribution and use, and each type has its own rules of evaluation, deterministic or intelligent. It links almost everything in the architecture, governance, the distribution of resources and external relations.
@@ -60,7 +64,7 @@ Dk Global inherits the reactivity of its members and does not erase it; what is 
 
 ### Rights are not prizes
 
-The economy of capacity begins with a constitutional separation. Some things follow from being a member: base representation by Dk Personal, continuity of identity, and the possibility to learn, take part, form relations, contribute and contest. Others depend on trust, scarcity and responsibility. As material capacity grows, a growing base of essential needs crosses that line and becomes a right sustained by the whole, as the common floor. Priority over scarce capacity results from the full context: who needs it and how urgently, what project asks, what impact it promises, what history and trust it has, and what competence it has for the requested use.
+The economy of capacity begins with a constitutional separation. Some things follow from being a member: base representation by Dk Personal, continuity of identity, and the possibility to learn, take part, form relations, contribute and contest. Others depend on trust, scarcity and responsibility. As material capacity grows, a growing base of essential needs crosses that line and becomes a right sustained by the whole, as the common floor of possibility. Priority over scarce capacity results from the full context: who needs it and how urgently, what project asks, what impact it promises, what history and trust it has, and what competence it has for the requested use.
 
 ### Collusion and capture
 

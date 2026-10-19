@@ -5,9 +5,9 @@ language: en
 reviewed: 2026-10-19
 ---
 
-# Dktron: three meanings that accounting must preserve
+# Dktron: one ledger, three parts
 
-Dktron is proposed as a unit for accounting and accessing the material capacity of Drayker. Its design distinguishes resources held in common, allocations entrusted to a project and balances attributed to a person. These records have different purposes and obligations, even when expressed in the same unit.
+Dktron is the unit that records the personal capacity rights the network attributes to a member. Common reserves and project custody are recorded alongside it in the same ledger, and capacity becomes Dktron when it is attributed to a person's sphere. The ledger distinguishes resources held in common, allocations entrusted to a project and balances attributed to a person; these records have different purposes and obligations.
 
 During the transition, Dktron links Drayker's economy to the material conditions in which a member lives: it turns a contextual allocation into resources the person can mobilise by their own decisions.
 
@@ -46,7 +46,7 @@ Contextual reputation concerns contribution and evidence. DAF federative points 
 
 ## Development boundary
 
-No Dktron is currently issued, priced, sold or exchangeable. Reserve accounting, redemption and liquidity mechanisms require specification and testing. A first worked ledger should demonstrate the three spheres, authorised transfers, project closure and a redemption limited by actual available resources.
+No Dktron is currently issued, priced, sold or exchangeable. Reserve accounting, redemption and liquidity mechanisms require specification and testing. A first worked ledger should keep common reserves, project custody and personal Dktron balances apart, and demonstrate authorised transfers, project closure and a redemption limited by actual available resources.
 
 ## Sources
 
