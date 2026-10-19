@@ -24,7 +24,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 5323
+      "bytes": 5732
     },
     {
       "path": "papers/main-projects/dk/README.md",
@@ -87,7 +87,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 8476
+      "bytes": 8962
     },
     {
       "path": "papers/main-projects/dk/constitutional-alignment.md",
@@ -96,7 +96,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 12318
+      "bytes": 16130
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -132,7 +132,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2783
+      "bytes": 3410
     },
     {
       "path": "papers/main-projects/ecosystem/support-model.md",
@@ -150,7 +150,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3747
+      "bytes": 6254
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
@@ -159,7 +159,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 1062
+      "bytes": 1356
     },
     {
       "path": "papers/main-projects/dk/ap-platform.md",
@@ -258,7 +258,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 10347
+      "bytes": 11516
     },
     {
       "path": "roadmap/global-main-roadmap.md",
