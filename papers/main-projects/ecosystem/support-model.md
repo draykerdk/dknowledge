@@ -2,7 +2,7 @@
 title: "Distributed Support — current synthesis"
 state: current
 language: en
-reviewed: 2026-08-17
+reviewed: 2026-10-19
 ---
 
 # Distributed Support
@@ -21,7 +21,7 @@ The internal economy is an economy of capacity, not a market among members. A fu
 
 Synthesis alone does not authorize an action. Systemic safeguards — constitutional constraints, security, permissions, integrity, reserves and risk — can limit, postpone, compartmentalize or block what Dk proposes, so the executable decision is always the one inside a permitted and safe space. Effects, refusals and consequences return through members' personal Dks as new evidence, without a universal individual veto. Every refusal carries its grounds, even when its author stays anonymous. A well-founded pattern of refusals can justify review, and so can a single refusal whose grounds bring information beyond the scope considered before the decision, once an advanced triage confirms what that information is and what it means ([veto chain](https://uid.drayker.org)). A decision can then be maintained, adapted, excepted, suspended or reversed.
 
-Reputation matters under scarcity, risk and responsibility. It does not determine membership, dignity or fundamental rights. As capacity becomes abundant, essentials should move into a common floor rather than stay in the scarcity queue.
+Access to the common floor belongs to every active member. While the network cannot sustain it for everyone, mainly when resources are scarce, access depends on an endorsement that works more like a queue weighted by context, such as each person's need and urgency, than like an approval in itself; at the start, contextual reputation helps protect the network against abuse and prioritize those who have shown integration, cooperation and responsibility. As capacity grows, what depended on the queue becomes part of the floor, and reputation comes to weigh only on what remains scarce. Reputation does not determine membership, dignity or fundamental rights.
 
 ## Sources
 
