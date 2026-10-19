@@ -12,7 +12,7 @@ Consider a project whose resource plan relies on a measurement. A later review f
 
 This example defines a behaviour to develop: source → use → correction → review of dependent conclusions. A correction should reach the places where it matters, with responsibility for deciding which actions need to change.
 
-A correction adds context; it never erases the trace. The error stays where it was, linked to the evidence that corrected it, so that no one pays for it twice. What changes is how it is perceived, through the relations added around it. The same rule holds at the personal, local and global scales: in a person's own Dknowledge, errors and traumas are not removed either; the relations added around them change how they are perceived.
+A correction adds context; it never erases the trace. The error stays where it was, linked to the evidence that corrected it. What changes is how it is perceived, through the relations added around it. The same rule holds at the personal, local and global scales: in a person's own Dknowledge, errors and traumas are not removed either; the relations added around them change how they are perceived.
 
 ## Context and permission
 
