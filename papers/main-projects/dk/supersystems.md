@@ -2,7 +2,7 @@
 title: "Supersystems and the choice of intelligence — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-16
+reviewed: 2026-10-19
 ---
 
 # Supersystems and the choice of intelligence
@@ -38,7 +38,7 @@ Drayker defends the symbiont, and does not intend to compete or fight with any s
 - people in any country can become members and stay under the protection Drayker gives every member;
 - with the support of its people and the consent of its state, a country can cede territory for an embassy, an autonomous zone that becomes independent, almost another country;
 - on the high seas, pure autonomous zones need no one to cede territory;
-- a whole country can become a member, by adopting the whole Drayker infrastructure and running on the supersystem.
+- a whole country can adopt Drayker's infrastructure in a local, personalized version that runs isolated from the global network. Each person in the country has their own UID in that system, and using it does not make anyone a member: each person chooses whether to make their UID also a Drayker member UID. Whoever does has the two integrated, almost like two nationalities.
 
 Together, these choices mean that a country's superintelligence is not delivered ready by whoever dominates it. Its own people build it, inside Drayker. Like any organization of people, projects and applications inside Drayker, such a country can use the system freely, including subsystems of its own, and that is where its sovereignty comes from.
 

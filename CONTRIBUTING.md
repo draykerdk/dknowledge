@@ -28,7 +28,7 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 
 ## Good first contributions
 
-- One of the 10 paper shells is still empty: write its scope and connect its sources.
+- All 10 paper shells are still empty: pick one, write its scope and connect its sources.
 - Find a claim that no longer matches a component contract and open a correction issue.
 - Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 
