@@ -13,7 +13,7 @@ This is the current public formulation of Autonomous Health in relation to the w
 
 Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
 
-For every active member, Autonomous Health is the form the common floor takes in health ([Distributed Support](./support-model.md)).
+For every active member, Autonomous Health is the form the common floor takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by making their own UID.
 
 ## Detection by patterns
 
@@ -34,6 +34,8 @@ Autonomous Health is joined to a research layer for biology and medicine, where 
 ## What is not decided
 
 The order of the first steps, the clinical and legal requirements in each territory, and the criteria that make a probability "sufficient" for an investigation are open work. No clinic, dataset or diagnostic service exists today.
+
+Health technologies of a size that changes life itself (indefinite longevity, for instance) do not arrive ready: their dilemmas, distribution and rules of use are decided by the members together with Dk Global, which projects the consequences but does not choose between values for them.
 
 ## Sources
 

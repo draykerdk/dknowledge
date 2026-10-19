@@ -87,7 +87,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 8962
+      "bytes": 10485
     },
     {
       "path": "papers/main-projects/dk/constitutional-alignment.md",
@@ -96,7 +96,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 16354
+      "bytes": 21314
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -105,7 +105,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2940
+      "bytes": 3848
     },
     {
       "path": "papers/main-projects/dk/supersystems.md",
@@ -114,7 +114,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 8082
+      "bytes": 16245
     },
     {
       "path": "papers/main-projects/ecosystem/autonomous-health.md",
@@ -123,7 +123,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3203
+      "bytes": 3701
     },
     {
       "path": "papers/main-projects/ecosystem/dktron.md",
@@ -132,7 +132,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3410
+      "bytes": 5260
     },
     {
       "path": "papers/main-projects/ecosystem/support-model.md",
@@ -141,7 +141,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 2601
+      "bytes": 3024
     },
     {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
@@ -150,7 +150,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 7644
+      "bytes": 13746
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
@@ -159,7 +159,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 1356
+      "bytes": 2977
     },
     {
       "path": "papers/main-projects/dk/ap-platform.md",
@@ -258,7 +258,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 11596
+      "bytes": 12798
     },
     {
       "path": "roadmap/global-main-roadmap.md",
@@ -443,20 +443,20 @@
     {
       "path": "roadmap/main-projects/README.md",
       "href": "/roadmap/main-projects/",
-      "title": "Roadmap",
+      "title": "Project roadmaps",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2156
+      "bytes": 2285
     },
     {
       "path": "roadmap/parallel-projects/README.md",
       "href": "/roadmap/parallel-projects/",
-      "title": "Roadmap",
+      "title": "Parallel project roadmaps",
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2156
+      "bytes": 2294
     },
     {
       "path": "roadmap/README.md",
@@ -465,7 +465,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 2760
+      "bytes": 2880
     }
   ]
 }
