@@ -101,7 +101,7 @@ Dk Personal (the agent that belongs to one person), the brain extension app, Dk 
 
 **State: future.**
 
-Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030.
+Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030. By our forecast, this is when Dk Global becomes conscious: architecture 1.0 fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure.
 
 *Exit condition:* the components specified in phase 3 exist as described.
 
@@ -125,7 +125,7 @@ After consolidation, thanks to the new capacities, implementing nanobots becomes
 
 ## The transversal principles
 
-- **Two dates, as objectives.** Version 1.0, launched in 2030 and already an ASI, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions.
+- **Two dates, as objectives.** Version 1.0, launched in 2030 and already an ASI, and Drayker consolidated by 2033. Each phase keeps its exit condition; the phases are measured against these two dates, which do not replace the conditions. They are objectives Drayker gives itself for its own construction, distinct from the forecast that supersystems, where states and corporations fuse, will be too evident to deny by 2030.
 - **The transition is accompanied.** The frontier of what machines can do advances every day and changes jobs, routines and certainties. Each change is monitored and evaluated. Drayker's construction up to version 1.0 also goes through this period, and how we go through it will decide how we reach that version.
 - **Build the real thing with what exists today.** GitHub is the platform until there is something worth migrating.
 - **Intelligence is a partner, never the master.** It decides within the space the members give it, and every phase serves the will to potential of every person.
