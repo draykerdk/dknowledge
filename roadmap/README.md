@@ -2,6 +2,8 @@
 
 > **Direction is current. The rest of this folder is historical material.** [Direction](./DIRECTION.md) is the current execution direction. The other roadmaps are preserved as context. They are not the current execution plan, schedule, assignment list or implementation evidence. Start with [Current orientation](../CURRENT.md).
 
+The project roadmaps are open shells, except Autonomous Health; what follows describes what each one is meant to hold.
+
 ## Direction (current)
 [Direction](./DIRECTION.md) is the execution direction of Drayker toward its 2033 objective: the same phases as the global roadmap, each with the condition that must be true before the next begins, and what runs today marked.
 
