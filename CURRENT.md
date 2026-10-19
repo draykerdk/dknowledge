@@ -22,7 +22,7 @@ Dk Global, Dk Personal and Dk Local are connected architectural scopes, not thre
 
 The precise interfaces and operational implementations among them are still to be specified and tested.
 
-Global Dknowledge is intended to be an operational ontology, not merely a document archive: entities, events, concepts, projects, decisions, capabilities, resources and their relations remain connected to provenance. Permissions remain contextual. Auditability requires that an authorized decision path can be reconstructed; it does not require every underlying fact to be public.
+Global Dknowledge is intended to be an operational ontology, not merely a document archive: entities, events, concepts, projects, decisions, capabilities, resources and their relations remain connected to provenance. Permissions remain contextual. Auditability requires that an authorized decision path can be reconstructed; it does not require every underlying fact to be public. The record of a decision keeps the data and rules used, the versions of the components involved, the proposals considered, the authorizations given and the actions executed. Agents' justifications are checked against these records, without having to reconstruct the model. Permissions fall into five classes: personal context, private projects, sensitive research, critical infrastructure and open knowledge.
 
 ## Current economic interpretation
 
