@@ -24,7 +24,7 @@ The criteria are the usability of memory, the cost of distribution and the openi
 
 The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and Dk Global fully operating. Before that, the objective is version 1.0, the first complete version of the network, launched in 2030 and already an ASI.
 
-A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts working together before the infrastructure of their own exists. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until Dk Global has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
+A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts gather in [DAF](https://daf.drayker.org) and build together the infrastructure of their own. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until Dk Global has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
 
 Each phase is measured by what works, not by the date. If the date arrives before the phases, the goal was missed, not the design. Competences keep growing by stages, through the members' process, as far as members can verify what Dk Global does.
 
@@ -81,7 +81,7 @@ Global testing: computation, security, A.I modules, cryptography. Evolutionary c
 
 **State: future.**
 
-The Project and Application Platform (PAP), UID as the super app, Distributed Support, and the ecosystem: Dktron and other value units, funds, non-deterministic resource distribution, worldwide donation conversion and exchange with the outside. Dktron is one proposed unitary form, distinct from reputation and DAF points; no unit, stabilization mechanism or monetary system operates today. VME remains the wider proposal for organizing funds by category and cause.
+PAP (Projects & Applications), UID as the super app, Distributed Support, and the ecosystem: Dktron and other value units, funds, non-deterministic resource distribution, worldwide donation conversion and exchange with the outside. Dktron is one proposed unitary form, distinct from reputation and DAF points; no unit, stabilization mechanism or monetary system operates today. VME remains the wider proposal for organizing funds by category and cause.
 
 *Exit condition:* an accountable unit of record and one bounded support path work before any currency operates.
 
@@ -134,7 +134,7 @@ Consolidation depends on one technology above the others: nanobots, the main tec
 - [Global Main Roadmap](./global-main-roadmap.md) — the historical roadmap whose phase structure this page keeps, with exit conditions in place of its old dates.
 - [Current orientation](../CURRENT.md) — what is available now, what remains architecture, and how founding governance works.
 - [Roadmap index](./README.md) — the structure of project roadmaps and how they are organized.
-- Project roadmaps: [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
+- Project roadmaps (all are open shells not written yet, except Autonomous Health): [Dk](./main-projects/dk/README.md) (AP platform, BSDK-DFM, Dk Network, Dknowledge, interface, Living Cryptography, OSDK, UID-DkApp) · [Ecosystem](./main-projects/ecosystem/README.md) (autonomous health, academy, Dktron, support model, support stations, value management ecosystem, will to potential) · [Organization](./main-projects/organization/README.md) (DAF).
 
 **The components named in the phases**
 

@@ -1,4 +1,4 @@
-# Roadmap
+# Parallel projects
 
 ## [Global main roadmap](../../roadmap/global-main-roadmap.md)
 The structure of roadmaps and task organization works with a global view of the main projects, where all major projects and their main modules and functions are specified and structured giving a global view of Drayker.

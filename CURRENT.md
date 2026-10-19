@@ -7,12 +7,12 @@ This page separates Drayker's current public operating surfaces from its longer-
 - [`drayker.com`](https://drayker.com) presents the supersystem and the architecture at an institutional level.
 - [`drayker.org`](https://drayker.org) maps the ecosystem and routes public participation.
 - [`Dknowledge`](https://dknowledge.drayker.org) publishes the public knowledge base and its history.
-- The [`General Forum`](https://github.com/draykerdk/general-forum/issues/new/choose) receives volunteer introductions, partnership proposals and questions that do not yet have a clear repository.
+- The [`General Forum`](https://forum.drayker.org) receives volunteer introductions, partnership proposals and questions that do not yet have a clear repository.
 - Public repositories use issues, contribution branches, pull requests to `master`, automated checks and Git history.
 
 ## Architecture under development
 
-Dk, BSDK, Dk Network, Living Cryptography, OSDK, UID, DFM/DFMP, Meta DFM, DAF, Advices, DFMPProject and the Emergence Initiative remain at different levels of documentation and specification. Their repository contracts in `.drayker/component.yml` state the evidence and limits for each component.
+Dk, BSDK, Dk Network, Living Cryptography, OSDK, UID, PAP, Dk Academy, Stations, Value Unit, Distributed Support, Open Science, DFM/DFMP, Meta DFM, DAF, Advices, DFMPProject and the Emergence Initiative remain at different levels of documentation and specification. Their repository contracts in `.drayker/component.yml` state the evidence and limits for each component.
 
 Dk Global, Dk Personal and Dk Local are connected architectural scopes, not three currently deployed products:
 

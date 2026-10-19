@@ -2,7 +2,7 @@
 title: "Constitutional alignment — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-16
+reviewed: 2026-10-19
 ---
 
 # Constitutional alignment
@@ -81,6 +81,7 @@ These protections do not close the problem of aligning an intelligence that impr
 - Does continuous integration with members — personal Dks, proposals and justified vetoes — keep a self-improving intelligence aligned as it grows? Which combination of integration, separation of layers, physical distribution, staged delegation and external review is enough, and how is it verified before each new delegation?
 - Does the weighing of certainty between members and Dk Global, adjusted by results, reduce the need for weighted member choices without reducing the possibility of objection?
 - What triage distinguishes, in a single veto, new information that should change a decision from error, misunderstanding and fabricated grounds, without the delay of verification making the veto useless? How is the anonymity of whoever vetoes preserved when the grounds themselves could identify them?
+- How does Dk Global's learning resist coordinated sources that fabricate patterns, beyond the independence of the contexts that validate them ([poisoning](../ecosystem/value-management-ecosystem.md#collusion-and-capture))?
 - What outside criteria can examine, in an artificial system, the integration of relations, the revision of automatic responses by error and the continuity of memory that would mark a rising level of consciousness?
 
 ## Sources

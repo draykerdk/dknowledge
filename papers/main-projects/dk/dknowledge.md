@@ -12,9 +12,15 @@ Consider a project whose resource plan relies on a measurement. A later review f
 
 This example defines a behaviour to develop: source → use → correction → review of dependent conclusions. A correction should reach the places where it matters, with responsibility for deciding which actions need to change.
 
+A correction adds context; it never erases the trace. The error stays where it was, linked to the evidence that corrected it, so that no one pays for it twice. What changes is how it is perceived, through the relations added around it. The same rule holds at the personal, local and global scales: in a person's own Dknowledge, errors and traumas are not removed either; the relations added around them change how they are perceived.
+
 ## Context and permission
 
 Public evidence, project knowledge and a person's private notes serve different purposes. Reuse requires an appropriate permission boundary and enough provenance to preserve meaning. Federated learning is one possible research direction; its privacy properties require evaluation of what updates and metadata may disclose.
+
+## Words change, relations stay
+
+The words that name concepts change over time. What changes is the configuration of the network of relations, not the record of what was said. The genealogy of words is the natural state of the Dknowledge graph: which term was used, when, in which context, and which term came after it. A decision recorded in older words therefore stays legible, because whoever reads it later can follow the relations from the term used then to the meaning it has now.
 
 ## First worked case
 
