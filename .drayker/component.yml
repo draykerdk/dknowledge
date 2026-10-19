@@ -11,9 +11,12 @@ component:
     - The E.C.H. Triad (Expansion, Complexity, Harmony) across scales, grounded in complex systems dynamics and scale invariance, with Harmony capable of reconstructing the model.
     - Anonymous federated learning through patterns or model updates with depersonalized metadata, with independent validation increasing global weight.
     - Deliberate, authorized sharing of knowledge or narrative with provenance and permissions, kept distinct from federated learning.
+    - "Contextual reputation of data and relations: trust levels and metadata that evolve with use and with results, as a base layer shared with UIDs and functions."
+    - "Dknowledge as the same pattern at every scale (personal, project and organization, global), the global one being the junction of all."
+    - "Decision records: data and rules used, component versions, proposals considered, authorizations and actions."
   non_scope:
-    - Private local knowledge bases.
-    - An operational distributed data, sensor, oracle or ontology platform.
+    - "Members' personal Dknowledge or any private knowledge base: this repository holds public knowledge only."
+    - "An operational ontology, oracle or distributed data platform today; that is the designed form of Dknowledge, not yet built."
   dependencies:
     - dk
     - dfmp
@@ -36,4 +39,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dknowledge
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-19"
