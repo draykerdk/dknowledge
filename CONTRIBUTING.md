@@ -28,7 +28,7 @@ There is no active `peer-review` or `community-review` branch. During the foundi
 
 ## Good first contributions
 
-- All 10 paper shells are still empty: pick one, write its scope and connect its sources.
+- Eight paper shells are still empty, and Dk Academy and UID and DkApp have only their first section: pick one, write its scope and connect its sources.
 - Find a claim that no longer matches a component contract and open a correction issue.
 - Improve the generated catalog or the accessibility of [dknowledge.drayker.org](https://dknowledge.drayker.org).
 
