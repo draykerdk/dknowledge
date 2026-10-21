@@ -34,7 +34,8 @@ check(read('CNAME').trim() === 'dknowledge.drayker.org', 'CNAME is not canonical
 check(config.includes('https://dknowledge.drayker.org'), 'Jekyll canonical URL is wrong');
 check(contract.includes('https://dknowledge.drayker.org'), 'component evidence URL is wrong');
 check(read('robots.txt').includes('Sitemap: https://dknowledge.drayker.org/sitemap.xml'), 'robots sitemap is not canonical');
-check(read('robots.txt').includes('OAI-SearchBot'), 'AI search crawler policy is missing');
+const robotsLines = read('robots.txt').split(/\r?\n/).map((line) => line.trim());
+check(robotsLines.includes('User-agent: *') && robotsLines.includes('Allow: /'), 'robots.txt must allow every crawler with User-agent: * and Allow: /');
 check(fs.existsSync(path.join(root, 'llms.txt')), 'llms.txt is missing');
 check(fs.existsSync(path.join(root, 'assets/og.svg')), 'editable Open Graph source is missing');
 const og = fs.readFileSync(path.join(root, 'og.png'));
