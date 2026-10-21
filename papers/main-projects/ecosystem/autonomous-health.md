@@ -2,7 +2,7 @@
 title: "Autonomous Health — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-19
+reviewed: 2026-10-21
 ---
 
 # Autonomous Health
@@ -11,15 +11,15 @@ This is the current public formulation of Autonomous Health in relation to the w
 
 ## Systemic role
 
-Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
+Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [personal Dk](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
 
-For every active member, Autonomous Health is the form the common floor of possibility takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by making their own UID.
+For every active member, Autonomous Health is the form the common floor of possibility takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by creating their own UID.
 
 ## Detection by patterns
 
-The system relates what a person's Dk Personal, personal Dknowledge and devices already know about them. When a pattern may be connected to a condition with sufficient probability, it is investigated to find out whether something is there. Besides saving lives, every investigation improves the multifactor detection of every kind of condition, through patterns no one would have thought to look for, and makes it more precise over time.
+The system relates what a person's personal Dk, personal Dknowledge and devices already know about them. When a pattern may be connected to a condition with sufficient probability, it is investigated to find out whether something is there. Besides saving lives, every investigation improves the multifactor detection of every kind of condition, through patterns no one would have thought to look for, and makes it more precise over time.
 
-The data belong to the member. What enters an investigation is what the member authorises their Dk Personal to share.
+The data belong to the member. What enters an investigation is what the member authorises their personal Dk to share.
 
 ## Diagnosis and treatment
 
@@ -35,11 +35,11 @@ Autonomous Health is joined to a research layer for biology and medicine, where 
 
 The order of the first steps, the clinical and legal requirements in each territory, and the criteria that make a probability "sufficient" for an investigation are open work. No clinic, dataset or diagnostic service exists today.
 
-Health technologies of a size that changes life itself (indefinite longevity, for instance) do not arrive ready: their dilemmas, distribution and rules of use are decided by the members together with Dk Global, which projects the consequences but does not choose between values for them.
+Health technologies of a size that changes life itself (indefinite longevity, for instance) do not arrive ready: their dilemmas, distribution and rules of use are decided by the members together with the global Dk, which projects the consequences but does not choose between values for them.
 
 ## Sources
 
 - [Open Science component](https://science.drayker.org)
 - [UID](https://uid.drayker.org)
-- [Dk Personal](https://personal.drayker.org)
+- [Personal Dk](https://personal.drayker.org)
 - [Distributed Support](https://support.drayker.org)

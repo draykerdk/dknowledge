@@ -2,7 +2,7 @@
 title: "Will to potential — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-19
+reviewed: 2026-10-21
 ---
 
 # Will to potential
@@ -25,11 +25,11 @@ The circuit from intention to capacity runs in one order:
 6. memory and review;
 7. capacity for the next action.
 
-Different trajectories are legitimate. A member may want a quiet life, improve a neighbourhood, care for others, build an enterprise, conduct science, create planetary infrastructure or explore space. Dk Personal adapts to that direction; it does not impose a single scale of ambition.
+Different trajectories are legitimate. A member may want a quiet life, improve a neighbourhood, care for others, build an enterprise, conduct science, create planetary infrastructure or explore space. The personal Dk adapts to that direction; it does not impose a single scale of ambition.
 
 For the ambitious, recognition comes by other paths than salary, title, wealth, followers or control over others: reputation grows when work leaves something usable for the whole, not when it accumulates signs of status. Vanity, competition and the wish for recognition remain; what changes is the ground on which they find reward, without handing them the direction of the whole.
 
 ## Sources
 
 - [Dk Academy](https://academy.drayker.org)
-- [Dk Personal](https://personal.drayker.org)
+- [Personal Dk](https://personal.drayker.org)

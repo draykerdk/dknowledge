@@ -39,4 +39,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dknowledge
     path: README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"

@@ -16,7 +16,7 @@ Dknowledge is an open public knowledge base. Useful contributions include correc
 
 5. Open a pull request to `master` and connect it to the issue.
 
-There is no active `peer-review` or `community-review` branch. During the founding phase, contributions remain open while the Embassy of Drayker, through its founding steward, may also edit, integrate and correct material directly through the ordinary Git flow. The versioned governance source is [`draykerdk/.github`](https://github.com/draykerdk/.github).
+There is no active `peer-review` or `community-review` branch. During the founding phase, contributions remain open while the Drayker Embassy, through its founding steward, may also edit, integrate and correct material directly through the ordinary Git flow. The versioned governance source is [`draykerdk/.github`](https://github.com/draykerdk/.github).
 
 ## Evidence rules
 
