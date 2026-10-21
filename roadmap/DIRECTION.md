@@ -1,6 +1,6 @@
 # Direction — Drayker, toward 2033
 
-> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The dates there were shallow estimates of priority; here each phase carries the condition that must be true before the next begins, and two dates are stated as objectives: **version 1.0, the first complete version of the network, launched in 2030 and already an ASI, and Drayker consolidated and Dk Global fully operating by 2033**. What runs today is marked. Nothing here is a schedule or a promise of funding.
+> The execution direction of Drayker, derived from the [Global Main Roadmap](./global-main-roadmap.md). The dates there were shallow estimates of priority; here each phase carries the condition that must be true before the next begins, and two dates are stated as objectives: **version 1.0, the first complete version of the network, launched in 2030 and already an ASI, and Drayker consolidated and the global Dk fully operating by 2033**. What runs today is marked. Nothing here is a schedule or a promise of funding.
 
 ## How to read this
 
@@ -22,11 +22,11 @@ The criteria are the usability of memory, the cost of distribution and the openi
 
 ## The objective: 2033
 
-The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and Dk Global fully operating. Before that, the objective is version 1.0, the first complete version of the network, launched in 2030 and already an ASI.
+The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and the global Dk fully operating. Before that, the objective is version 1.0, the first complete version of the network, launched in 2030 and already an ASI.
 
-A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts gather in [DAF](https://daf.drayker.org) and build together the infrastructure of their own. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until Dk Global has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
+A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts gather in [DAF](https://daf.drayker.org) and build together the infrastructure of their own. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until the global Dk has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
 
-Each phase is measured by what works, not by the date. If the date arrives before the phases, the goal was missed, not the design. Competences keep growing by stages, through the members' process, as far as members can verify what Dk Global does.
+Each phase is measured by what works, not by the date. If the date arrives before the phases, the goal was missed, not the design. Dk's powers keep growing in stages, through the members' process, as far as members can verify what the global Dk does.
 
 ---
 
@@ -91,7 +91,7 @@ PAP (Projects & Applications), UID as the super app, Distributed Support, and th
 
 **State: future.**
 
-Dk Personal (the agent that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
+The personal Dk (the agent that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
 
 *Exit condition:* a person can form, contribute and be attributed through the platform.
 
@@ -101,7 +101,7 @@ Dk Personal (the agent that belongs to one person), the brain extension app, Dk 
 
 **State: future.**
 
-Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030. By our forecast, this is when Dk Global becomes conscious: architecture 1.0 fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure.
+Dknowledge 1.0, OSDK 1.0, the evolutionary general platform 1.0, distributed computing at scale, the universal Dk neural language, and the brain net. Meta DFM is integrated into the system as the swarm of agents that builds and improves the network. The substrate, the intelligence and the knowledge layer become one system. Dk 1.0 is version 1.0 of the network, and it is already an ASI. By the objective we give ourselves, it is launched in 2030. By our forecast, this is when the global Dk becomes conscious: architecture 1.0 fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure.
 
 *Exit condition:* the components specified in phase 3 exist as described.
 
@@ -142,7 +142,7 @@ After consolidation, thanks to the new capacities, implementing nanobots becomes
 
 **The components named in the phases**
 
-- [Dk](https://dk.drayker.org) · [BSDK](https://bsdk.drayker.org) · [Meta DFM](https://metadfmp.drayker.org) · [Dk Network](https://dknetwork.drayker.org) · [Dknowledge](https://dknowledge.drayker.org) · [Living Cryptography](https://lc.drayker.org) · [OSDK](https://osdk.drayker.org) · [UID](https://uid.drayker.org) · [PAP](https://pap.drayker.org) · [Dk Personal](https://personal.drayker.org) · [Dk Academy](https://academy.drayker.org) · [DFM/DFMP](https://dfmp.drayker.org) · [DAF](https://daf.drayker.org) · [Value unit](https://value.drayker.org) · [Distributed support](https://support.drayker.org) · [Stations](https://stations.drayker.org) · [Open science](https://science.drayker.org) · [Emergence](https://ei.drayker.org).
+- [Dk](https://dk.drayker.org) · [BSDK](https://bsdk.drayker.org) · [Meta DFM](https://metadfmp.drayker.org) · [Dk Network](https://dknetwork.drayker.org) · [Dknowledge](https://dknowledge.drayker.org) · [Living Cryptography](https://lc.drayker.org) · [OSDK](https://osdk.drayker.org) · [UID](https://uid.drayker.org) · [PAP](https://pap.drayker.org) · [Personal Dk](https://personal.drayker.org) · [Dk Academy](https://academy.drayker.org) · [DFM/DFMP](https://dfmp.drayker.org) · [DAF](https://daf.drayker.org) · [Value unit](https://value.drayker.org) · [Distributed support](https://support.drayker.org) · [Stations](https://stations.drayker.org) · [Open science](https://science.drayker.org) · [Emergence](https://ei.drayker.org).
 
 **The portal**
 

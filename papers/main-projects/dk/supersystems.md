@@ -2,7 +2,7 @@
 title: "Supersystems and the choice of intelligence — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-19
+reviewed: 2026-10-21
 ---
 
 # Supersystems and the choice of intelligence
@@ -47,14 +47,14 @@ Drayker defends the symbiont, and does not intend to compete or fight with any s
 
 On platforms, the only correction left to someone who disagrees is to leave, because the place is not theirs: networks and supersystems belong to corporations, and when leaving becomes hard, no correction is left at all. Drayker belongs to its members. When the place is yours, you change it, correct it and do something in it, and leaving stops being necessary. Members integrate with Drayker, and that is not dependence: dependence is a relation of power, and what each member depends on in Drayker is constituted by them and by the other members. A person can still leave, but their sovereignty does not depend on leaving.
 
-Like the Chinese supersystem, Drayker's economy of capacity uses intelligence to calculate and allocate. The difference lies in who constitutes that intelligence: in Drayker, people keep the veto, the proposal and the exit. Intelligence is the fire of this age, and Drayker wants it to stay in the hands of whoever constitutes it.
+Like the Chinese supersystem, Drayker's capacity economy uses intelligence to calculate and allocate. The difference lies in who constitutes that intelligence: in Drayker, people keep the veto, the proposal and the exit. Intelligence is the fire of this age, and Drayker wants it to stay in the hands of whoever constitutes it.
 
 Drayker opposes domination by being an exit, and the exit is made of choices:
 
 - people in any country can become members and come under the standard protection Drayker is building for every member; once it stands, that protection is itself a barrier to domination;
 - with the support of its people and the consent of its state, a country can cede territory for an embassy, an autonomous zone that becomes independent, almost another country;
 - on the high seas, pure autonomous zones need no one to cede territory;
-- a whole country can adopt Drayker's infrastructure in a local, personalized version that runs isolated from the global network. Each person in the country has their own UID in that system, and using it does not make anyone a member: each person chooses whether to make their UID also a Drayker member UID. Whoever does has the two integrated, almost like two nationalities.
+- a whole country can adopt Drayker's infrastructure in a local, personalized version that runs isolated from the global network. Each person in the country has their own UID in that system, and using it does not make anyone a member: each person chooses whether to make their UID also a Drayker member UID. Whoever does has the two integrated, almost like dual citizenship.
 
 With Drayker, the scenario is one of many countries using its system. It does not fit only the second scenario, buying superintelligence from whoever offers it. It is the harmony between the second and the third: these countries use a superintelligence they did not build alone and, at the same time, build their own, because their people, communities and projects become part of it.
 
@@ -80,14 +80,14 @@ Drayker itself has to avoid the path of manipulation. Its own symbolic engineeri
 
 Cohesion is the main target of symbolic engineering. A cohesive group decides together, withstands pressure and can prevail against a far greater power, so whoever governs by the parasite's path does not need to defeat it: it is enough to keep it from forming, by separating people into identities that do not speak to each other and teaching each one to distrust whoever is beside them. Drayker's cohesion comes from a common purpose and a constitution open to whoever wants to join, and it lives with criticism. It cannot depend on a symbol that someone outside can swap, which is why every voice in the network belongs to a person who exists ([UID](https://uid.drayker.org)).
 
-In the traction phase the probable risk is absorption rather than force: buying talent, imitating Dk Personal, turning criticism into a niche. The defense is cohesion around an open common purpose, with infrastructure of our own.
+In the traction phase the probable risk is absorption rather than force: buying talent, imitating the personal Dk, turning criticism into a niche. The defense is cohesion around an open common purpose, with infrastructure of our own.
 
-Dk Global inherits the reactivity of its members and does not erase it. How it keeps what that reactivity teaches, without letting it set the direction, belongs to [contextual reputation](../ecosystem/value-management-ecosystem.md#reputation).
+The global Dk inherits the reactivity of its members and does not erase it. How it keeps what that reactivity teaches, without letting it set the direction, belongs to [contextual reputation](../ecosystem/value-management-ecosystem.md#reputation).
 
 ## Sources
 
 - [Constitutional alignment](./constitutional-alignment.md)
-- [Economy of capacity: reputation](../ecosystem/value-management-ecosystem.md#reputation)
+- [Capacity economy: reputation](../ecosystem/value-management-ecosystem.md#reputation)
 - [Dk](https://dk.drayker.org) and its [ethical code](https://dk.drayker.org/ethos)
 - [Stations and embassies](https://stations.drayker.org)
 - [Direction](../../../roadmap/DIRECTION.md)

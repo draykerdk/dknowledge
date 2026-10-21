@@ -1,19 +1,19 @@
 ---
-title: "Economy of capacity — current synthesis"
+title: "Capacity economy — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-19
+reviewed: 2026-10-21
 ---
 
-# Economy of capacity
+# Capacity economy
 
-The economy of capacity connects project funds, categories, incentives, reputation and Dk-assisted contextual allocation into one learning system.
+The capacity economy connects project funds, categories, incentives, reputation and Dk-assisted contextual allocation into one learning system.
 
-None of the loop described below runs today. In the DAF's current phase, resource requests are filed and decided in its assembly, and the federation holds no treasury. The loop describes Dk Global from version 1.0, whose economic calculation improves with every cycle because the intelligence that computes it keeps improving itself.
+None of the loop described below runs today. In the DAF's current phase, resource requests are filed and decided in its assembly, and the federation holds no treasury. The loop describes the global Dk from version 1.0, whose economic calculation improves with every cycle because the intelligence that computes it keeps improving itself.
 
 ## The economic corpus
 
-The economy feeds on a corpus no market or planner ever had. Personal Dks bring needs, intentions, skills and the local knowledge of each life; local Dks bring the state of each project and community and what each could do with more resources; projects bring plans, deadlines, dependencies and results; the network brings the state of resources — energy, computing, equipment, stocks, logistics; devices bring signals from the world in real time; Dk Global's forecasts bring what tends to happen; and the priorities deliberated by members say what comes first. Knowledge dispersed across millions of lives does not have to be compressed into a price to circulate.
+The economy feeds on a corpus no market or planner ever had. Personal Dks bring needs, intentions, skills and the local knowledge of each life; local Dks bring the state of each project and community and what each could do with more resources; projects bring plans, deadlines, dependencies and results; the network brings the state of resources — energy, computing, equipment, stocks, logistics; devices bring signals from the world in real time; the global Dk's forecasts bring what tends to happen; and the priorities deliberated by members say what comes first. Knowledge dispersed across millions of lives does not have to be compressed into a price to circulate.
 
 ## Allocation as a learning loop
 
@@ -54,23 +54,23 @@ Well-grounded criticism never becomes a reputation cost. Whoever disagrees with 
 
 A general level may summarize integration; it cannot replace the underlying trajectory. The multidimensional history remains the real source, and the level is a useful compression that the system can always look behind. A longer history of contribution tends to give higher priority in queues for scarce resources, especially for projects, and the maturity of each person's and each project's Dknowledge makes the request that reaches the queue more precise. A high level increases trust in a relation and stays subject to the context of each request. A low level marks a relation with little history, and history is built.
 
-Caring for an elderly person, organising a community space, teaching a child or repairing something everyone uses may produce no global project, yet they sustain the fabric in which global projects become possible. Local Dks help keep that knowledge, general reputation receives part of that history with the local context that gives it meaning, and Dk Global sees the value of each scale.
+Caring for an elderly person, organising a community space, teaching a child or repairing something everyone uses may produce no global project, yet they sustain the fabric in which global projects become possible. Local Dks help keep that knowledge, general reputation receives part of that history with the local context that gives it meaning, and the global Dk sees the value of each scale.
 
 Reputation can influence scarce capacity and responsibility. It cannot define human worth, membership or the right to exist.
 
 One kind of reputation works differently: the reward. Whoever contributes capacity, such as computing lent to the network, and whoever finances the network receive a reputation that can be passed on and that gives faster or priority access to resources. It is the only transferable reputation. It carries no governance weight and never weighs in members' constitutional choices, which remain weighted by the reputation that is not transferred.
 
-Dk Global inherits the reactivity of its members and does not erase it; what is learned from it stays recorded. The use reputation of that material comes only from what it teaches as perspective, without being taken as the real. The weighting weighs reasons, not volume: an impulse that arrives without reasons enters as a signal, not as a direction.
+The global Dk inherits the reactivity of its members and does not erase it; what is learned from it stays recorded. The use reputation of that material comes only from what it teaches as perspective, without being taken as the real. The weighting weighs reasons, not volume: an impulse that arrives without reasons enters as a signal, not as a direction.
 
 ### Rights are not prizes
 
-The economy of capacity begins with a constitutional separation. Some things follow from being a member: base representation by Dk Personal, continuity of identity, and the possibility to learn, take part, form relations, contribute and contest. Others depend on trust, scarcity and responsibility. As material capacity grows, a growing base of essential needs crosses that line and becomes a right sustained by the whole, as the common floor of possibility. Priority over scarce capacity results from the full context: who needs it and how urgently, what project asks, what impact it promises, what history and trust it has, and what competence it has for the requested use.
+The capacity economy begins with a constitutional separation. Some things follow from being a member: base representation by the personal Dk, continuity of identity, and the possibility to learn, take part, form relations, contribute and contest. Others depend on trust, scarcity and responsibility. As material capacity grows, a growing base of essential needs crosses that line and becomes a right sustained by the whole, as the common floor of possibility. Priority over scarce capacity results from the full context: who needs it and how urgently, what project asks, what impact it promises, what history and trust it has, and what competence it has for the requested use.
 
 ### Collusion and capture
 
 Any measure that grants access invites people to optimize the measure instead of the work, and groups can validate one another. The defence follows from how contextual reputation grows: by proving valid against other information and in the real world. Validation therefore counts by its independence. Its weight falls when it comes from people who only validate one another, and rises when it comes from distant, independent contexts and from tests in the physical world. Dk looks for echo in the graph of validations as it does in knowledge.
 
-The same defences hold against poisoning, when coordinated sources fabricate patterns for Dk Global to learn from. Each UID corresponds to one living person, which keeps crowds of fake accounts out of the network ([UID](https://uid.drayker.org)). A pattern learned from personal Dks gains weight only as it is validated independently in more instances ([Dk Personal](https://personal.drayker.org)). The triage of the veto chain detects coordinated vetoes and fabricated grounds, the echo in the graph of validations lowers the weight of groups that only validate one another, and the detection of anomalous behaviour is a security requirement of [Dk Network](https://dknetwork.drayker.org). What lies beyond the independence of contexts remains an open question ([What this does not solve](../dk/constitutional-alignment.md#what-this-does-not-solve)).
+The same defences hold against poisoning, when coordinated sources fabricate patterns for the global Dk to learn from. Each UID corresponds to one living person, which keeps crowds of fake accounts out of the network ([UID](https://uid.drayker.org)). A pattern learned from personal Dks gains weight only as it is validated independently in more instances ([personal Dk](https://personal.drayker.org)). The triage of the veto chain detects coordinated vetoes and fabricated grounds, the echo in the graph of validations lowers the weight of groups that only validate one another, and the detection of anomalous behaviour is a security requirement of [Dk Network](https://dknetwork.drayker.org). What lies beyond the independence of contexts remains an open question ([What this does not solve](../dk/constitutional-alignment.md#what-this-does-not-solve)).
 
 Proven collusion is misconduct, not failure: it sits with fraud, not with honest error, and the [DAF constitution](https://github.com/draykerdk/daf/blob/master/dafp/daf-000-federation-constitution.md) already sanctions it (DAF-000 §7).
 
