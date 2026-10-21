@@ -91,7 +91,7 @@ PAP (Projects & Applications), UID as the super app, Distributed Support, and th
 
 **State: future.**
 
-The personal Dk (the agent that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
+The personal Dk (the intelligence that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
 
 *Exit condition:* a person can form, contribute and be attributed through the platform.
 
