@@ -24,7 +24,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 5804
+      "bytes": 7087
     },
     {
       "path": "papers/main-projects/dk/README.md",
@@ -87,7 +87,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 10534
+      "bytes": 12462
     },
     {
       "path": "papers/main-projects/dk/constitutional-alignment.md",
@@ -96,7 +96,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 21412
+      "bytes": 22486
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -114,7 +114,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 16246
+      "bytes": 16719
     },
     {
       "path": "papers/main-projects/dk/uid-dkapp.md",
@@ -132,7 +132,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3779
+      "bytes": 3767
     },
     {
       "path": "papers/main-projects/ecosystem/dk-academy.md",
@@ -150,7 +150,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 5392
+      "bytes": 6191
     },
     {
       "path": "papers/main-projects/ecosystem/support-model.md",
@@ -159,7 +159,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3039
+      "bytes": 4036
     },
     {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
@@ -168,7 +168,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 14335
+      "bytes": 16806
     },
     {
       "path": "papers/main-projects/ecosystem/will-to-potential.md",
@@ -258,7 +258,7 @@
       "language": "en",
       "kind": "roadmap",
       "state": "historical",
-      "bytes": 12853
+      "bytes": 13221
     },
     {
       "path": "roadmap/global-main-roadmap.md",

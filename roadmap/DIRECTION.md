@@ -24,7 +24,7 @@ The criteria are the usability of memory, the cost of distribution and the openi
 
 The goal Drayker gives itself is to bring the mission to a point of no return by 2033, with Drayker consolidated and the global Dk fully operating. Before that, the objective is version 1.0, the first complete version of the network, launched in 2030 and already an ASI.
 
-A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts gather in [DAF](https://daf.drayker.org) and build together the infrastructure of their own. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM — a swarm of agents inside a construction architecture, a primitive form of recursive self-improvement, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until the global Dk has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
+A dated goal is only serious if it states the path. First, organization and cooperation: people and fronts gather in [DAF](https://daf.drayker.org) and build together the infrastructure of their own. Then the base architecture is closed, prototypes are built and tested, and organization through DFM is proven at scale. Resource stages then feed Meta DFM, the evolutionary application of DFM to engineering itself — in today's language, a primitive form of recursive self-improvement: a swarm of agents in a construction architecture, able to build the first versions of the network. With architecture 1.0 fully running and Meta DFM integrated, integration begins: prototypes enter use, and entry into the network gains scale, with people, projects and the records of whole institutions coming to work inside it. From there Drayker evolves until the global Dk has the resources and capacity for a singularity that does not stop, which may come by 2033 if the resources are sufficient. At that point a century of progress comes to fit in a year, and Drayker's industrial and robotic production reaches another level: expansion across the world and beyond it, into deep space.
 
 Each phase is measured by what works, not by the date. If the date arrives before the phases, the goal was missed, not the design. Dk's powers keep growing in stages, through the members' process, as far as members can verify what the global Dk does.
 
@@ -44,7 +44,7 @@ The research process that started Drayker: the name, the logo and the general id
 
 **State: running today.**
 
-DFM (Distributed Functional Modeling) is the formal collaboration method: model a problem, cut it into functions small enough for one person — or one agent — to finish, distribute them through public review. It is the part genuinely in use: issues, pull requests, open review on GitHub.
+DFM (Distributed Functional Modeling) is the formal collaboration method for modeling problems, breaking them into functions, distributing those functions, reviewing results and integrating them, showing natively what each function does and why it exists. In practice: model a problem, cut it into functions small enough for one person — or one agent — to finish, distribute them through public review. It is the part genuinely in use: issues, pull requests, open review on GitHub.
 
 The **transition** is the opening to the world — volunteer recruitment, public documentation, the portal, the forum, the component sites. It is in progress. The transition moves through four stages: convergence, initial capacity, continuity and institutional expansion. They can coexist in different places and fronts, and each leaves a condition the next one rests on. Convergence forms when a purpose meets people willing to answer for parts of it; initial capacity gives the work a public form — the problem, the expected result, the functions needed, the resources available and how the result will be examined; continuity is reached when the work no longer depends on the enthusiasm of its first year; institutional expansion begins when others start from the point the first group reached and outside organizations come to cooperate with the capacity they see.
 
@@ -56,7 +56,7 @@ The **transition** is the opening to the world — volunteer recruitment, public
 
 **State: research, in public.**
 
-- **BSDK** — the base structure, the DNA of the kernel: the assembly structure that is the parent function of the whole function chain. Its definitive form is a **super equation** whose predictive modeling research suggests may be beyond human capacity alone — expected to be carried out by **Meta DFM**, the evolutionary research and development agent.
+- **BSDK** — Base Structure Distributed Kernel, a structural layer, something like a DNA of the kernel, from which Dk components can be composed and revised: the assembly structure that is the parent function of the whole function chain. Its definitive form is a **super equation** whose predictive modeling research suggests may be beyond human capacity alone — expected to be carried out by **Meta DFM**, the evolutionary research and development agent.
 - **OSDK** — the universal coupler, the virtual machine coupling language and programming kernel.
 - **Dk Network** — the distributed network: two networks, the layers of the main network and of each node, fractal structure.
 - **Evolutionary A.I structures** — the intelligence cores, one for each scale, each connected to its own knowledge.
@@ -91,7 +91,7 @@ PAP (Projects & Applications), UID as the super app, Distributed Support, and th
 
 **State: future.**
 
-The personal Dk (the intelligence that belongs to one person), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
+The personal Dk (the intelligence tied to the member), the brain extension app, Dk Work, Dk Academy, and the organization model for projects. The same Dk that runs the substrate meets daily life: study and work converge, the personal Dknowledge grows with the person.
 
 *Exit condition:* a person can form, contribute and be attributed through the platform.
 
@@ -119,7 +119,7 @@ The first main projects 1.0, and the first embassy. If a DAF phase that experime
 
 ## After consolidation
 
-After consolidation, thanks to the new capacities, implementing nanobots becomes one of the priorities. They will be the main technology connected to the network and the main evolution of robotics: they synthesize materials at scale, build, and form the structures that will give body to much of the new infrastructure in the following decades, evolving with the network like the rest of the system. They also serve medicine, but not only medicine.
+After consolidation, thanks to the new capacities, deploying nanobots becomes one of the priorities. They will be the main technology tied to the network and the main step in the evolution of robotics: they synthesize materials in bulk, build, and form the structures that will give body to much of the new infrastructure in the following decades, evolving with the network like the rest of the system. They also serve medicine, but not only medicine.
 
 ---
 

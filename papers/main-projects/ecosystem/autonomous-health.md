@@ -2,7 +2,7 @@
 title: "Autonomous Health — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-21
+reviewed: 2026-10-25
 ---
 
 # Autonomous Health
@@ -11,13 +11,13 @@ This is the current public formulation of Autonomous Health in relation to the w
 
 ## Systemic role
 
-Autonomous Health is the health system of Drayker: an artificial intelligence health system integrated with each member's [UID](https://uid.drayker.org), [personal Dk](https://personal.drayker.org), personal [Dknowledge](https://dknowledge.drayker.org) and devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
+Autonomous Health is Drayker's health system, supported by artificial intelligence and integrated with the [UID](https://uid.drayker.org), the [personal Dk](https://personal.drayker.org), each person's [Dknowledge](https://dknowledge.drayker.org) and their devices. Its purpose is that a person can follow their own health, prevent disease and receive accompanied, optimised and personalised treatment, so they can live longer and better, accessibly, with access to frontier research and discoveries.
 
-For every active member, Autonomous Health is the form the common floor of possibility takes in health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by creating their own UID.
+In health, the common floor of possibility that holds for every active member takes the form of a system of its own, Autonomous Health ([Distributed Support](./support-model.md)). Treatments, technologies and knowledge reach non-members as resources exchanged with the outside world; the distribution system itself is among members, and anyone can become a member by creating their own UID.
 
 ## Detection by patterns
 
-The system relates what a person's personal Dk, personal Dknowledge and devices already know about them. When a pattern may be connected to a condition with sufficient probability, it is investigated to find out whether something is there. Besides saving lives, every investigation improves the multifactor detection of every kind of condition, through patterns no one would have thought to look for, and makes it more precise over time.
+The system relates what a person's personal Dk, personal Dknowledge and devices already know about them. When a pattern is likely enough to be linked to some condition, it is investigated to find out whether something is there. As well as saving lives, this improves the detection of every kind of condition through multiple factors, from patterns we cannot even imagine, and makes it ever more precise.
 
 The data belong to the member. What enters an investigation is what the member authorises their personal Dk to share.
 
@@ -29,7 +29,7 @@ Every clinic, hospital or organisation that uses the system has an organization 
 
 ## Open research
 
-Autonomous Health is joined to a research layer for biology and medicine, where researchers anywhere can share their studies and develop them with others, with partnerships with universities ([Open Science](https://science.drayker.org)). Volunteers can choose what is stored and processed on their own resources. Contributing that capacity earns the reward, the one transferable kind of reputation, which can give faster or priority access to resources.
+Autonomous Health is joined to a research layer for biology and medicine, where researchers anywhere can share their studies and develop them with others, with partnerships with universities ([Open Science](https://science.drayker.org)). Volunteers can choose what is stored and processed on their own resources. Contributing that capacity earns the reward, the only transferable reputation, which gives faster or priority access to resources.
 
 ## What is not decided
 
