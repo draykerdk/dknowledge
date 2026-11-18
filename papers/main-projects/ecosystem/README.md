@@ -9,6 +9,7 @@ This collection publishes the current confirmed formulation of each economic and
 - [Capacity economy](./value-management-ecosystem.md) — Dknowledge, Dk synthesis and allocation, member veto, reputation, scarcity and abundance.
 - [Will to Potential](./will-to-potential.md) — automation, learning, different human trajectories and increasing member capability.
 - [Autonomous Health](./autonomous-health.md) — the AI health system integrated with UID, personal Dk, personal Dknowledge and devices; pattern detection and open research.
+- [Support stations, centers, and embassies](./support-stations.md) — city-level stations without sovereign territory requirements vs bilateral embassies with housing and ocean zones; Main Fund vs Support Fund separation.
 
 ## Interpretation rule
 

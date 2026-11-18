@@ -21,8 +21,8 @@
 - Dk can synthesize relations held in Dknowledge; systemic safeguards — constitutional constraints, security, permissions, integrity, reserves and risk — bound what can be executed; inside the constitution, the global Dk decides and executes allocations autonomously, and members can make a well-justified veto, which obliges review.
 - Decisions do not end the loop: effects, refusals and consequences return through members' personal Dks as new evidence; a decision can be maintained, adapted, excepted, suspended or reversed.
 - Security conditions normal decisions, not only attacks. Legitimate criticism is not infiltration; internal error is not sabotage; extraordinary measures leave memory for later review.
-- The current ecosystem papers define Distributed Support, Dktron, the capacity economy, Will to Potential and Autonomous Health in relation to the whole system.
-- The current Dk papers are Dknowledge, Constitutional alignment and Supersystems and the choice of intelligence.
+- The current ecosystem papers define Distributed Support, Dktron, the capacity economy, Will to Potential, Autonomous Health, and Support Stations in relation to the whole system.
+- The current Dk and organization papers cover Dknowledge, Constitutional alignment, Supersystems, Meta DFM and the chain of trust, Spectral category theory, BSDK and DFM, Dk Network, Interface and Rayke, Living cryptography, OSDK, PAP, UID and DkApp, and DAF.
 
 ## Crawling and citation
 

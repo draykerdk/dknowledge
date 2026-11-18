@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source": "Generated from the committed repository by tools/build-catalog.js",
   "counts": {
-    "documents": 51,
-    "papers": 18,
-    "open_shells": 8,
+    "documents": 53,
+    "papers": 20,
+    "open_shells": 0,
     "languages": 1
   },
   "documents": [
@@ -24,7 +24,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 7451
+      "bytes": 8037
     },
     {
       "path": "papers/main-projects/dk/README.md",
@@ -33,7 +33,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 2537
+      "bytes": 4034
     },
     {
       "path": "papers/main-projects/ecosystem/README.md",
@@ -42,7 +42,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 1735
+      "bytes": 1959
     },
     {
       "path": "papers/main-projects/organization/README.md",
@@ -51,7 +51,7 @@
       "language": "en",
       "kind": "guide",
       "state": "current",
-      "bytes": 838
+      "bytes": 1101
     },
     {
       "path": "papers/main-projects/README.md",
@@ -90,6 +90,24 @@
       "bytes": 12467
     },
     {
+      "path": "papers/main-projects/dk/ap-platform.md",
+      "href": "/papers/main-projects/dk/ap-platform.html",
+      "title": "Project and Application Platform (PAP)",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 4163
+    },
+    {
+      "path": "papers/main-projects/dk/bsdk-dfm.md",
+      "href": "/papers/main-projects/dk/bsdk-dfm.html",
+      "title": "BSDK and DFM",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 5416
+    },
+    {
       "path": "papers/main-projects/dk/constitutional-alignment.md",
       "href": "/papers/main-projects/dk/constitutional-alignment.html",
       "title": "Constitutional alignment",
@@ -99,6 +117,15 @@
       "bytes": 22778
     },
     {
+      "path": "papers/main-projects/dk/dk-network.md",
+      "href": "/papers/main-projects/dk/dk-network.html",
+      "title": "Dk Network",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 5771
+    },
+    {
       "path": "papers/main-projects/dk/dknowledge.md",
       "href": "/papers/main-projects/dk/dknowledge.html",
       "title": "Dknowledge: memory that can be examined and corrected",
@@ -106,6 +133,51 @@
       "kind": "paper",
       "state": "draft",
       "bytes": 3848
+    },
+    {
+      "path": "papers/main-projects/dk/interface.md",
+      "href": "/papers/main-projects/dk/interface.html",
+      "title": "Interface and Rayke",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 4115
+    },
+    {
+      "path": "papers/main-projects/dk/living-cryptography.md",
+      "href": "/papers/main-projects/dk/living-cryptography.html",
+      "title": "Living cryptography",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 3337
+    },
+    {
+      "path": "papers/main-projects/dk/meta-dfm.md",
+      "href": "/papers/main-projects/dk/meta-dfm.html",
+      "title": "Meta DFM and the chain of trust",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 6208
+    },
+    {
+      "path": "papers/main-projects/dk/osdk.md",
+      "href": "/papers/main-projects/dk/osdk.html",
+      "title": "OSDK",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 3443
+    },
+    {
+      "path": "papers/main-projects/dk/spectral-category-theory.md",
+      "href": "/papers/main-projects/dk/spectral-category-theory.html",
+      "title": "Spectral category theory and functional ontologies",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 5301
     },
     {
       "path": "papers/main-projects/dk/supersystems.md",
@@ -162,6 +234,15 @@
       "bytes": 4036
     },
     {
+      "path": "papers/main-projects/ecosystem/support-stations.md",
+      "href": "/papers/main-projects/ecosystem/support-stations.html",
+      "title": "Support stations, centers, and embassies",
+      "language": "en",
+      "kind": "paper",
+      "state": "draft",
+      "bytes": 3603
+    },
+    {
       "path": "papers/main-projects/ecosystem/value-management-ecosystem.md",
       "href": "/papers/main-projects/ecosystem/value-management-ecosystem.html",
       "title": "Capacity economy",
@@ -180,76 +261,13 @@
       "bytes": 2981
     },
     {
-      "path": "papers/main-projects/dk/ap-platform.md",
-      "href": "/papers/main-projects/dk/ap-platform.html",
-      "title": "AP Platform",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 131
-    },
-    {
-      "path": "papers/main-projects/dk/bsdk-dfm.md",
-      "href": "/papers/main-projects/dk/bsdk-dfm.html",
-      "title": "BSDK-DFM",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 128
-    },
-    {
-      "path": "papers/main-projects/dk/dk-network.md",
-      "href": "/papers/main-projects/dk/dk-network.html",
-      "title": "Dk Network",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 130
-    },
-    {
-      "path": "papers/main-projects/dk/interface.md",
-      "href": "/papers/main-projects/dk/interface.html",
-      "title": "Interface",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 129
-    },
-    {
-      "path": "papers/main-projects/dk/living-cryptography.md",
-      "href": "/papers/main-projects/dk/living-cryptography.html",
-      "title": "Living Cryptography",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 139
-    },
-    {
-      "path": "papers/main-projects/dk/osdk.md",
-      "href": "/papers/main-projects/dk/osdk.html",
-      "title": "OSDK",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 124
-    },
-    {
-      "path": "papers/main-projects/ecosystem/support-stations.md",
-      "href": "/papers/main-projects/ecosystem/support-stations.html",
-      "title": "Support Stations",
-      "language": "en",
-      "kind": "paper",
-      "state": "open",
-      "bytes": 136
-    },
-    {
       "path": "papers/main-projects/organization/daf.md",
       "href": "/papers/main-projects/organization/daf.html",
-      "title": "DAF: Distributed Autonomous Federation",
+      "title": "Distributed Autonomous Federation (DAF)",
       "language": "en",
       "kind": "paper",
-      "state": "open",
-      "bytes": 158
+      "state": "draft",
+      "bytes": 4775
     },
     {
       "path": "roadmap/DIRECTION.md",
