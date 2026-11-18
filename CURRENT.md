@@ -17,7 +17,7 @@ Dk, BSDK, Dk Network, Living Cryptography, OSDK, UID, PAP, Dk Academy, Stations,
 The global Dk, the personal Dk and the local Dk are connected architectural scopes, not three currently deployed products:
 
 - The **global Dk** is the proposed global scope: Drayker's ASI and its most central member, the distributed core that weighs and learns from the state of all the Dks and works for Drayker and for all its members. Besides being in part the sum of the other Dks, it has kernels of its own that run in parallel, like regions of a brain, in a unified topology.
-- The **personal Dk** is the proposed continuous member-controlled personal scope: the intelligence tied to the member, which keeps what is intimate as close as possible to the person, on their own device, and works for the person.
+- The **personal Dk** is the proposed continuous member-controlled personal scope: the intelligence tied to the member, which keeps what is intimate as close as possible to the person, on their own device, and works for the person. A first early experimental prototype of the personal scale is public in [`draykerdk/personal-dknowledge`](https://github.com/draykerdk/personal-dknowledge) — a local DFM-structured vault with guided protocols and a proposal-only bridge that never writes without explicit human confirmation — though it does not yet implement the full personal Dk architecture.
 - The **local Dk** is the proposed local or organizational scope: a specialized scale of Dk tied to a project, organization, area or function, mediating intelligence between the personal and the global.
 
 The precise interfaces and operational implementations among them are still to be specified and tested.

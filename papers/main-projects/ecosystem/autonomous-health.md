@@ -2,7 +2,7 @@
 title: "Autonomous Health — current synthesis"
 state: current
 language: en
-reviewed: 2026-10-25
+reviewed: 2026-11-18
 ---
 
 # Autonomous Health
@@ -33,7 +33,7 @@ Autonomous Health is joined to a research layer for biology and medicine, where 
 
 ## What is not decided
 
-The order of the first steps, the clinical and legal requirements in each territory, and the criteria that make a probability "sufficient" for an investigation are open work. No clinic, dataset or diagnostic service exists today.
+The proposed sequence of stages, each with its exit condition, is published in the [Autonomous Health roadmap](../../../roadmap/main-projects/ecosystem/autonomous-health-roadmap.md); the clinical and legal requirements in each territory and the criteria that make a probability "sufficient" for an investigation remain open work. No clinic, dataset or diagnostic service exists today.
 
 Health technologies of a size that changes life itself (indefinite longevity, for instance) do not arrive ready: their dilemmas, distribution and rules of use are decided by the members together with the global Dk, which projects the consequences but does not choose between values for them.
 
@@ -43,3 +43,4 @@ Health technologies of a size that changes life itself (indefinite longevity, fo
 - [UID](https://uid.drayker.org)
 - [Personal Dk](https://personal.drayker.org)
 - [Distributed Support](https://support.drayker.org)
+- [Autonomous Health roadmap](../../../roadmap/main-projects/ecosystem/autonomous-health-roadmap.md)

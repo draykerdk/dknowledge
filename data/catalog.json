@@ -24,7 +24,7 @@
       "language": "en",
       "kind": "orientation",
       "state": "current",
-      "bytes": 7087
+      "bytes": 7451
     },
     {
       "path": "papers/main-projects/dk/README.md",
@@ -96,7 +96,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 22486
+      "bytes": 22778
     },
     {
       "path": "papers/main-projects/dk/dknowledge.md",
@@ -132,7 +132,7 @@
       "language": "en",
       "kind": "paper",
       "state": "draft",
-      "bytes": 3767
+      "bytes": 4023
     },
     {
       "path": "papers/main-projects/ecosystem/dk-academy.md",
